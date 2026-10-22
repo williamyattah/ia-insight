@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T05:18",
+ "updated": "2026-10-22T05:21",
  "metiers": [
   "Marketing",
   "Insights",
@@ -18,6 +18,14 @@
   "Industrie"
  ],
  "articles": [
+  {
+   "t": "",
+   "u": "https://mastodon.social/@akerix/117482867363303707",
+   "o": "Mastodon #IA",
+   "ts": 1792646291.0,
+   "m": [],
+   "s": []
+  },
   {
    "t": "58 équipes technologiques des secteurs de la finance et de la banque s'affrontent pour défendre leurs systèmes contre une vague de cyberattaques. - Vietnam.vn",
    "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUkFCMGZFUHVWQjJ0M1B5S09QdW0zU1lKTDV6ZnZQZjZQRVNYQnplYTFNNU54WnRZWmtUbjUyM3M2dFJwQmdsMG00Mncwb1NDbUVsTThJRzBxUkp2dTIxbFNpYlhTNUM0NmRzNGFuNnpaWTZiUzBZaU4yNllPeV94YjFYUGhwODlPLUF5WDJWQy1CUG9FTWIyRFZRT2N3YkJzVXV1MkNtUXRvOUlrcEtCLS12Q1luUFNH?oc=5",
@@ -4041,16 +4049,6 @@
    "m": [],
    "s": [
     "Automobile"
-   ]
-  },
-  {
-   "t": "Emmanuel Macron à Nice : inauguration de Bharat Innovates et rencontres bilatérales - https://horticulture-abadie-pyrenees.com/",
-   "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15cC00X1pfU3poSjJ0QmY2ejZ2S0NMMkgzUUNLZ19ENm44bDdGS3dGcHdzbDlhZFhobXB5czQ4ektvd0hvaDkwbmZ0NGNBeFFES2dBRjRWbHpQRDk0dWZFTzIyWGtrNHVONmhKbWZ6dDE?oc=5",
-   "o": "https://horticulture-abadie-pyrenees.com/",
-   "ts": 1792397803.0,
-   "m": [],
-   "s": [
-    "Énergie"
    ]
   }
  ]
