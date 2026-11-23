@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T12:56",
+ "updated": "2026-11-23T15:30",
  "metiers": [
   "Marketing",
   "Insights",
@@ -20,11 +20,1384 @@
  "articles": [
   {
    "t": "",
+   "u": "https://mastodon.social/@iainfo/117666445211594747",
+   "o": "Mastodon #IA",
+   "ts": 1795447467.0,
+   "m": [],
+   "s": []
+  },
+  {
+   "t": "Dette mondiale : Etats, ménages, entreprises, secteur financier… tout le monde est endetté - Investir Les Echos",
+   "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeFJwd1EwMmMzenF5QTdRR3Zqdk9DcmFILUVJNlJLOURjZHF2U1VMTzRrZ2xvbktsZ2c2ZVhWSFJqUVhOY2s3YS1rZVhuNDYzMklfRlowWWRERU45RDhsMUpqNHd4TGpYeHlpeUJpUHB1dk5fMXMwdDJHa050MHNDYUtQOXRtMlBheXZaVjBJa29wRWxCWkp0UTZNU18xci1BcGJrQ1ZVRWstOEpoUjVES3dSUmllUHhmV2cwdzlrNzl4bWw1ZHZmNld6dGJLdDZ4TlNJcUlmNXZTaUtQUzEzb1ZuRHk?oc=5",
+   "o": "Investir Les Echos",
+   "ts": 1795446923.0,
+   "m": [],
+   "s": [
+    "Banque & assurance"
+   ]
+  },
+  {
+   "t": "Siri : avant d’utiliser un agent IA pour sa banque - App4Phone",
+   "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZHF6a2MzUlhGMm4wSWVrdllxSkZUalZ1N1N3YnlCNzJnaXVpQ1hjWGlVNjBockJOV21DSTYyTkVrczBfal9kenNMbU9wS1BfOEdiQlJFM2gwZmhmWlkxSHpBcEZtNTFaSVc5Ti1QOC02dGZWVDd5WWt2cWd2MVJUTTl0cndsdFJn?oc=5",
+   "o": "App4Phone",
+   "ts": 1795446849.0,
+   "m": [],
+   "s": [
+    "Banque & assurance"
+   ]
+  },
+  {
+   "t": "Startups et chercheurs : Nexans Maroc lance un nouvel appel à l’innovation industrielle - Industrie du Maroc",
+   "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNVd2TU1UWW9hTjZhWGd4anZMS2ZDVjBxbUdaZHd3MVBXSmNjQXFzdTFKZnQxYUVjSUJZV2NkTEp6X094NWt6dTV1eFNsSWVFQlZmcTFLZ0FJYUlQU0hxanpvRkNneWw2TUpicV91VFNRczc1QkdkQi1ZM1NTRUR6MDM0UzRaYXpQT2NqSEgyVEtRdjhKRVlqXzltLWpkckRLV0dZZzJDU2w1NjQ?oc=5",
+   "o": "Industrie du Maroc",
+   "ts": 1795445364.0,
+   "m": [
+    "Innovation"
+   ],
+   "s": [
+    "Industrie",
+    "Énergie"
+   ]
+  },
+  {
+   "t": "Nvidia : Jensen Huang redevient PDG, pourquoi la Bourse s’emballe - Kingofgeek",
+   "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcG1OejBDYVhyRl9NTFVUck9ad096Y1JNS202VXRVLVcyT01UOElsSEI0dndCblU0VjdvMm9rbV9wcFBQcHEzMHRsNVhNbFFwM2ZSb1A1SVZZbTN4UGYxRUo0V1JiY0FvdGFXaVliOFNPZHpwUDUtZDJONkR3S0dqalJjbTJEVzQzTnhQTVl6cU5PNkNf?oc=5",
+   "o": "Kingofgeek",
+   "ts": 1795445304.0,
+   "m": [
+    "Direction générale"
+   ],
+   "s": []
+  },
+  {
+   "t": "Nexans Maroc lance la troisième édition de son Innovation Challenge - lnt.ma",
+   "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQR2xLN3ZBVGlTREw0ejNPUDk0blZvQmpXdlVxeXp4RGZwMjRiUFF3OFBvRlYwRC1Pb0hQdGJBTU1Dc0p2cTlRQ0JJR1ZmX1dxVWpyYzg2aGVmcUlHaWlKeWZ6UVMyREhPNEhjQUxlQ2xlb3RkRDNBanpkWEVzRDMzMTNWWHpyRFYwY3R3?oc=5",
+   "o": "lnt.ma",
+   "ts": 1795444911.0,
+   "m": [
+    "Innovation"
+   ],
+   "s": [
+    "Énergie"
+   ]
+  },
+  {
+   "t": "PLFSS 2027 : le Sénat supprime les taxes sur les groupements et les dispositifs médicaux - Le Moniteur des pharmacies",
+   "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOcC1VVUV5ZnVvTHlBcTgyZHRrZ3YyUVlkeV9vajRzTFZjaHZRekNkNHRqdE5rY01ueFRRdDJ2aWU5X01EbHl0S3N0RkxObmlTTkNJVlYzaklZWkFjaFNpTWZvTWlKOWY1ZzVHaGt5ZGpoVUo3c3VDM244VUJINmxSTWZlY2FRb2VINFloZ2lNbFF5NEh2ZUFnSmt3cVJRNHBMNmpUbmU1NUl6M3VxZkU1dHh5dlpJVk0zS3d4RkZKZmpxLUxGelRxX2M4bjIxdVB3VkItMC1NVjRhNnAzTVRGeFpQa05wdGROUGZZVQ?oc=5",
+   "o": "Le Moniteur des pharmacies",
+   "ts": 1795444650.0,
+   "m": [],
+   "s": [
+    "Santé & pharma"
+   ]
+  },
+  {
+   "t": "Nvidia réintègre Jensen Huang au poste de directeur général sous la pression du président Trump et des investi - Boursorama",
+   "u": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQLTl3RDVJUG90bFdTNnJaOG1Yd0RxQU1DYXlHQno5eVJSVE5ZN0ZTQ2Z3a19COTQ1TGlPaFpvSGFDM0pkNDVJMTQwdVM3Vk1sUWNGa3VzelNCNG9hWVpkT0hqTmRZbVNKbGo5YVZiVEVfVjN2azdDandRd1RselpDOUY1WHZnaGNzTHNQZTNYWFJNR3daa0poZzZUQWJxRGp6eFd0Wi1YckxkZGMzZDhLRDlIWVhnYjJSbWJwQS1EaERlVk03N2k4SVRTV1REcWlKUl9ycTgyMDFxYU5Ra09xTmVXYUdfeFZfX2lNMEpmT3oxazQ5U01xY3dFOFlzNk50N1M1NDVsdFZsQ3NxaF9JbG1tYjdGSlFYVkVKd0RJc9IBpAJBVV95cUxNdExXTHI4UjN5bkM3RjI1X21BcXg5VkxrQTZJX0xIckloZEl6bEtieDYyOHNlMlZoay1GYnJ2ZmhraGUtWGtLYlFzRXBMc0FmbDdqU09iaDlpN195RENWQ1ozVjFaZjFLTGFCUW9fQ3JFNEI2V0xwenJ4b1JGeEh4LWV0LVU2Y2w3Y0ZJN0FmVmtpTGpFRV83d216UzNWc2pSTGI2d19SQ0h6aXRUU3F5NnJRVDZVV2ZIVEFZUzh2WFVaWXo5d2RUdW02N2hFVzBPQUJfbnpaM3hJa01zeGpUMUh0VUhGWWZ5eVFBdzN4NmhNbXAzNkRDSVR3VU5LQzMyMTl3WEV0d0o5N1ZTTmxxbkZZUmdjVEkwNXVsYXBoSXhScnlw?oc=5",
+   "o": "Boursorama",
+   "ts": 1795444281.0,
+   "m": [
+    "Direction générale"
+   ],
+   "s": []
+  },
+  {
+   "t": "Nvidia : Jensen Huang reprend la direction de l’entreprise après onze jours de crise - Mon Carnet – de l'actualité numérique",
+   "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRi1Dd2pjUG9CRnVYaldoVWxLUFhrS2NUQlhRaWJBRnYwbVRJbU9kWWtreE55MXhJMDkyX0wycWs4d1ZGRkdHY0NqNTBfdkhjYnpDSXBuc3BZZDJ4c09IbVdGSDhRNEJVVEpXaUhTUWhCamx0aVhwY29sS1k5eTR6RHhIYTBYOWZidVR2c0FxZG5BSEQtWS1IZjRFY3paaXkyV0ROUkRFdnEzb2xOYmtUdGtEcUh6UQ?oc=5",
+   "o": "Mon Carnet – de l'actualité numérique",
+   "ts": 1795443796.0,
+   "m": [],
+   "s": [
+    "Industrie"
+   ]
+  },
+  {
+   "t": "Inde : les cyberfraudes aux paiements s’étendent aux prestataires technologiques - Webmanagercenter",
+   "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWHNDUnA0THpTSjcyQVF6UVQ5ZU9CU2d1aWxtazh2NXFHcE44WUQyaVNId3pHa19FMV8yYXBQMUpucnBQTXBXcV80c3JLTXUzTGk5bm5lVlVqdUdXanB4UTBnWEt3RF9MaGk1QU9jLVlmamhIc1AyeHVaMk1kSUxNdjU5OF9hUkh6MDlMX2RZT044Zzd4Q0ZpdFYwNGxxUk5WYzVzVE9xNnFjX2RaOW5XcmRMTFRmN28ybmNETURoWUhpMWhWZ2hDMA?oc=5",
+   "o": "Webmanagercenter",
+   "ts": 1795443400.0,
+   "m": [],
+   "s": [
+    "Banque & assurance"
+   ]
+  },
+  {
+   "t": "Carine Wolf-Thal : « Les pharmaciens doivent prendre leur place dans le maintien à domicile » - Le Moniteur des pharmacies",
+   "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSFk4amxGcGlhVUpJNUc2SlpFTkV5T25seXUxUjBjZ01TRXVSN3dkcklsaDM0eDRxUkRYbzlPU2FxMjhoQUNrRUI1dmZWZjAwNnVRUVZRZDQ5ZXpyVW9xZHVtTmVES20yVG9ZdHBXeU9mT0dXaDlnUl9sQkU0d3FNUTdNRldnVi1SZ1ZtSkIzbWJuc21qLTBjeWMyZGJBc3FTYm5qcWxmdEhhMk83d2wtblJVdVliUERhMlJpU1NfYWhRam8zY0FkWHhySHdOYnVrQmE5am40c3otd3o4TEo0?oc=5",
+   "o": "Le Moniteur des pharmacies",
+   "ts": 1795442984.0,
+   "m": [],
+   "s": [
+    "Santé & pharma"
+   ]
+  },
+  {
+   "t": "Une délégation de l’IUT Henri Poincaré de Longwy à la 4ᵉ école thématique de Tamount - Université de Lorraine",
+   "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeV9WaV9mZXM2dERaMWE1YmY4czkyM2JrMVp3ZG95bUJBZE54cl80V2RPZ016NFR2TG1vM25XUDhtdUpOVXdOcWU1TncxREZmYzU2ZERnT0p0NjFDOXN4RHhVaUY3OV9ubkQxM2gxTkVFQkZOZzNVMnJuUGlvRjU5ZWIzVm9heS1ZeG1BR3NCMXFOamFPeWl4NlpLQURHQTVGUm0yNUljNWhJMy1JNGw3ejNSOVRaUloySWJXWUt2S2NIeHRCcDJXQWl3V1c1UQ?oc=5",
+   "o": "Université de Lorraine",
+   "ts": 1795442930.0,
+   "m": [],
+   "s": [
+    "Énergie"
+   ]
+  },
+  {
+   "t": "Visa veut faire travailler votre agent IA contre des stablecoins - Cryptoast",
+   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9STThlYkxacFFqQURyUUdqdjVvaHRFZkxXdGhoNzNKRTBzZm84YV9Ia0QwamhJUE1yU0MtX09IanQ2cE80dlVzLWNJdzJjN3V1ajZ1N29JbWo1YS05NW9VRmxkU0U4el9G?oc=5",
+   "o": "Cryptoast",
+   "ts": 1795442611.0,
+   "m": [
+    "Études de marché"
+   ],
+   "s": []
+  },
+  {
+   "t": "À guichets fermés, la CPSC 2026 réunira plus de 300 conférencier.e.s à Ottawa pour la plus grande conférence canadienne sur les politiques scientifiques et d'innovation - Les Affaires",
+   "u": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNYkQwMzRBZVJoQk14R01YQkRremh4cko5cUVuQmp0eEhzcm91VFI4Y01BOHBoMHZuQUtpTlIxeGNlejNMdmxmRFdfRHhuZThWMlZneDN5b0dHYU1ZOWRzUDNZODJIcW05NUhfY0JCNjgyR3lIZFRWVDZqVVg1cS1MRExrX3FiSGdJcUJJRlZsck5WSDZ0TElkbjJxdFBwUDI5RnR0anQta2hpVjYwdjF5SXNDUnBIbDNDUlVsXzU0N0RHemJCVWZpV2w4YXJRUy1IWnp0VS0tZlJmbDFTbHpsVEh1NDlPdXhkRkNaQnkwWlBod2hoYWREMjJjSG16ZktMN1hlc2g2NDZ1a19fcGNUSG5DQTF5cUNLN18zNEVCcjNTVS14SmJLVHlOXzZBdy1NN2VuREF6S1ZSVkVy?oc=5",
+   "o": "Les Affaires",
+   "ts": 1795442429.0,
+   "m": [
+    "Innovation"
+   ],
+   "s": [
+    "Industrie"
+   ]
+  },
+  {
+   "t": "Diffusion de la GenAI : REX et best pratices du marché - Secrets de Data",
+   "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Ub0oyYUt2a25iXzlaRC1EYWNfSWg0WDF3TF8yYVF0emRJeXRTMnd4YlY2WlA4LTRNWFF2UTBsLVFseTFUVm1kQkpUZk1qOE5mSE1tSTM0TmVVTTViemlhNWhXU3hHZzBqYkRhSGg0b1ZZdGRfUjAycUpB?oc=5",
+   "o": "Secrets de Data",
+   "ts": 1795441936.0,
+   "m": [
+    "Études de marché"
+   ],
+   "s": []
+  },
+  {
+   "t": "Tesla FSD v15 : le déploiement commence, Reality View et ralentissement aux radars au programme - SpaceX France",
+   "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hUTZ4Sl82NnZPc3RCT0puRWZvbDBQWUQyMElJa0QzOHJ1dzROWXkxbG1DcUt1aW5zMGVfa1JtczM2aFoyaExTNWhhUng0Y29DN3hfbndR?oc=5",
+   "o": "SpaceX France",
+   "ts": 1795441878.0,
+   "m": [],
+   "s": [
+    "Automobile"
+   ]
+  },
+  {
+   "t": "Chèque énergie 2026 : attestation, coupure interdite et réduction de puissance, les droits qui protègent votre logement - Reda KOHEN",
+   "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMDg0RTdDR3JjNmhhdnZYS3U3WU8xZXB6SUJldWFNWThEbEhHZnBwa09KLVItTjZZb1Y1SW5VRHc2T3liYzl1a3k3cGM1ekJBdXlpLUY2TmNabncxUTZKakE3bENJVHJBUEdDcWtjRngwX0I1bk5EZGp2QU1MTVFVdFFCWnhZVjU0dG1RRk5OMWpMTVNXVEtHZnh6QmN5ZzdlWF81N2FMQU0xcU1zOWJrWg?oc=5",
+   "o": "Reda KOHEN",
+   "ts": 1795440960.0,
+   "m": [],
+   "s": [
+    "Énergie"
+   ]
+  },
+  {
+   "t": "Shinji Mikami, créateur de Resident Evil, souhaite que l'IA disparaisse, mais l'utilise comme outil - big-n.fr",
+   "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNT2o0MjJlZUxhQmxsRU9BY3I1MU9XNnF6VGtFT182OTMtOW5SeEV1ams0QnNkeGJoWmExNkx5YmpVS2pQNUFSb1duejlSdG5qdUV6dkNfNWZjS0NWLUVmcW5fX3JPZEN1N3ppS2lVZnRzZ21XSGY0eW1YaDNwMGIxS25vYURpX25kSGRz?oc=5",
+   "o": "big-n.fr",
+   "ts": 1795440647.0,
+   "m": [],
+   "s": [
+    "Industrie"
+   ]
+  },
+  {
+   "t": "À l’agenda - Conseiller.ca",
+   "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MMDJtQ3BLVzNsNHdVQnNNZ1BaM1MwS19rUHZoeHlEaVgzMmVNcUhSRE0yQkduRTJ3Q3hEbl9Nak5UWXVCcUpzeVJoaG9RMFZXWFRTN1o5Rjhrdw?oc=5",
+   "o": "Conseiller.ca",
+   "ts": 1795440600.0,
+   "m": [],
+   "s": [
+    "Banque & assurance"
+   ]
+  },
+  {
+   "t": "OpenAI veut ralentir l’IA, mais les réseaux électriques n’ont pas de bouton pause - Les Smartgrids",
+   "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaEwtMUR2MTd5QlQzQTJRNTZQYnFpdm9WUF9icGFXakdlUU4yY2xlRXE0a1IwNUl5cU9CQTZzamFLZDc1QkdnS2FDc2lJXzloU0haaTgtdkhERFc2RjRjbFpvczhDSjgyd2lBN1JhQTlYNnd2LUJPNlJHQXFIdDhVOGhyOUk?oc=5",
+   "o": "Les Smartgrids",
+   "ts": 1795440600.0,
+   "m": [],
+   "s": [
+    "Énergie"
+   ]
+  },
+  {
+   "t": "IFS vise la transformation industrielle de l'Arabie saoudite avec ses logiciels d'IA - IndexBox",
+   "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaGM1UWVfNWxrVVRtT2ZZQzcwVElVM0F6M2xOUHp2WUZYUUFOeHBTNVpyTVJRLXpaZU93MGVhV0x6WldzMkgyQ0czMEJJSXZpRHdQeGF2aUhXdkRJT0xycUhmTjNIQU9oeDgzSUlvcElkY1VwTzNMWFZjbTdwZlpTY0R2NXRlcHk1VUx3cUEyamZUWFk0OUhsLTBEcU1WRGt0dTJR?oc=5",
+   "o": "IndexBox",
+   "ts": 1795440058.0,
+   "m": [],
+   "s": [
+    "Industrie"
+   ]
+  },
+  {
+   "t": "Les scientifiques d'OpenAI exhortent l'industrie à limiter le développement de l'IA - IDNFinancials",
+   "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMXBkLUlHNmE4RnZ4VWh6T0R2MTVqS1BaNHo0ZGZ0eXZ6S1BVSnM3dDV0SXVBTzNudnp4UlJ4cjdLdmt6SHpydHlYU1VSaHR5TWFtel9uN1RNY2t6VWFLTXdRcnhPcXk0MkNDMmY1S0lHYjFrajJQZmhUbENIS1RuclhjUnFXa1FlNVBmVFVHS0xtaVpPRnpnWWZQM3F0OTM1b2xRWEZGYjJjUlh0OTh5azEyd3dUbERhM2FER2thSlBLMHFMcTNlUWUySHRkVms?oc=5",
+   "o": "IDNFinancials",
+   "ts": 1795440000.0,
+   "m": [],
+   "s": [
+    "Industrie"
+   ]
+  },
+  {
+   "t": "Université de Mascara : Les nouvelles pistes pour développer les start-up - El Watan",
+   "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeVh0dk0ydUxJaDFlS1F6dHRaMFk5dE9FYTdKTHNDMHg5azFmX1JJMndHTGxCUHdVaUlBdHdNRkVpV293R25HTWVpVk9OYmRYTWhaejBaNlNUOFZYR0F0bUlMTzV2NXF2WldGQmxrVFJBcVdLYU5XcnhNYW1GTk9jNGpSQVZzODZhd2NEOGxiRFppb2lZa3c?oc=5",
+   "o": "El Watan",
+   "ts": 1795439991.0,
+   "m": [
+    "Innovation"
+   ],
+   "s": []
+  },
+  {
+   "t": "Du mythe de la productivité à l’entreprise agentique - Secrets de Data",
+   "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPT3ZqTzBoajhvTkFOWGJhUjl5NVpwdzRBZWprTTVyRC1IbGQyTVRVeDZMay1jbG4wZzlELXZmSEE4UFJDOUNBRU4zamx1NThmZm1HYmFNWGVoY2pJckJzRVRfdEFUYjVkVnFLaW55RUcwWTB0NWhRcmNwdW9YdkQ4My12dkc?oc=5",
+   "o": "Secrets de Data",
+   "ts": 1795439959.0,
+   "m": [
+    "Direction générale"
+   ],
+   "s": []
+  },
+  {
+   "t": "Après les véhicules de série, Mahindra Racing compte sur Valeo pour les Formula E de GEN4 - Auto Infos",
+   "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSlYycjJGb3J1d0tYa25EOUVKRWoyaFl3UlBEaEYydkFhUU0zSi1pR0MtaC1sbTAtYUg5bTlKd0VhRTJPOXF0N0plMmo3U2w3SUhKSjlQRG5TX0VPQVcyLUMyYWxmWDJ2NDU4czhnbVdRaW9vaDA2eVZmOFB1c3U4SzZudGlZcXhIN2Fvb3B5QVc2Mmwxd3pGYUl5bDAxS0NRQy0wSE1hc0hUZDBEZkdYeWIxRVdrSkZkM2dGaWQ5Qlc4VVoxenQ0Zg?oc=5",
+   "o": "Auto Infos",
+   "ts": 1795439640.0,
+   "m": [],
+   "s": [
+    "Automobile"
+   ]
+  },
+  {
+   "t": "Diffuser des initiatives pour promouvoir l'innovation à la Dien Bien Power Company. - Vietnam.vn",
+   "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbzMxUUZpa080ajVvYkhScF9FUW5JYWZXMXhFN3RXM1hPUzhPZ1ktcFpTMDYyVDdLTm9TRjlrREVVMnFlTUItNjEtOXBiZk5JUWhueDllejJOSXFUNW5SZ0d4UzlnaU5iY0pwS1dPZTViVlJvTDZlS05sVTVPXzZXOUVlUjVSdHJiWHJkSms0QWxiUUwwYmhpTjI4UVdQNWlGUmc?oc=5",
+   "o": "Vietnam.vn",
+   "ts": 1795438233.0,
+   "m": [
+    "Innovation"
+   ],
+   "s": [
+    "Énergie"
+   ]
+  },
+  {
+   "t": "IA et voyage : Amadeus explore quatre scénarios pour 2032 - infostourisme.com",
+   "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTFc1ZTVhY1ZUVFVlei1aTTlMUVFWbU5vcW00TTJhSFdLc3hCTm5HQ1lqeDFYRUdRcDRiTHlMZGpaYm5NN3NTRDFDR1NUWFRmZ3VmaVFzVnBzUkR4Y1N1U240X21IOTZJLTB0VG1pR183bWkyUHozbVhYU05kem9QNDNqZ0lKWU43UlpfRGgzM2stMUtxTlE?oc=5",
+   "o": "infostourisme.com",
+   "ts": 1795438200.0,
+   "m": [
+    "Innovation"
+   ],
+   "s": []
+  },
+  {
+   "t": "Proport Invest : le statut de partenaire d’OpenAI est un complément, et non une source de revenus distincte, selon le directeur général - Zonebourse Suisse",
+   "u": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOcE5QOTZEdUdpNU1WelhsS0EzdUM2ME5aX1FFeXBibEMtYk44SXVDZGUtU0c3ZXFmdWR6QmJaeWRfdHhvUVYtZFdsYlVBaEE2Vy1uMjRmNWsxWF9kQUFQc2dQNUNDa09YcFlrVzNvaFpIV1RmYTJZZG1HTzl5MHh0S3oyNklKOTJZd3VGWXc1b01iM0FqRGVIR2pDOEFQeVZPaUpoZF9UNkI2VUxqdnM0THdwaVpzM3MtRnhET0NhMzM1bFVEZy1SeG5WNmF4YUtpVUtOMVJScXYwLWFQUTJMWTBYSjBBeXlwdU5F?oc=5",
+   "o": "Zonebourse Suisse",
+   "ts": 1795437739.0,
+   "m": [
+    "Marketing"
+   ],
+   "s": []
+  },
+  {
+   "t": "A2A : en Lombardie, 49 % des entreprises ont déjà lancé des projets d’intelligence artificielle (IA) - Zonebourse Suisse",
+   "u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONms3ZTFUUHV4RVVhZlFiOGdUcFlmczJXWC11eTVCX1hUSHYwb2NJMzFRQnZVd3RDZjFWSnBUSXpjWW1QTnZUVnVjYk9lY2pBYmtlbjBvUVFzbl9QMTA1NFlMaEY3WDBER0d1UFVtVGVqMllDZ1o1Q3IwejZYbXptcmtoQ0tqaWZ5a3BMaVp1bjh4VEtreXJ3R193OC1FU1BQU2RSYnJlODA4OWRPQ0N0VEtXZ3B0VkNQSDNlVTZJTDA5Qkd1NXBVMjlBb2ZPMWdVNlBJZ3hzVjdaYW5tdXZ5eU55eUNDU2pJ?oc=5",
+   "o": "Zonebourse Suisse",
+   "ts": 1795436717.0,
+   "m": [],
+   "s": [
+    "Industrie"
+   ]
+  },
+  {
+   "t": "Oversea-Chinese Banking Corporation Limited annonce des changements au sein de sa direction - Zonebourse Suisse",
+   "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMVpVR3dQbDRFSjRRQUhiUDVwQjRieHZLdDlxY1h3T2laS3l3NFZLWEZfejRheFhRUGg2ajJ6R3lnSlEtYUplSUxYbURNVHpNX243NklkNWJSZi1BLUppM195cE8zZFhVWmNZLUVJM25rSFpvTGFFS0NQeVNweDVWclcxSHozWmZOZVB1Z3dDQUdIa3JnUkM5NXhCRTRVdG5EamtyWTN0Z3FPTU1HUWk5cUhta2JJWGszTEZsbUdjZXpVUVZoWWh6LTJKNDQzaW9Tai1ma2sxTlJrZ0ViYzBDZjZLQ1BDQQ?oc=5",
+   "o": "Zonebourse Suisse",
+   "ts": 1795435658.0,
+   "m": [],
+   "s": [
+    "Banque & assurance"
+   ]
+  },
+  {
+   "t": "Métropole de Lyon : trois milliards d'euros pour l'économie, le plan CAP 2035 adopté par les élus - mLyon",
+   "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQV1RTNHJFZllYRnZSTVBYdkdGUGRZSC1JcUNzMGRmSnd4TlhVV3BWN3FRU09xR29QTnhmbklaY3UwQVN4UXVWUXkxWEl6cHJrWEpjQmROcldGUkdNdm5jX05Nb2NQYWk3Z2x2elc5dUJLUGZfdVhlYXU1QWJCd281THoxT0txdWtmeG5Lc1VGRmFLenRCYXBjbHRGRWxpUTlCNnJqdXpvbzRUb05oWnVTdVNWckU0N0xfdE9yc3IySGhuNEMtWUxnczBQNA?oc=5",
+   "o": "mLyon",
+   "ts": 1795435200.0,
+   "m": [
+    "Innovation"
+   ],
+   "s": []
+  },
+  {
+   "t": "L’IA va trop vite, estime OpenAI. Mais qui doit appuyer sur le frein ? - Politique Matin",
+   "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZURmY3VLN1BWSEtHalZqOHdleFhUU1RIVHV0MmRlZm1BRUF1TzdPaEhVd2FBVl9mTGpHd29WVFByNUpUOUVEdzhfTEJEcGxydEJGREpYNTQ5Z1ZVeDBOQnFfSzFwdk50OFV0Q000RU1QVEtIcEE0TVNmd0tSeWVJSw?oc=5",
+   "o": "Politique Matin",
+   "ts": 1795435200.0,
+   "m": [],
+   "s": [
+    "Industrie"
+   ]
+  },
+  {
+   "t": "Tesla transforme son système de conduite autonome en une expérience à la GTA - Mon Carnet – de l'actualité numérique",
+   "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMld0MjN4NTBxQ3U3QWI1T1JTNlhPaFpkTlRZaU1JbTlTZndPb3o2dU96dHFmQ2ZRaXdrZzNMMWpOeWNSOTc2TTVQVk10M3M0aTZaYzFUam91RGdMTzhrYTlCM1ZwSnIwR281YmJjV1F1bjE4dEV3eVFiTDhTc1N5UTdpX083YnNTTGZHNWNONWVZNGZUZ3lMdy13ZVZPdXhHYUdXYWtDQ3ZTOEJnNmhz?oc=5",
+   "o": "Mon Carnet – de l'actualité numérique",
+   "ts": 1795434896.0,
+   "m": [],
+   "s": [
+    "Automobile"
+   ]
+  },
+  {
+   "t": "Innover dans l'enseignement artistique grâce à la transformation numérique. - Vietnam.vn",
+   "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS21GRERnT1FpcU44bThnT2lDZXRrclozUUs0Y0x0VmxVUzRQNnlOMFFRR1IyNERsd01RVmpYS2VkclZIeTNWcmQtVzl4QndmemIwTWltR0dJUjFZTXRvV2ZBVnlmaWc2cHZackRGUlpzSzhNNWFoRUZSSVV4RXJ5ZkdBTQ?oc=5",
+   "o": "Vietnam.vn",
+   "ts": 1795434631.0,
+   "m": [
+    "Innovation"
+   ],
+   "s": []
+  },
+  {
+   "t": "Les actualités à suivre : géopolitique de l’énergie, Anthropic, OVHcloud, Taïwan… - Techniques de l'Ingénieur",
+   "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMzJVUTZ4aVZVYmtLMXExakN4bHFFTnlOSWQxeGpNNG1XbDhLY29ISjJKclJmbzJPUkZCTWc1NjFxZmRYV1lYTzhaVnlDSVB4UEZmNlRBTGN3dFRsVW54MUpDRlVtenRISDVQUXJ5MDZkaUtOQVZuUTh1MnJUbkV1cUlYTHVFSGtZYWpMZUZSZEhPMk1mRnF5M0ZKYkhVVVp5OE9tWUMwcDNVN3dzRkt0cmVGUXhZOUY1RmVqSzBVdE45cnV3MGdVdENtYkVyS1RqSElV0gHYAUFVX3lxTE9wN2oycjE3ajJWc0x4R29WTnZQZGlFYTFKNGc4V1lWRGtWRTNuT19Xcm1TREFaemhnSTFWdG1MN183ZzhuT0NQcndPd3cwMXcycHZicVRfdGJ5ZEhCckVuUzhDTG54bDRVV3hiOXVBVV91SER6TlNqNDZ5UFJDa2NKeG85QWFCQXJjWThsTjFlVEJKVkY3Zzk2TmRMUnVPUG5BZWtvbXMzUlFWa3M4T1VDOWFPaHNUQ1I1NkV5bHUyT1ZwVUJaUE9ZV0g2U1ZRbnRYbW4zRl9aVA?oc=5",
+   "o": "Techniques de l'Ingénieur",
+   "ts": 1795434627.0,
+   "m": [],
+   "s": [
+    "Industrie",
+    "Énergie"
+   ]
+  },
+  {
+   "t": "Agents IA et documents sensibles : comment Felicis finance l'extraction traçable d'Unsiloed AI - lebigdata.fr",
+   "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRkJIeGFUT3FoN2Q0N2FjLVpZdmxHelgzSVZ3Q2tDZnhrdnI1b2V1S21pNlBjNEV6MHBXbllyNnRMWkdoX3RDZHlSUEo4Uy0yWEtTOTlneExnLUJZR3VwYnJyUzZYazY1RVB0dGU1Tkw5M2ZkQVpyUExveERIRk53UXEwYw?oc=5",
+   "o": "lebigdata.fr",
+   "ts": 1795434559.0,
+   "m": [],
+   "s": [
+    "Banque & assurance"
+   ]
+  },
+  {
+   "t": "Conférence sur l'éducation 2026 : Discussion des mécanismes d'attraction des talents et de formation des ressources humaines stratégiques dans les domaines des semi-conducteurs, de l'intelligence artificielle et de l'énergie nucléaire. - Vietnam.vn",
+   "u": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQLUJ4X0w0b0RkLTVmbGdpY0t6Y0tMaGt2bVZ4Nld0V2hodHR2ZXpORnNQa0R3UFQwb054UlI0TUhpVUgycXZ5QjBhTHRuRG1vbTlFUV85RHVDYmI2TEYwVnFaYU5fOS1qN0NjOTRkOWQ1b1BlQ1F0ZVBnaUdqcmVZTU9QMUcwY1M3QjY5emlmbk1pWTlGaWU3azNON0gxdEJ0UmRyR19kNm5Pd3N0VjF4NlVYaXVLZ29BRWFzR1IzakdJRUxrMW1tdTU1VHVfR1hWOWxZSjNtM1g5bVVGZ0RHSFRpZzlQb0tmZW1JbmwxNA?oc=5",
+   "o": "Vietnam.vn",
+   "ts": 1795434376.0,
+   "m": [],
+   "s": [
+    "Énergie"
+   ]
+  },
+  {
+   "t": "Avant les interrogations sur l'IA, des bulles spéculatives qui ont secoué les marchés - Boursorama",
+   "u": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPRGVYRFBfV2o4UlNkRWg2Z3BPRFNuZUNlZGJ4azVuRFBvT3Z6SlY4YkxLSkpNajltX1JxR3RuV3lsa0M2MEhqQ01SYjRhcUJCUEEzY0FoYm1COVh2b3F0enN3aFJncE91WjNwbnFHNFJ6UnVaV3dNT1pqelE5czV5cWlrbkstdTN0VTNkRnVEZG92TE1xOUY4dnRUdmJubFJ1b1NyMWs5R3FyVnA1TkFpZFk3MHpRUElMSjlweXhZMDE5bEZ2M0hkNFRkMktzMzF4anhpNVVJWXBkMXJhY2g5VHBFaVlEcmY1UmFsVm1YUjg2cE9hSUtCSjVB0gH6AUFVX3lxTE9EZVhEUF9XajhSU2RFaDZncE9EU25lQ2VkYnhrNW5EUG9PdnpKVjhiTEtKSk1qOW1fUnFHdG5XeWxrQzYwSGpDTVJiNGFxQkJQQTNjQWhibUI5WHZvcXR6c3doUmdwT3VaM3BucUc0UnpSdVpXd01PWmp6UTlzNXlxaWtuSy11M3RVM2RGdURkb3ZMTXE5Rjh2dFR2Ym5sUnVvU3IxazlHcXJWcDVOQWlkWTcwelFQSUxKOXB5eFkwMTlsRnYzSGQ0VGQyS3MzMXhqeGk1VUlZcGQxcmFjaDlUcEVpWURyZjVSYWxWbVhSODZwT2FJS0JKNUE?oc=5",
+   "o": "Boursorama",
+   "ts": 1795434250.0,
+   "m": [],
+   "s": [
+    "Banque & assurance"
+   ]
+  },
+  {
+   "t": "Mistral renforce ses ambitions en Asie avec un siège régional à Singapour - L'Usine Digitale",
+   "u": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPSjRvZXhGajlMV2ROVEp5cUNXajFBZVFyX3duOW9UUTRvUXAyejB3QU5SWDFNbVZEUTE2VXhmemtFSFg5c2duWWh1eERoZkIyamJLWVNGcmIyVkhEMENYS0s4WElZUFJrMlR2a0d5QktMRUlYOFVJN0JVUnBOMXlWYy1fQ0ZiMFVDNlpDVnNLWXoybWlaTlRjNm5tMDdOSGFteWJfMEt4MFR2aHZrZE1TTS1YSXlsYzJCa2tTaXEwX2F1Ym5VM2tiRXZ0X1BBbW9UV1ZGZmQ1MUV0OWVpMTRnZzdQbmlsdUR2UFZMci1YZ29fczFxU1dSN1FQeVhFOWpGeVE?oc=5",
+   "o": "L'Usine Digitale",
+   "ts": 1795434074.0,
+   "m": [],
+   "s": [
+    "Industrie"
+   ]
+  },
+  {
+   "t": "Les banques américaines renforcent les contrôles sur leurs agents d’intelligence artificielle internes - Zonebourse Suisse",
+   "u": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcVp5UTd1RUdXbVgwSUhvbUVyZ0haQXgxb191eWdldk5wOGhRNVo5YUNkTFYweXZkenVMa1djSUtUUXhpVjVpRmdSRVYzU1diRTd6alplclZNOFFfWVlwWXQ2T1htYnE5REs0X2tfX3R6MzNvLUhSdmRfUGFrS3dTZXNtMHlJVW1KcjRJRXpVUVVPZ0hzekdMbkhCdk5vRDQ5Zjh1SEpkb3VPWVJWbW5hbFVZMllPVlVYSkJQanRKYVhsdlFIdTdIdkpNV3VpZlZKZXRXQjRyTFN5aDBUc0lmODVSeTRWNFdXV1F4UkJ4Qlg?oc=5",
+   "o": "Zonebourse Suisse",
+   "ts": 1795434023.0,
+   "m": [],
+   "s": [
+    "Banque & assurance"
+   ]
+  },
+  {
+   "t": "Kenya : 3,37 milliards de cybermenaces recensées au premier trimestre, les entreprises appelées à se couvrir - Financial Afrik",
+   "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTU1KTmhobEo4bjlpN1NNLVdHUVc0ZWQxT19iUUdaem5zeTAxWWxVQ3VuZlllaFRaX2V0WmJHM09sdV93MURGRXNyV1FuTXpQLWQwTXZtSFF4c1ZNcmRGTU9rd2xoeWtIZEhXS0Y3NEJhZjhfZ0NVVVhfZWVBRVFTaXZMX3pXMzB2NUZ2T3k0eHpYXzhnQ3Z6WXViQ1E1bl9XTXpMYnpwRzNtTWdjTk5yT1dRVVRTOThFSEh6cTRnd3ZWb1RLUmNxNTFiSklRODlNZk5NSjl5QzcyTlhHOEtvQw?oc=5",
+   "o": "Financial Afrik",
+   "ts": 1795433557.0,
+   "m": [],
+   "s": [
+    "Banque & assurance"
+   ]
+  },
+  {
+   "t": "Ce qu’on suit ce lundi | Banque de la défense, Canadien de Montréal, Wall Street - La Presse",
+   "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNejFtNFdmendHNEVuakFnUDRWQnR1NXFBU25kc3Jzb2JNSDNxWjdJOHh3OFZJV2VUMXVzd0Z6RnNDNV8zRHBkT1FVSnNmQUZ1OUcwczdBSEZjdTBySnBJTlcyOGdvZGZ3ZkpRa2YzeXg5QzRmVDhRRXlFSmN2WFlHSXlTOW1Hczhubng1MWxDVWdIbkF4YW5pUl9DNElNbmliTUtUX054Vm5rQkRiLTlmUW9keUlHTmRFVThnUW1INWliZUw0?oc=5",
+   "o": "La Presse",
+   "ts": 1795431976.0,
+   "m": [],
+   "s": [
+    "Banque & assurance"
+   ]
+  },
+  {
+   "t": "POINT DE VUE-Comment le redressement de Nvidia en Chine, estimé à plusieurs milliards de dollars, est menacé p - Boursorama",
+   "u": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNRHkzaTFfQXFOd3JXblRYNW10Y1FJaXU2Z0JZM0JaeWlLbWhMRWRjVlREdTVPdjJsLVg5YmI0SWNjNFUzeFNIVmNtQmx0eWdNajcyU1I4T0JjQ2tnTFpmMEtGWHdWakl4bDJYc3p0enQ5Y1JndjRLcjNOQ1dveWVrNWVJanM3NjNsbXZub3BJVXJyaUhRZzlXVS1Ja2puRFFGOEhXQWZlRzZWS2QwSW1jZkJrWXZBV09lVDl1OVR0UGlDR0VQTTU1cmEzdGRhOWtyWVBKRUJQTkJETjJzOVRNclYzZGxyNGRLM2NBVjNTMWwwRW5RZ0Y1RHVtcFZKc0pqTHpNVk4xN2VyVW5ISlAzMVk5ZjRtck1fN0RmaGVTajA4dElqVi03ODVoZjlmUVVFOE12eW9n0gG2AkFVX3lxTE1EeTNpMV9BcU53clduVFg1bXRjUUlpdTZnQlkzQlp5aUttaExFZGNWVER1NU92MmwtWDliYjRJY2M0VTN4U0hWY21CbHR5Z01qNzJTUjhPQmNDa2dMWmYwS0ZYd1ZqSXhsMlhzenR6dDljUmd2NEtyM05DV295ZWs1ZUlqczc2M2xtdm5vcElVcnJpSFFnOVdVLUlram5EUUY4SFdBZmVHNlZLZDBJbWNmQmtZdkFXT2VUOXU5VHRQaUNHRVBNNTVyYTN0ZGE5a3JZUEpFQlBOQkROMnM5VE1yVjNkbHI0ZEszY0FWM1MxbDBFblFnRjVEdW1wVkpzSmpMek1WTjE3ZXJVbkhKUDMxWTlmNG1yTV83RGZoZVNqMDh0SWpWLTc4NWhmOWZRVUU4TXZ5b2c?oc=5",
+   "o": "Boursorama",
+   "ts": 1795431698.0,
+   "m": [
+    "Études de marché"
+   ],
+   "s": []
+  },
+  {
+   "t": "Dix innovateurs et innovatrices du Canada qui convertissent la recherche en résultats transformateurs reçoivent les prestigieux Prix Innovation de Mitacs - PR Newswire Canada",
+   "u": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOcU42c2JYU0RvSW5qMmFOUS1GZ1JsYUozUkhwRUdXN3NKc2pMenV2aGxtLVVMWmJxMFd5Rk5oVXphaVpGMEhKT3YzTDNqTjdZSlJzUXhHR1F6R1ZDS25IaThaV0RjRnZibTV4MEN2UklBLXRtdHZuMVhvQV9fR1dIanVDQXVQS0VxV0xyN0NrVVFRUFNMd0ZGeFlHMTgwV3k0OWtIR3FFeHFVQ05qc1RHSW1qdGdaWTFWcjFmV0hIRjItR2Z6em1EcGt6MGk1YWdncUFCTWN6bWtqNFRfTXhyYmE3MnNvT0J4VEF4U1cwRVpvVG5lN2w4RVdZcElNdlFMdVlrUVdQNUFTT0d0bGNSNkFDeHJRN0RLWWYxSHZ6SmdEbE4zc29fSXlFaVlUeHJYT0sw?oc=5",
+   "o": "PR Newswire Canada",
+   "ts": 1795431600.0,
+   "m": [
+    "Innovation"
+   ],
+   "s": []
+  },
+  {
+   "t": "Intelligence artificielle malmenée sur les marchés : quelles ont été les précédentes bulles spéculatives de l’histoire ? - Sud Ouest",
+   "u": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPUEZDNzNPaXI0ZEtyV2ZTOUo2bXNYTFJFZ0Z1VmYxdHRsbWt0bnZfcGR2OEZrRkd4dFJKdWxITzBWbVhtbzZFRFB0bDZ5eEdvUkdSVXNqZVpMUUNJWkc2ZVRGODBlclJ2dkpnd1NPak1ITVRfYV9tREhIQTBlZm1vcjJ4OUI3N0FHNkFWLUQ5QXBjQTRubVExSUQ2eVlPYklmS1Vsek5zNm4zdjA5dmRKbmFubHl4Uk1ad2lhOGV0OVdwVF9KbWRjaWk0OU1CN095eVVyb1pZMWNNV0hnNVo5YU95Q0lBRlZySXIwV1pNTzFGYWZU?oc=5",
+   "o": "Sud Ouest",
+   "ts": 1795431481.0,
+   "m": [],
+   "s": [
+    "Banque & assurance"
+   ]
+  },
+  {
+   "t": "L'IA donne des ailes à STMicroelectronics / - WanSquare",
+   "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbXhJU25QUktPNTFkTnp6NmJNeHRqZTJyc2ZfYjFuMjM0aHNwT3RYTE5faHBudnRvTVFiRDBjdFpBOEtEV1lCQjE0ak1JY2pDRmlYbUFCNFFKYTFvb3dRQ2N2RS1Gb01PeXJlZ2huR09fWjNYRGZ0VlFIX3pOMEF3bUJXNA?oc=5",
+   "o": "WanSquare",
+   "ts": 1795430100.0,
+   "m": [],
+   "s": [
+    "Médias & télécoms"
+   ]
+  },
+  {
+   "t": "L'Association des hommes d'affaires qataris appelle à donner suite au Dialogue économique Qatar-Allemagne - IndexBox",
+   "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUUVjWlgwN1c2djh2azM1VEI4cEw3M3FVYnNuejZTakh3SFVoVm81dUtGbVYwaFBacXZiMWtmeFhjZWVZWmttVl9GWTB6M2tJd2ZJMWdIVWdrTEotaEkyaG1YdGFXZXMyV1hKU24xcFd1dlpXdVYtcTZObW5WX3JMc1JrUjlLTGxZbGM4ZEhPZG5xWmJadWRBVXdZbk9VXzk2VG5jNW5yeWNlRk5iTUpNUHV5V2xCRktYWjZN?oc=5",
+   "o": "IndexBox",
+   "ts": 1795430069.0,
+   "m": [],
+   "s": [
+    "Industrie"
+   ]
+  },
+  {
+   "t": "Expert.ai dévoile une nouvelle identité et des solutions d’intelligence artificielle verticale - Zonebourse",
+   "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPX2VncnhKOVNXVjFnczJYeFk2ZkdHbWNOOUZET3FxNXg4UzdBblJjXzAtM3BBVFBDUkgxR2tkMDdYVG50WDMtZDdpcTZOdzlhSms4TFdkMEVPUWpMeHNwakJCUS1FWExRQVRFS0VHeGtsWDRlXzVkSUlDcUN5d3FKMXBxLXcwS2NuSkR6dTFveVIxaGdkdlpPbE9vMnZBdjBuWERwUG1CUGoyc1lmMm5rUFpHb1VmbWRaeWNtSGFaSWFockhPQTM3SHMxM3doOXRtN19rbHdna0twdDNPZXR4UXN2eXdVY1hsaXAxWg?oc=5",
+   "o": "Zonebourse",
+   "ts": 1795429280.0,
+   "m": [],
+   "s": [
+    "Banque & assurance"
+   ]
+  },
+  {
+   "t": "La BCE alerte sur la dépendance aux géants de l’IA - Paperjam News",
+   "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN2Z6cjFKSzdFa1hkdW1RZXphb2prVlNPSWdQdVJTOHJlQmdidWxrbzQ2LUVQNFEyOHNyWThXQTkzMHFtQUxxeXJwYlgzbnBpYTliX290aVhMWDlHR09JYkRtT3dVMFptRHRqT3RJVDQwV0NVMUctN2tRMjN6TFh5WmJBVQ?oc=5",
+   "o": "Paperjam News",
+   "ts": 1795429224.0,
+   "m": [],
+   "s": [
+    "Banque & assurance"
+   ]
+  },
+  {
+   "t": "Formation I DU Usages et Bonnes Pratiques en Santé Numérique : se former pour faire évoluer ses pratiques professionnelles - Université de Limoges",
+   "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBwRFA4OW5aSjFJZDR6Slk2UTRDVTk1RzNPUWRDWUNFY2JzTUhQTU5ZeXVvTnNlMWk1Tl9QN19NdF9ycUk0RS1qcDlvRkYzYXg2N2hxSFBvSWFKa2NxcHNDdi1JUEhCVnFYVmYtc2N4TU1LXzh1LVRJY2ZFVQ?oc=5",
+   "o": "Université de Limoges",
+   "ts": 1795429197.0,
+   "m": [],
+   "s": [
+    "Santé & pharma"
+   ]
+  },
+  {
+   "t": "La croissance d'Alibaba portée par l'IA au troisième trimestre - FashionNetwork France",
+   "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNa3VVYjBIVThkeTNXRmQwc3FRTU55WWpUQkpfd3lQQm5zb2JHRjU3VDJabzlET0JTSWc4SDNMakF6b0lfMEFIM2VPSFBkT3cwdHNFc2xYYUVjSU43bVU0OFR3R2FpWGJudEkwWVFZVDIzQWVpbFg4bC1WbU1IVzhHQjcybGpETElUOWN2aTNuWmNuaTFXM3hTMjlWWDdOZHhrS0lobXZpUlJvS3piUE5B?oc=5",
+   "o": "FashionNetwork France",
+   "ts": 1795429140.0,
+   "m": [
+    "Marketing"
+   ],
+   "s": [
+    "Retail & e-commerce"
+   ]
+  },
+  {
+   "t": "Industrie tech suisse: la reprise se confirme - agefi.com",
+   "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORExTNkU3VGVaMEdVN1Rrd3JjSFFHcDhJQ01xdllpall3UGlZaXV2M0tFWGJrQ2JPcTQzSG5jYk5BdjRkNnU3WkpKNm14Y1R2VXhVdDl3ZDVPS25lQ3cyY2dqN3dpeklXT1lVME1QOF9lSFNnMGFqUDJUV21MTjIzQ1NLc0dHWTNyY3RsZUJmMUNzS0FKcVBHaWttOE5NQU1pVE51ZHRZYzR6dkowS24zYjgwT2hNbnlKSTU5cDNCWkJydTNYMzhpNDBVNnFRWmlWb19yYm1IZFhQT0xjSDZj?oc=5",
+   "o": "agefi.com",
+   "ts": 1795429140.0,
+   "m": [],
+   "s": [
+    "Industrie"
+   ]
+  },
+  {
+   "t": "Déclaration de Dakhla 2026 : dix engagements et une feuille de route pour la souveraineté sanitaire africaine - Hespress Français - Actualités du Maroc",
+   "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTUlZdzQwalRsQVRHTGczZGxuMFc2b2NwNEYtaVdEeG0xMjdRby1rRFd2TGZBNE9NR2JWd2Jvd21JV1JLcEh5ZFVycmM0S2ljdE1hakpiaHFucE1sVWZtY3VRVWI0eWFDbi04cmV2ZnBjNV8teFRPTE9vNDlrMDEzODhjSzFtUWZlN0lJREFxS3R0cGZnN3U4LVRyc1NYN0NZZ2RtS0l0a0hqWmNVQTNXYnEydjRuRlN2NjZ1TkxNTWZKcHdyTFA1ZmdhLVJoS0dROGVOYWNuVGZtUmM?oc=5",
+   "o": "Hespress Français - Actualités du Maroc",
+   "ts": 1795429020.0,
+   "m": [
+    "Innovation"
+   ],
+   "s": []
+  },
+  {
+   "t": "Singapour : l’IA pour tous les consommateurs, du visage à la voix - EcommerceMag.fr",
+   "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUDlUN1h3S1FNYkJLY09lN1BtR3JKV0tNRFdSdlozNU12aUhxNTUzSFNVd2NKNHNJVmJBcUI0ZlB0RkFJc0xYVDhxZ0U4RVBzV0VEbTBSUWd4LXZrUXZnX1pqdHlnWW44dWdjU1kzS2o2OEE3OEJfZ3dhbm43cVlUWHlSMVE3TGUyeTRKVTcxVDF3V2FmRWF1WUF1RTd1RDVMVm1fNjNNX3p5ajVqSDFBelkySHQ?oc=5",
+   "o": "EcommerceMag.fr",
+   "ts": 1795428678.0,
+   "m": [],
+   "s": [
+    "Retail & e-commerce"
+   ]
+  },
+  {
+   "t": "Anthropic : l’action chute de 8,5 % au Nasdaq après son IPO - Le Revenu",
+   "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNekhtaUU2Z2dyWlgySjc5OF90eFdQZkdHNUk1ZlozWjFyTHFXMG5SNWxONGp1M3Ffd01sZTg3aHJYV0VlUkNqbnZBVm1haF90N0JKdnd6RXlmQUN2RkdNcU9VcHdmZ1BPcWY3ZFJLRFR6ek9VTlR1UEoyZkdfQ2ZUaFNzTmVWN1EwWEFnRHJIWDE5cjFwaG5GZXB5cUxHV3dKTzFzdkpsOEV0MzF0enBhd1ByZEFMMFNXMndoMnJid1lILUMzenJaaW9DZjJDUQ?oc=5",
+   "o": "Le Revenu",
+   "ts": 1795428360.0,
+   "m": [],
+   "s": [
+    "Banque & assurance"
+   ]
+  },
+  {
+   "t": "Fini les écrans, la Norvège ressort les manuels scolaires dans l’espoir de relever le niveau des élèves - Ouest-France",
+   "u": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOMHZzeHhNNGR1Z3pnNTFiODVDRndBUWZpZzFoSWtBcFZqanAyZVhnbjFoMHJxY2I3Mkd1VkZDMGxGdUxRd0I0RXE2SkY3NzY4ZWZQWWlhV3FDTmpydkZ4WlZLejFkaEdqZW5BZFdDSkpONzBkMzV4a21iSzYtZGRWS1haZ1RHSVAtdWd3ZGdGdmlTNUVEdlVEajdaNmNKMFQtdWdsVXg1OU04WEZGbEFfUTZHTWp5SEFnakl0bUZPMURnWGQ1blczWUthTGJkTXE2dUhrX1Y0UlZtWFdmZ2lMTzl1ZVBjU2lfUm91cE12MmRaZmFhNnZHd3NJMHQ0S0VCU2d3emtqVQ?oc=5",
+   "o": "Ouest-France",
+   "ts": 1795428302.0,
+   "m": [
+    "Études de marché"
+   ],
+   "s": []
+  },
+  {
+   "t": "La semaine en 7 graphiques: L’IA au cœur des préoccupations des gérants face aux risques extrêmes - Bilan",
+   "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPamhaOWlqMXNDMVBmRTBXTXl6YnhVSFNVc1kzcjdwd3JfX3Zqa01IQTFKWFR2LU5KV3BIS1JPOV9GRThrcXZFYlJ1S1p6X0ppd2FuM0tWRnlBYUZhRmlHeUhSb1dVdVBmV3dsZjAyakl1UXpudUxxUVp6ZFRORWwzamp2ZmJqelZsZGxibTFTcUFNTU14ZTdhVHhzdGNNajFva25tRzNn?oc=5",
+   "o": "Bilan",
+   "ts": 1795428000.0,
+   "m": [
+    "Études de marché"
+   ],
+   "s": [
+    "Banque & assurance"
+   ]
+  },
+  {
+   "t": "Philippe Brouillard reçoit un prix Innovation de Mitacs pour ses travaux en IA - Université de Montréal",
+   "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeGUxY3J5ckM3QkF2M0xZOXNENGFQRkpFSTFDT1BZUzlzT25YY2ZGdGxoZ1FiQmFVRXBlX1Zxa2c5R2FZWW9uckIwME5lYk9CR3VMdG5KUDlUa2R2aFBwTTJvUnl1VzJKaFBjMjVsMTI2anF6cDdTVUZsM1hPLTdRbTF3UEFsQmhuLUJNMmRYSGVrWmdXdzMxVlcyS2gycEJVcFU2dVUzQW4wN0JHV0xHTkx5Z3ItT1FHbUNMdTZtcVRQTm8yUlQ4?oc=5",
+   "o": "Université de Montréal",
+   "ts": 1795428000.0,
+   "m": [
+    "Innovation"
+   ],
+   "s": []
+  },
+  {
+   "t": "Congo Telecom annonce le rétablissement de ses services suite aux réparations du câble sous-marin WACS - Afrique IT News",
+   "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcFBTUllmWWVYOWhxZUlsSGU1N0VKZ0drQkNtVVBZbU9DZHVpNU8xYWJLQldpVkt1alZ1VUhnWS01cUczeEsyQ241UG56SlVfMEpWcnJhNERiYXNlaUJVbmtsX2x0Z1FrTGhrSXpRNC11VlZzX3dpaE5hSl9HTTlzM2VlS3htaDJRUjYzM2xzM3h5WVdmX1RQNkZPYmFKdkdQbnJGM2phb2x0a3gyTWJOdXdGR3VyaEY2eW1PTXBDTnppMV9Ub3dpVHZSWlJwSVBwdzlHVg?oc=5",
+   "o": "Afrique IT News",
+   "ts": 1795427708.0,
+   "m": [],
+   "s": [
+    "Médias & télécoms"
+   ]
+  },
+  {
+   "t": "Logiciels dépassés, agents IA de plus en plus menaçants : l’énergie en première ligne face aux cyberattaques - Orange Actualités",
+   "u": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQeTVuLU5fMUlMeTJMaGJiZS1FQzZfQ2YxNXY5SVlXSWdvcnB6Vjh5OFlXVGdBNFN5dVpvZ2o0QzY2UC1Qa3lBTW5HWDM0ZHpKbjZzU0ZHc09WRl85QlItdlNCcHhQU1ZkMzU3anNLWWZSU1ZXX1U2UC1jZ1c3dS00dnhZLXcxSkxZSW9rYzFpME5aZjFFWHd5bUpaZWtyYm1Bb3V3bDR6Q3hoMUN0d0VSYWpMN0p3TzFoeWFmc05uZEN4bDd0dDRoQzFwT2QySnVnXzFRU04tbjNYLW9OM0hTMUl5bWhwRnpqM2ZHamNkZXlZZ0VpbGFV?oc=5",
+   "o": "Orange Actualités",
+   "ts": 1795427664.0,
+   "m": [],
+   "s": [
+    "Énergie"
+   ]
+  },
+  {
+   "t": "GB/PMI-Ralentissement de la croissance de l'activité en novembre, mais le T4 s'annonce solide - Boursorama",
+   "u": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOTk0wd01hc2hmS0pOMzduTzM3cHFfdkZqWHFaREx6djZQMWFKZTR2ckJMUm5yR2lfX2VNNDBtRGJ6dmhkTGNSRU1wV01TdG5kUWFoT2R3Wk04ZEhkTTdSSnpoVUljbzNrNFNKd0tTMG40bFdlUmVOU29WbS1fNlMwdkd3NzRZY2ZkSHF2aXUyQlk5Y0pKdWU0aW5RUHQ4enUxb21QUVdxdFk3Y3VRZEpoYWJZaTNqb2tlcDNXbm1rdmtrRXJUWlNTb1VSUF8tVFdJWG05N20yQ0JuWldQM0JCNEV0TUFocWxWOTlMbFhKVThDZGFUUDlNbUkyOGRzYzhzUTZMMdIBhAJBVV95cUxOTk0wd01hc2hmS0pOMzduTzM3cHFfdkZqWHFaREx6djZQMWFKZTR2ckJMUm5yR2lfX2VNNDBtRGJ6dmhkTGNSRU1wV01TdG5kUWFoT2R3Wk04ZEhkTTdSSnpoVUljbzNrNFNKd0tTMG40bFdlUmVOU29WbS1fNlMwdkd3NzRZY2ZkSHF2aXUyQlk5Y0pKdWU0aW5RUHQ4enUxb21QUVdxdFk3Y3VRZEpoYWJZaTNqb2tlcDNXbm1rdmtrRXJUWlNTb1VSUF8tVFdJWG05N20yQ0JuWldQM0JCNEV0TUFocWxWOTlMbFhKVThDZGFUUDlNbUkyOGRzYzhzUTZMMQ?oc=5",
+   "o": "Boursorama",
+   "ts": 1795427344.0,
+   "m": [],
+   "s": [
+    "Banque & assurance"
+   ]
+  },
+  {
+   "t": "Le no-code tiendra-t-il face aux sites pilotés par des agents ? - JDN",
+   "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObTI2RnM4RTFWMXk0M3pFRzRXRG5vZ0FQTnRZb0ZJbmlPWFhVc1lSMG9IRnh3ck5YV0d0ZExmX1QtNWNKSC04MDNIRFZ0MXhjYkZINUFOdlpyNDByN3J6bGExWFVja25ZaDJkQWVRU0J6aTBRQng2MU92bmdZeFhrd181bjEtX2QyWjVJcHpPa2pqQ3hUZ2lIVHRsbmg3WUR1UTdudXA3YzdtaE01STI3aGUtT2VNZzN1bkFHdnlCV0Jra0E?oc=5",
+   "o": "JDN",
+   "ts": 1795427338.0,
+   "m": [
+    "Marketing"
+   ],
+   "s": []
+  },
+  {
+   "t": "IA agentique : les conditions pour passer à l'échelle industrielle dès maintenant - JDN",
+   "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUVhqTjE3bEpmYzA1TkpRMUFDR0RpNkFKaHQ2c3lKY2daUTJkNlNKemhDT2hJYTc1WVFSODhhX2lfSUF6T1RIUTJWUXF3OUFrYkhxdkFhN2ZfSE9pYkpLUkd6Ym1ycHAzMlRnOWk2elNEWmhzanV0a3JwbEhJeHVHREhKb2I2c3JLZ01LbGJXdnF1ckg5cmtVTkxNa1BRbHlYN0p2MFlrQ0RseTdOOWJvMVVXbUZFS3h6VjAtSExfSFpfN1dOZDNJbzlRcUE3VGIzTjBTSV8teV9Pd3c?oc=5",
+   "o": "JDN",
+   "ts": 1795427316.0,
+   "m": [
+    "Direction générale"
+   ],
+   "s": []
+  },
+  {
+   "t": "Marquage des contenus IA : le 2 décembre sonne la fin de l'improvisation pour les directions marketing - JDN",
+   "u": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPaWlZUVRFanJxa1RUaUgzYjA4dVd6VjJlR0ZaaVd0VGs3dG83bnJyMWZyQTJhczRseTM5amxUY195RWlTTHNvTEtFOXRMRlFVM3VBS1VXY1UteUItN25wSjk0TGxUb0FNelVpMy02MWJLR3NuTzU4MlRCSy1rYjY3TjA1Q2tQZDVHSlRfWlhMSDdyeWJxUlZLQmk4cGpuVEpZWXVNV2htMDhjWmlDTWtCTkg4dnpfbjVfTExxMFAzX2x6eGNrS2Y2QmxKMXBUc2s1dXctc0l5MFFUdkhld0s1dW1nZWVBbGhqLXFESlZxTnJtTGFhT3Rz?oc=5",
+   "o": "JDN",
+   "ts": 1795427155.0,
+   "m": [
+    "Marketing"
+   ],
+   "s": []
+  },
+  {
+   "t": "La souveraineté en sous-traitance - JDN",
+   "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSXZWRnFXTTZvdzV2T2RfZ3dId2pSMnBjSThQcHR0TkxhbkpFVTZtV2RqZHI2ajUzQkhMLUN0S1ljeGtLNUp3ZEY4aDNIM25mVTNQT1FzMkk0S3J6bHBQWXYwcmtDVWh1ck1pb29nbDdQQ1lySENNcWVfcy1sRExHMXI4dUR5MTdyNzREOG1EMEt5bGctdFFIdDFxTHZ1Zw?oc=5",
+   "o": "JDN",
+   "ts": 1795427121.0,
+   "m": [
+    "Études de marché"
+   ],
+   "s": []
+  },
+  {
+   "t": "Le boom des data centers se paiera aussi dans les usines qui n'en construisent pas - JDN",
+   "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYkE0cFFZT2VDc2VtelEzZC1feS1KWWFOdm1oRFczNDVDS1RHTjZuZl9ZZEQtdW9uSGNLOVdHUXRQYkFPT3dIcGY5ckg2RmhLRFZxa3gyTUZxb3JtV2k0Qm9ZVjFmejNjYVFEaS1HbDFVb19MMDNRSnk5WFk3alJyczNzR2k2Wk85R29DU0xoZFRMNjV2M0tUOXRNQllhTGJmQjNJUWEtWmpTS0hvdjhNTmRzOG1uQWtnbDNOdkVOTkk4LVJxTDdDTVNaSTZZVmxpR2UyZWdNdUY0WTkxdFQ4?oc=5",
+   "o": "JDN",
+   "ts": 1795427103.0,
+   "m": [],
+   "s": [
+    "Automobile"
+   ]
+  },
+  {
+   "t": "IA en entreprise : comment gouverner l'innovation sans la freiner ? - JDN",
+   "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSHowSGVNSmZ1WlBrQzJwZUNkZERQWkN1Z2Vsell6d3RZSlF2NjVJSTNJaGx1ZlpwR1phSmw1Zi02aEwyR2dreUdyUXZzRHIzMkxxSFlMNjBOZUkyNTI4YWgzVVNEMXhUYzQybkZPOXg0SV8wM0Y0aGl0RkhCWnBsZ05aZFR3b2NwbDByMml3ZnpaSHJqc1VXcnBQNlZwUTJZQkJNYzlCRUllTHJnOG5LTzdrS1BwdGpHZEJIZEJ6NktoNGxULVE?oc=5",
+   "o": "JDN",
+   "ts": 1795427053.0,
+   "m": [
+    "Innovation"
+   ],
+   "s": []
+  },
+  {
+   "t": "Les marchés européens retrouvent quelques couleurs lundi - Le Revenu",
+   "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUXNTeFZkcnRlNExhY2dfMkNtVWpCUGFkWmJuWFFRbFRzU1hLNlBiYTFQZk82a1FfVl94RU9qcjJUS1JMQTBPUkMxX2NLeXg2SlhBWDZycUE1MURoZWVMckdsSkk3bnFFWDRKMjBId0ZSUHZSM3M3WExXaktjaGU1Q3ByRFktV0tOSS12ZFg0UzJpZHdrMVhXenR6Q3pROGdjYUJZRnNGUGxkb1ZxNXcybURB?oc=5",
+   "o": "Le Revenu",
+   "ts": 1795426800.0,
+   "m": [],
+   "s": [
+    "Banque & assurance"
+   ]
+  },
+  {
+   "t": "ABB met 2,2 milliards de dollars sur la table pour racheter l’allemand Ziehl-Abegg - Capital.fr",
+   "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSHYyVWowNnYxU0RNTmNBd0xYbEVjQk1raWNpREkyZUhhODlSWERzQTdFSDZEQkR3LXBTNmlUNk1VRFd0MVE2SnRrT3VZcGJRT3FXU2x1a1ItQUVPMHRIWS1BTVdlVFR4MThQQTV6LTctcmVlQ3BmSlVoQUpWSnFKT3haZ1dHaUdHVkUteGMtYWZ1ZlZnU2M2ejFLbU5hcEUxaWpVeUN5dHZuUzJ4ZEdtQ3FiNVJtdWtKclV6Q2kySU5qSmhhODRULWFMMA?oc=5",
+   "o": "Capital.fr",
+   "ts": 1795426369.0,
+   "m": [],
+   "s": [
+    "Industrie"
+   ]
+  },
+  {
+   "t": "La voiture autonome pour tous attendra encore - Auto Infos",
+   "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQazRzR3QyeXVKNTJBMFkySXctczZDMW1ZeW4td0VybXRFUWVrYmQtUFUtOGJ2QVowakotLTZTUWVjSlpBWUdnVnJmUUtEbmNnSU5FeUoxY0tHNVV6MG5nam1JVHRNdXdlVlJqNmJ5Zm1HaXZHanRuMHJwLThGYldZZktHdG5hejBWWHJYTDM2dw?oc=5",
+   "o": "Auto Infos",
+   "ts": 1795426200.0,
+   "m": [
+    "Études de marché"
+   ],
+   "s": [
+    "Automobile"
+   ]
+  },
+  {
+   "t": "L’affiche du film sur OpenAI imite les bugs de l’IA , mais tout est fait main - Dans Ta Pub",
+   "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3U1NxY2tSRGxsMWlPVWJoSG1FZjZvcFBLMHk2bU85Tlk5VWhEOFhhaURILURXRjRhWEJNaVBHS19TcjRnUFVuN3V1NEVVd3BZaGwtMGNfYjJiUUNQNW9PdktlcGYteXZGMzJzQW5XRFpmUGZCc0E?oc=5",
+   "o": "Dans Ta Pub",
+   "ts": 1795425683.0,
+   "m": [
+    "Marketing"
+   ],
+   "s": []
+  },
+  {
+   "t": "Le crépuscule des géants du conseil, l’IA donne des armes aux petits acteurs - Atlantico",
+   "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVWhkT21hWmIwMGw3SHY2TEFydHhpWkJfSkVjOWUxR3JVQTNpbmRtOEJjRG5wb2FIbVk4clJNOU4xTldwa3pNakw5WmpqNWtBeU0yVy1tMWkxS051UXJiaDlZQ053YlFEeHpXNmlqUS1ZeVJPcE5VY19ndWozdUVGOU9fS2Z5N1hqNjI0cUlOMEJVdWxtQnpZYWs0NWtVUXVIakVVcEF5bTAzenNBZTlBZ3pDZUppUUhrdVE3d1VR?oc=5",
+   "o": "Atlantico",
+   "ts": 1795425459.0,
+   "m": [
+    "Direction générale",
+    "Études de marché"
+   ],
+   "s": []
+  },
+  {
+   "t": "Protection des plantes : la recherche accélère, les solutions se diversifient - l'Opinion",
+   "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZ2FieXVmcUt4U1NpQjRRRkwzRDE5QkV2ai11eGVSYUFlY0haRGw5b2JNN01ZQlRPZm5mUUhhYmdqR0FWcmNHUmJZUFNWNkdYeF9YcGhBWUd4UmVBcUFhWXNSZWVFUm03VWNTYnZ4eXdTcHU1QVQ1V1p4TmtPNUFyZDdoWEtfeDJ0ZTdFVTNnZUNTeWNoUGR5QS1CTjh2dXBlaVc2YTdzQnZZQkE?oc=5",
+   "o": "l'Opinion",
+   "ts": 1795425300.0,
+   "m": [
+    "Innovation"
+   ],
+   "s": []
+  },
+  {
+   "t": "Grossesse et post-partum : le livre aussi efficace que le chabot - Fréquence médicale",
+   "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUFBLbEpMcjhMTFNpMEI2V1RQXzlJVEFfSGpFSzA0RDNvVEo0UnlXeXFldU1GSVlEM3lhekdzeVlqUi1oWnc2Uzc1aDJWSklKWDlsV0dLVHE0STl3SGhNcDgtNFZiTzNTUklwYzN1NHhkZEZsYmg2YXVDWnFwMEJXY1pNaElzZWN2TWh6eDFpSHE0elNnNjVsdVhGZVN0cHJmQkQzbUZtanE0YVNTdnRFMDA0alIwMjk1LVQwMU9CZGpjTkk?oc=5",
+   "o": "Fréquence médicale",
+   "ts": 1795425300.0,
+   "m": [],
+   "s": [
+    "Santé & pharma"
+   ]
+  },
+  {
+   "t": "La Semaine ECO | Shenzhen redessine le monde : la Tunisie peut-elle encore attendre ? - Webmanagercenter",
+   "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeV8wdG1uMm9lMmlXekJ1TTJJTVh1c2FaME9kN3p1ZG1zX1AzX0hwSThybWVZS3Q0WG1TQ0l0SnNqYU1KQ0M1VWZERG1FTFZaQzB2NjFkQnJhR25jNVlYNkNIbWxyc2lsY3BncmJQZElNNU1oT29QY3ZXcnZ0U0lZdUdvaTIwUWxVOTI2TDdYTTNLbEUtenNWckp6aXByMTE0c2FhaUdiQ1hiVGw1MTFPV1hfbFdaRTNWd2pnbjI3Q1pyUEU1aTQtWE16dw?oc=5",
+   "o": "Webmanagercenter",
+   "ts": 1795425275.0,
+   "m": [
+    "Innovation"
+   ],
+   "s": []
+  },
+  {
+   "t": "Défense : Le Maroc se lance dans l’industrie duale - Aujourd'hui le Maroc",
+   "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORElueVdHcXJIUFk2eTliMmRMeUNzdExNUzV2ZkpGTTZYSG1vUTR3ZWJCSFhjNzNhNTFybTVKaTNYT3RUY0tzQW9GemFwdjBDNlF0VTdGYUZMSVMxU2xhUnBaTXVkeTFVUW1WNkRLb2JXZ1RvQlR0aUlMRmgwNmNXQ2Vjb241Zw?oc=5",
+   "o": "Aujourd'hui le Maroc",
+   "ts": 1795425077.0,
+   "m": [],
+   "s": [
+    "Industrie"
+   ]
+  },
+  {
+   "t": "Bourses asiatiques : Séoul chute de 5 % face aux craintes sur l’IA - Le Revenu",
+   "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSWFRMzY2UE1YblRVcTRNaUZ3RHgwaUpHVlRxUlQyUlk1S3JpQ3lJZGItQm5jSXFQTXdYQTFQOWZialNLcU00OW5qY2ZSLXJxQ19aNEpNQlZraG9RV3ZkYWVwRUZrWF9GalB0eTIwNmFIeFZ4RmZoRlR1aHNIM3VSdDcteVpIMkVBUV9WNThORkRFakpZY1k3V3RNVjhwSGpSX1VFajF1eUZTVVN3VmRleV96X2UyeV8xcUtnMVFvSUpVbDd2dkxaMnlYd1BSWVlkem4xYTJzSnFJYWlucmc?oc=5",
+   "o": "Le Revenu",
+   "ts": 1795425060.0,
+   "m": [],
+   "s": [
+    "Banque & assurance",
+    "Énergie"
+   ]
+  },
+  {
+   "t": "Le SUV Coupé L03 est le véhicule le plus international jamais développé par XPeng - La Tribune Auto",
+   "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPejNyd0wtZExNMTdnZnRNYkprTjlaWjdVT0I3WFBucGVmQUdRR3VaRWZTM3EtTnJBakt6UXhHR3k5alV2RWcyVm93WjRDTDJ5ajZ2MnFPQXhuaDdOclVUSjZrLVl0SGRvYkw2NDIxM21Wc1FvVERXOVYxZ2RTWENtWk4tNklYTXNVcUw0cTFjQnFnQ0dlQnZEQjM5Nnhkc1ZZT04yVS14Z3g4TEJMS1JVOTBxYmZiMXFSUzdEbDRqWm9ydU5XZDVrdV93OWZuMk5R?oc=5",
+   "o": "La Tribune Auto",
+   "ts": 1795425038.0,
+   "m": [],
+   "s": [
+    "Automobile"
+   ]
+  },
+  {
+   "t": "Les chiffres officiels de l’utilisation de l’IA conversationnelle en France et leurs implications pour les pros - LEPTIDIGITAL",
+   "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOT3lZRmlDVTdCajFKMWpLd2JRNUszTzc4WEV2QWdFTXpYSVV2MVhIODFxXzRRLU5EVjdVNUZ0eS1pNlZzTXpCcTVwMjA2WVI3dEV2UnJfMkhTcHRYeW1CclZoalIzelNhT0lWM0VNQWhlWGFBX0JKc3liaU1NY1hKQk1OeUN0WkNFLUVmNjkxYmduNXZRMW11ZzFhUE1aMExOSjA4VWViUnVaZEluMTN1Zkdhdms2bzVKcjNLSkFldEFLQko1ZXVYWU5TeXdjR0NBZEFuVw?oc=5",
+   "o": "LEPTIDIGITAL",
+   "ts": 1795424880.0,
+   "m": [
+    "Marketing"
+   ],
+   "s": []
+  },
+  {
+   "t": "Le FSD de Tesla débarque dans sa v15 avec une fonction qui va réconcilier les conducteurs avec les radars - PhonAndroid",
+   "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOakI3Zjh4aXlaaV9ldG0zZ1BNbG5TNUxtQlRXSW9VVkd0NGl1WmJ0WHZwRnNJNVVlMW0zYnpKeWczbU1DSmFZLTgxMEJBOEc1d1F0SGRrVHY0QUQ1NkJGNnE5TVpobnplZ1JvczRucmIwMWJxZ3FTM0QzQW1xc0xUWUlJUFhIN1B6MHRTd1UwWXRkYzJCM01OYmgzUjFEb0d3ZjdfaDdmd0hBQUtiSDJTdEM5TFFaNS0za25hZ25rdUx4NUFrMHkzRDI5X2YwSnd1c1RLWg?oc=5",
+   "o": "PhonAndroid",
+   "ts": 1795424520.0,
+   "m": [],
+   "s": [
+    "Automobile"
+   ]
+  },
+  {
+   "t": "La filiale de Proport obtient le statut officiel de partenaire d’OpenAI - Zonebourse Suisse",
+   "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQa1AxMmZLU1AtazFkTjlZLTdEWF83b1BwSjBMem03TjhJNUYtNFRTMFpsdHg1TkQwcWlDa0R1SEl4NDFLcWFqNk53d1paMXh2T1pNMklFQ2ZjMnJ2NEtBX01RWjlvR0VScHFwbzZuaGNKM3dwV1d3cGpOSi1pNG9vc1ItT0hlMDNzaHp1clVuS2twSkNWUWo5a1NvS0dVS1BxWkhGaXJmRlZLTTltTE1EWlhqVHktczJqNEo5b0NqYkg0LW5KbnhjRGtkOXA?oc=5",
+   "o": "Zonebourse Suisse",
+   "ts": 1795423028.0,
+   "m": [
+    "Marketing"
+   ],
+   "s": []
+  },
+  {
+   "t": "L’intelligence artificielle générative, entre prédation et effondrement - Politis.fr",
+   "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQN3V1MTF4RDBpaUdkQTlOZ1FxalhHTlZ6WjBFU1hidjRRMzAtZ0RHTEFkNUJJOTIzX2RlV3hIZlpYTV8wZWEyY2JUQU9sRGFBMThyVzFxTm8yQURhOHVqZ01BWEI2YmZ0YV9xT1psZ0NxNnBxTVE2RW81S0haek5CUEduajlUVnRQZ2N3UVVsUGY3VEI2OEdpeTk4emQyY0hPMnUtQ01IODVLanBDRUR4d0lVMy1xRXdRaFdz?oc=5",
+   "o": "Politis.fr",
+   "ts": 1795422623.0,
+   "m": [],
+   "s": [
+    "Banque & assurance"
+   ]
+  },
+  {
+   "t": "Tribune – Du silicium à la pierre taillée : l’IA ne doit pas abolir le temps de la délibération - DCmag",
+   "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPT3VOSkxlWlFHWTlhVlBuVkZHVHJHVHlvdVpSVnVVZHk2QlIyVWJGT0U0LWJGdnh3Y1lhSERzM20wZmd4SUhzZUNzTUZINzl5QTh6dTU5VE5xX3VDVHNVWjNJMkxhbU1IZjdYMk5jUk1XVkthaW5CQ1VOR0ZXN25OaUFGUUdIU0FUX2JKS1RsTjJOMGZhclczN09KZEtRYTc5TzZuekFxRld4VEs4?oc=5",
+   "o": "DCmag",
+   "ts": 1795422600.0,
+   "m": [],
+   "s": [
+    "Énergie"
+   ]
+  },
+  {
+   "t": "Le PDG du Groupe OCBC explique les raisons de l'acquisition de HSBC en Indonésie - IDNFinancials",
+   "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVVBFMWRGb1p1dkhPd21RbWs5YVl0cXBQLW9sdFBPdVhCcHRkS1dDWmEwRDczOGtDSElVX0lrS3lldS1VenRxZEVnZnJxR1IxQVhSYWJiaDdwaC1Sb0NXVko2aTlaTUE3ZjJyTWpBSU9zNlhOZzVRdEdOM3FtQnN5bXh5c1ItN3JXNWhlNUhia3ZWUDIzQTJreElFTzVlaWhWQ0NVTGpaYTlrRTUxcDhqdlFocmVHMk9IZHpfMkhtdEYxbmpaQW80?oc=5",
+   "o": "IDNFinancials",
+   "ts": 1795422000.0,
+   "m": [
+    "Direction générale"
+   ],
+   "s": []
+  },
+  {
+   "t": "Ushare : remboursements annoncés, argent jamais versé - Signal Arnaques",
+   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5FSWRLdlZfLUZPb0ZXZ0RzQlMtcXBEc18xd2luSFhzVGJPNks4VEdiY0g0dGpjUG9jdGVvS1RZd2ZUZDFXWVFQYkVac25Velh2VVpUSFZ6UmNnUXk4dEZfTWhxRThNYnpMZjZGTDZn?oc=5",
+   "o": "Signal Arnaques",
+   "ts": 1795421598.0,
+   "m": [
+    "Marketing"
+   ],
+   "s": []
+  },
+  {
+   "t": "Un Centre international pour l’intelligence artificielle de défense annoncé à Rennes - DECIDEURS MAGAZINE",
+   "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZUF3MDdWYjlTeVdCeEtxZHR3bG00UjlSRUVDWjlIOWMzVUlIMXpJYUJhTzZ5UXYxSjZTRHFTYlVaNk5HTmY3T2EwM3lucXg1bV9Vc2k2YU4xQTZob0JDMkE3SG9sUzhaMEY4SHlYMGhBRnc4bzlEeFNfbG1OWXlPVmw2Y3ZONkEyYVh3SFNrTlZsSmRieXoycld6NTBaQmF1S2NaWGw5M2YyaFZrQWFPaXBrZkE3UnRtUkJfci1RMkh2WkhNUUFuaGo3NW16VVh5V3d4elQ3NE41dkIteHhySUJR?oc=5",
+   "o": "DECIDEURS MAGAZINE",
+   "ts": 1795421383.0,
+   "m": [
+    "Marketing"
+   ],
+   "s": []
+  },
+  {
+   "t": "Builders Factory : former les jeunes entrepreneurs à Paris - Presse Agence",
+   "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU0U5b2xJYXpaWWotbE0yUW1qUXhyV1NnUVZCODZYRmRsTzdWNC0tTlBmamVmVWdfNjBuSUs5bDhPUUR0UDB4SUlSbGNVTFNRTGVVOTBCM3Q4aEEyMzQ0RjRYMmxNbnlXcWk2UUFWRVBPOENlb25mM0oyTlJBVEVwSFo2bGJzZVBDSkVhcVNpMGJHTkV0Ylp4blRKeTZKTFJkeS1VNDB1VnpJS1FOaXc?oc=5",
+   "o": "Presse Agence",
+   "ts": 1795420800.0,
+   "m": [
+    "Marketing"
+   ],
+   "s": []
+  },
+  {
+   "t": "Marketing : 5 tendances qui vont impacter les stratégies en 2027 - Comarketing-News",
+   "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVHVZSjNPS1VEeWYwbjJJdDhGUmw1dWVsOWM0MTc2THNUU0oyNmprZk44ZG55RGxLZDZhcUgxN21FaTZQVjVQWUt6V0NGTldfdVBIcFVNNk9RdXUzTnozbTlIaU95UzZEZ2xMUGpnR0VaWEp0TUZrX0RybEJqWXZidnZiYS1LMUJZRWRfWHlkM25PX0VsRkE?oc=5",
+   "o": "Comarketing-News",
+   "ts": 1795420153.0,
+   "m": [
+    "Marketing"
+   ],
+   "s": []
+  },
+  {
+   "t": "L’Arménie va créer un campus de cybersécurité avec le soutien de la France et de l’UE - Nouvelles d'Arménie en Ligne",
+   "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWFB3cG9BZlJGZU9Va0VEdzZvSE1jbThJbHFwUlVIZk52OE13Z1hrN1QyQ3ZnU0xvMnl0Y0VTR3FtZ184eWp1MUN1aHc1OUhJVkNrdGRDdnljOGVSOFQ5Nk5Za0ZwSTNvZlNZZ0ZGM2txMXFaVEZGRG1kSUprMWpmRV9VYkhTclNxdlc1YXJCM0xnNzZyUF9vTUhWS1lzUjJ4YjJkU09vU0dWWktJVmc?oc=5",
+   "o": "Nouvelles d'Arménie en Ligne",
+   "ts": 1795419095.0,
+   "m": [],
+   "s": [
+    "Industrie"
+   ]
+  },
+  {
+   "t": "Erevan et Téhéran discutent des perspectives de développement de la robotique et de l’intelligence artificielle - Nouvelles d'Arménie en Ligne",
+   "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUXRwVjBwX0NWRmNmdnlXTy1KWkhZdmd2dUVxX3JVd2IxWEZyRXAzc1h4YXliQjc1dWZCdW5TdXlUblN4eS05b0ZMSEJpLWhyV0NwVDJVd0tsYm1DUzVNY3NnOE5tcVFRWXZnUU1KMVNQbE5PZmJvWVdmamxSZmhzREhMQk1HRkhfQV96YUlWYzZJelN2TTIyeGZBWGswUVJpakJ6TzdrT1ZRT25qYURnSnA5WEZrT3BVZnhIN0xMcFZnODJFOU1lMnJKLW1mbFZodWc?oc=5",
+   "o": "Nouvelles d'Arménie en Ligne",
+   "ts": 1795419022.0,
+   "m": [],
+   "s": [
+    "Industrie"
+   ]
+  },
+  {
+   "t": "Coffre-fort à la banque : agence qui ferme, coffre ouvert de force, bijoux perdus ou faillite de la banque, comment récupérer vos biens et être indemnisé - Reda KOHEN",
+   "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMUZ4RXFyZk1uWWFFdlVFcXoza2NuQVNQU1JFeDFORDVJXzZ6eDNlWGVLaUQ2S2VUclAwNHNfakRHNk1EWGpiZGVfTXZPUkdna0FrTGJOODdPbkVnZlpWcHUtZG9SQjdCTTJyb0U1XzljTks2NXZ1RWt4SGJ3ZmxMQklMWktsZFBqaUtpeHFsdG9xTDNwNlJWNjQ0VTBLWDBMejJDc0tzdV9tNnpBVzZyWUNDR1haeHBVTVVRZ1hBQmJ3eEVLMlhaX3Z1TFNKMm9UYUFJTzAwY2Q?oc=5",
+   "o": "Reda KOHEN",
+   "ts": 1795418580.0,
+   "m": [],
+   "s": [
+    "Banque & assurance"
+   ]
+  },
+  {
+   "t": "OccupySaaS : ils recréent Auth0 et Salesforce sans copier une ligne - Les Smartgrids",
+   "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeXhPdHBIUE1zTGxCSEVXZ0pKUko5cGJCdUxPTUdQS19MWTlvUlBTalFsa0tqME5TNXhuMzlQdFFyLXR1cGdub2tIVnpGTXFYWlU3WV9MVUx1UWFfX3pCMlNPN2toWVcxb1hLdkpXTHcwSllqaGxkNlFIMThRV1BCYlZ2bFhWVTEx?oc=5",
+   "o": "Les Smartgrids",
+   "ts": 1795417440.0,
+   "m": [
+    "Innovation"
+   ],
+   "s": []
+  },
+  {
+   "t": "Bureau Veritas met la main sur Topo Solutions - Option Finance",
+   "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ0VDN3M1VlNFRWx0T1ppekdKZzZLcXViandJVi1WNkdxWVJnOGgwU1NFUnlKYnFuTUVYSFRpN1Z5eFJ2TjFCZXQyTm5HZ3VqMk8yYWNpMUt3NEdiNFVRRmQ3b3dpeEJSZ3cyaXl5dk5lUjc2UDJXWGh0eVFFYXRQOVdHdThKeUxXeTgwNDRRMk53a01VNlNSVWxmd1ZzeXl1TUlNYmVHeDQ5SFdtaVpmYzNfN3R3SVRiZGdB?oc=5",
+   "o": "Option Finance",
+   "ts": 1795417200.0,
+   "m": [
+    "Marketing"
+   ],
+   "s": []
+  },
+  {
+   "t": "Dekuple : le marketing digital et l'international poursuivent leur croissance... - Boursier.com",
+   "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQW5TWnlZMFZmdmVsc1JHSE5zREg0SlNRelBtUHBzTGtBSFdtUzFUNEN0RjRMM0E1RmlITk80MUk0NFRBdFVVZmdENmlHY2t2a0dWZU92UVlNS2FkTGRFYm9DTDI5WGlmTXk4TWUxNHRrVktXRUt3dGx1ZEVJUnkyVHROSm42SjlCdmNsV3NCNFJSZDFSRE1qWTlRNWt0eHNRY01EbmViMzVud0ZDWGpXUXFxWjY1c2RCUlZGOF8za1VhalRxZTE5cWdjTkFHQzRjVlE?oc=5",
+   "o": "Boursier.com",
+   "ts": 1795415400.0,
+   "m": [
+    "Marketing"
+   ],
+   "s": []
+  },
+  {
+   "t": "Hausse du chiffre d'affaires pour Dékuple - Boursorama",
+   "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQ0ZNY0JNaC1XMGh3NjVEc281R3dMTHpzdExLczlNZERWMFdURnhNbnh4Y3JqbU82ZERhdnh4RGVrQUV2bUNaVlhtSFFIVzlmYlE5ejFmd2xWbklZUUtYMUlKUnRyWDhPLW40LU5lc0NuNEE2U05kbkczSlJXams2NGpZWHBzeDV0UFFFNk01V1BmelpHN29SRUp0a0VIVU9SVTJoYk9HZTV6eHVqRk9MMTgxMEZ4a0NmbExVY1lWZ2zSAcABQVVfeXFMTkNGTWNCTWgtVzBodzY1RHNvNUd3TEx6c3RMS3M5TWREVjBXVEZ4TW54eGNyam1PNmREYXZ4eERla0FFdm1DWlZYbUhRSFc5ZmJROXoxZndsVm5JWVFLWDFJSlJ0clg4Ty1uNC1OZXNDbjRBNlNOZG5HM0pSV2prNjRqWVhwc3g1dFBRRTZNNVdQZnpaRzdvUkVKdGtFSFVPUlUyaGJPR2U1enh1akZPTDE4MTBGeGtDZmxMVWNZVmds?oc=5",
+   "o": "Boursorama",
+   "ts": 1795414620.0,
+   "m": [
+    "Marketing"
+   ],
+   "s": []
+  },
+  {
+   "t": "19e édition du concours «Media Star» d’Ooredoo : l’IA et les nouvelles technologies s’imposent - El Moudjahid",
+   "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNb2VkRHJkcjJXODE5ekVvRWh3QkZSVTFJM2h0TWd1YXFOVnhyWDVwRGRvYkNwWlZIanI3Y3pmWlB4NmNURTZwbDdKc2dTeEdyMjRZbjFDQklvVHp1LWdTa2dVcmRISDNVNGdzSFVlSEZzd2pCUkowMUc3ZUVObUdJNFAyZTRWYU1ONDFiVFVvSkVFb2FXbmMtTjJZTFlKTXZtRWR6bEs0VU1LZmZ3R3dKRk51QmhXZHdSYlpmWkhRV2dVWnpERmhUYVd5S1RPYjdPcUE4?oc=5",
+   "o": "El Moudjahid",
+   "ts": 1795414469.0,
+   "m": [],
+   "s": [
+    "Médias & télécoms"
+   ]
+  },
+  {
+   "t": "Grands brûlés : le laboratoire Urgo met au point une peau artificielle à partir de cellules souches - Breizh-info.com",
+   "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaC1CNWtNRVhSUGliX1BZV3VrNHVPRUFFMWtPZTRJamxzVkRBSW5CMHVOQUtaS0hXWEtSVVpuT2xQX0F1ekpvVWxmbGZzcktSdi03UVdrQnoxdkc5SWZLQ2k2OUYzank0clNXNEE4RTJHMmJ4dmFTRlBUX0oxWGgxRWVtR1Jxams3NHVPQXJxRTRqSG1wUWJnMlR3T1ZoQ2xTWDRaYTdHbnhwZjFhYjd0OWt1S18wQS16SHF1STkzTVdXOE9CVmthZGdLNHBBMVdvRHV5dW1UNnlwcHVo?oc=5",
+   "o": "Breizh-info.com",
+   "ts": 1795413811.0,
+   "m": [],
+   "s": [
+    "Santé & pharma"
+   ]
+  },
+  {
+   "t": "Mathieu Tarnus : « L’intelligence artificielle libère la capacité des gens à oser créer » - La Voix du Nord",
+   "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ1ZIb0d6RkVGUGVqcEs5OFhlSmtwS3o0XzljSi02VGdDNW12bWFibWFiekNjanJpNWN4Qk5BbWZhblRjNTRBTkJsZEV4XzJEbTRvN3c5b3FFa25sbFdnOHBWSXZrYW1SdEEydUxiOHZCVlB5aXRGNF9feWFiQ2NCYWVKYlN1anZqeWlndEFWc3l0QVVQVXpEZ1lOM3IxYTF5QVZ1S3hBSEwtX2RDSWVTa09RVkdzSE1FLTNmRU1ub2M2bmZlUHFqbTBB?oc=5",
+   "o": "La Voix du Nord",
+   "ts": 1795413600.0,
+   "m": [
+    "Marketing"
+   ],
+   "s": []
+  },
+  {
+   "t": "LE GROUPE DEKUPLE POURSUIT SA CROISSANCE SUR LES NEUF PREMIERS MOIS DE 2026 - Yahoo Finance France",
+   "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ09ibElWSnFEdzZ3VXBaNWktZkhJNHVPNWlfQUdKUlVrRWZ5dm1TLUI4clNfVkRwT3l0TVM5MFFtczhlWXNGWGwyZGduY1Nzek01VjlVazEzazlXZkloZVRRSTQzVFFJNGVOSURhbVhvY1FudGNxSVY1dnRhNUtRNS1ucUxQQXpBTXJIamY0T0JGNVF5eWtkSUt3?oc=5",
+   "o": "Yahoo Finance France",
+   "ts": 1795413600.0,
+   "m": [
+    "Marketing"
+   ],
+   "s": []
+  },
+  {
+   "t": "Haute-Savoie : La filière jeux vidéos et multimédia continue de grandir, mais craint un plafond de verre - ODS Radio",
+   "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxON0NsWktMMjhaaUlNZ1E2d2JIYXdrNVJpekJYcmRDLTlzYTY4OGtqZ240SW9KOWVVbGJGRk9zbzd0YS1Yajh2N0F5SzhiLWQ4c2hoN3FyZlJjUFA4SjlpdXBTZ2dxSFh2bDA1OGV4N09abThFSFM4bERoVXBvWnBPa3EzM2Z1VGpoazlzRnUzLVRrd3lZNWRtZzVyTnpYM0k1WHBfNEo4a1NZQ1l2RjdzWDh4N0J2d3I4RXJncmJGOWc4cS1OVlpHTVBTbExoLWh5YTZqUXlkb2NmaktQVGZF?oc=5",
+   "o": "ODS Radio",
+   "ts": 1795413600.0,
+   "m": [],
+   "s": [
+    "Automobile"
+   ]
+  },
+  {
+   "t": "Scout Motors commence à assembler des véhicules de validation - L’Hebdo du St-Maurice",
+   "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRzY0UzJzQkRRSVo1TkZLdzFuTzIxR0lvZDhKLTdJWnFPaEZlQlZnc2JMOGc0Z0lXdVBmMElpMlBuSlNkajgzQXVBakNmR1p5NzhnVlQ1WDB3bTlJVmNiU1UwM3RyWWpJcUx2ai1UdExlY3NERURHNERZM1VyN29Qcnhpck00WlByaTVVbi1ENWtfcVd5Zy03bXRsWjBydkw2OHVnZldJbklCeklNM25JYmdGTFE1eHY0Q1E?oc=5",
+   "o": "L’Hebdo du St-Maurice",
+   "ts": 1795413228.0,
+   "m": [],
+   "s": [
+    "Automobile"
+   ]
+  },
+  {
+   "t": "TÜV SÜD inaugure à Guangzhou un campus de certification pour les énergies nouvelles - energynews.pro",
+   "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaGhhUGZjdkZ5eER5UlY3U3ZodkNjX3RiOU1Fdl9WUndFNUZtOXRyUE15Ny1YZVdMd0FrQ2lYQ0x1X0RxdGt5eXhwNnJaNklSaEU0Mkw5Y3VvX01yOHQ1cEhzUkVPX2J5WUowODYtSmIxZlhJYlFzWmJjZVo4NDl1M3E4Vy1mMTE4WDJaM2c5RUc1TXRGeS1NVnA1WndrRVJVU1FSV21ndUxQZw?oc=5",
+   "o": "energynews.pro",
+   "ts": 1795412005.0,
+   "m": [],
+   "s": [
+    "Énergie"
+   ]
+  },
+  {
+   "t": "Interview. Roland Lescure : « Malgré le climat actuel, les entreprises continuent à avoir envie d’investir » - Le Bien Public",
+   "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVW5LZGVGNjZSRENhWDBtYVJ2bmhYZ3pfRlNBVGJQQ1lDbU1zZDNhMnVraXJSbFI0V1NpWEZ6NHNrNGJGZm5yVDRrTURRRDJsSVp0M1p3R3l4eFBhV0tnQXRZU0dfWGF2Y0tjLXVJU3JIeVdyd0s4TmJ1Ym9Wamd2cU5Qb2laY1JBeV8yblU0RjZwSXNOZFBnS1JsT2xOVmN6N0lpM1pNaUd1SjVlaThET185NzdJMzRzZTlFZWpVOWFvLWxNcWxvaEtEOUI5dXk0X1VV?oc=5",
+   "o": "Le Bien Public",
+   "ts": 1795411877.0,
+   "m": [],
+   "s": [
+    "Industrie"
+   ]
+  },
+  {
+   "t": "Pourquoi la Banque centrale européenne redoute que l'euphorie autour de l'intelligence artificielle ne tourne à la crise financière - ladepeche.fr",
+   "u": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQQ1JlNUJ1Skk1TVdkNDhfNXFqM3N0clNDS2tPYmltUHFDeTRzQUdfZmk0MndPRE5nZHNQWnRpZmpXWUd1d3ZOZXA4bzNnQXlRMmhNRnVWNnJtNHk2WDB5LXdiUmJMcEEwNUVLX0xvQjRObjA4SkZYOUVmQzQ2TGdwUUJmYVp2VjBrVGRGeGt2bFdFRmU0WXJWcHVWcUFkSWxCdkMwczR1RW9FdTYwV2hIM2kyU1RaZVZXUW96TmJzUjBUN3QzWlRNVW9GVDdWUmU4R0xqQjJ5dXBUZTlBQXZFVUxXZ3JsenlFYXNsQWtsVFVHSHFiYXlGT1pmX3hoakNBblJLeTg1LWpKdw?oc=5",
+   "o": "ladepeche.fr",
+   "ts": 1795411860.0,
+   "m": [
+    "Innovation"
+   ],
+   "s": [
+    "Automobile",
+    "Banque & assurance"
+   ]
+  },
+  {
+   "t": "Logiciels dépassés, agents IA de plus en plus menaçants : l’énergie en première ligne face aux cyberattaques - L'Express",
+   "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTWxXRzFUdVJRVUFqVk9xSGs4Vk5oazVvZThVeDh6VlFxS0dxZmJ3NGhIakVETi1jUHJBRjhXN01hajgzdmVvU3FVTVlwNlIwZFUxMlYwZVZuUFJWTmZEVUhyMHhMS3pJRlRJenphY0hpYVIxbXYxNGZ0bnpCQV9zdEhWVHZmZmtCWXdYR1VQOWVOTl8wdXhIVC1QTG11bDJvWGdhdWpRVlpOejd6TGJKd3ItLXpMdjQ2QjNRQnpkY0NGOHRzZ0JocGMxR0o0ejFnc2daWUlMT21HVW05b0VpZFlSLVdZUHBxTXlUZg?oc=5",
+   "o": "L'Express",
+   "ts": 1795409100.0,
+   "m": [],
+   "s": [
+    "Énergie"
+   ]
+  },
+  {
+   "t": "Une accélération stratégique est en marche - Paperjam News",
+   "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBjYXA3Nk1CVjlrRXhTRWpoZFkweDVrLXJjVVpXVUJENlRsOWlOVEtxMHk1QjROMUhUZDVYeldOQTI0OFdBbU03NTF0ZlhmRXEzaWdySUE0SFQ0cm9YeWx2RVdZcEp4MThxNlJiWTRIYmhGaThZc29paFVB?oc=5",
+   "o": "Paperjam News",
+   "ts": 1795408216.0,
+   "m": [],
+   "s": [
+    "Banque & assurance"
+   ]
+  },
+  {
+   "t": "Gaillac. L’Imprimerie Rhode s’adapte à l’intelligence artificielle - ladepeche.fr",
+   "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVHlrdXd4SnBfaW1vYy1vaU5BM3NOZWZHeEpkdXRYWFZ2eTlDSlNTM1FUaHYxbTZjUnFjR2d4WmlHRUpMQ180YlIwdDdxZEx4dWVUYUNPNTVKbWcxamVuOFUtMzdKYzNBSXhiQWVnSm1FTXpWa0tDcGFhbHdrOHdRb3VNcVpJbWE4WVJJSWNtbW43eUpldmhlX3NiU3g5ZEJybEV1WE53?oc=5",
+   "o": "ladepeche.fr",
+   "ts": 1795407120.0,
+   "m": [],
+   "s": [
+    "Automobile",
+    "Banque & assurance",
+    "Industrie"
+   ]
+  },
+  {
+   "t": "Déliaison assurance emprunteur : ce que dit la loi avant l'offre de prêt, délai de réponse, refus de la banque et prêt de SCI - Reda KOHEN",
+   "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSzB3RzEydW1tOEJDNE1mcDJBZnBsU3MzQXo3RmtZb0JtOTlEMzNuMjVkS1VWQ25UN2VRaUhGNTlPT3dBQkU5YUEwMHZmR05jMWNqQ05FSVk1ZmxUa1lTajYtQlNmTWM0VmU1djdwNkNLWnpmTDVVZER4VG95TWVCbWpEemxTTDBfbW5UcGFXTDloMEpxVFIxY2QwRXlXMjIzaVJkekV2dUZTbmtRcXk4?oc=5",
+   "o": "Reda KOHEN",
+   "ts": 1795405320.0,
+   "m": [],
+   "s": [
+    "Banque & assurance"
+   ]
+  },
+  {
+   "t": "Remiremont – L’intelligence artificielle au cœur des échanges avec Romain Marsily - Remiremont Vallées",
+   "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNG5BdEhpbHYxSEN3VXNVYWkwbTFlU3lfbnFzcVBvTTRjVWVaeVRvWXl1UXVKZkh6ajE2WExFakVUVGxrYVRiMUZ6NDU5ME1DS2RORmp5OVV5TVlkZHNrR3ZvUmpuQzRNb18zc1FPMlhkY2lxR0ctcmVTZE1ZRkNlc1ZwejIyaGJrTk9EaVY1aHVYLXpYTU9aMGI5SlJLZXdMYkRGSVBGNWNBQkV1enNTWjd1RnRPZkszeEFpRWV3?oc=5",
+   "o": "Remiremont Vallées",
+   "ts": 1795404580.0,
+   "m": [],
+   "s": [
+    "Énergie"
+   ]
+  },
+  {
+   "t": "Houlomoteur : premier déploiement en mer de l'actionneur CETO de Carnegie en Espagne - Mer et Marine",
+   "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdk5md2tvanRFam9RYVNlVWdiRHo4VG9rUWx6X2JfM1ZQM2ljSl9NbFprTVFOVnJtTVY3OThYb2Yyb1lzMWdCdFpBSTRGUUw4U3NrejlRY0tXSGk0dWNlbFNZMU9FQlphWGEzQ3RQTmNkQmdBbVBMUGY1ZlRvcXFjSlhYVlY5RXZyd0NETWJWRnBEaVdTclprYm9sQTM0RGp1aUxSbFRIT000RTJWeVFRTzlwZ2NMRGZyOUl5UHhZQXpPbHNWSjBRY29B?oc=5",
+   "o": "Mer et Marine",
+   "ts": 1795397220.0,
+   "m": [],
+   "s": [
+    "Énergie"
+   ]
+  },
+  {
+   "t": "Industrie de défense : Mohammed VI lance la feuille de route « Offre Maroc » pour 50 000 emplois d’ici 2035 - Capmad",
+   "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOS0lEYnoxWktfYng5WFh2eVV1cFpLWm44QnlaVElPcWhCSVNlaXF0dTFGSlRrU24yYUl0TDE5bnN3WlZXTlVBNHJ0bVAtSlotMTJrOHRYa256MTAxMlZKelNmQ1FuSHdHSVBpcjNZaUhUU0NhMWFyZ0ZYVmFtRXdlSWNQSmJ5TkR3aUZpMXIxRHdSU1JBZXUwbDlxdUdoR3otWi1tUm9uUURkRzRSeklITHlJX3hXR1VmbVliN3c4V1h1M051NzQ3RWtYRQ?oc=5",
+   "o": "Capmad",
+   "ts": 1795395540.0,
+   "m": [],
+   "s": [
+    "Industrie"
+   ]
+  },
+  {
+   "t": "IA dans l’énergie : Ofgem veut des preuves de fiabilité, pas seulement des engagements - L'Energeek",
+   "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN1lHYzFZdk96SFFBY1hYejZ2dnBmNEU2VURCeDl4ZUlTSGZ0ZzhjU0YwRW5CX19Lc0NudEJGUl83M3hvdTVBeEtrSDhVRFN1RFhHOENfekNsN2VFTGVyTWRQMldfb25EUVlacjFzVHFoSVdIa1RFbWFoX1haend1MFJIazlZLXJsMk8xXzdqa1lCZ0pLdmtv?oc=5",
+   "o": "L'Energeek",
+   "ts": 1795393134.0,
+   "m": [],
+   "s": [
+    "Énergie"
+   ]
+  },
+  {
+   "t": "Les centres de données d’intelligence artificielle augmentent leur empreinte environnementale et font pression pour une énergie propre - Noticias Ambientales",
+   "u": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNSjNXZEFXc3JRbjQ3c2ZQVC13OHMtRG1MS3NLdFRCNnVTem9qY19zQnIzd01JQzY2R1JKRUNkUDhRdlAzanJxdzRCTkRaTWotam95R1NlYVF3U1VaYnBwSnlYdGUxTjhtZlI3R244cFI2dTNkYU11NDlCLWNCN3lJYzBWQXV4ZlZLNFRoTWFVMmdBOVRWZ3ViMzJMTlRzaFlHRDk0U1JYYTdHaHhMdkJxZ2xMZXcxUjM3aTB6RjYxd2RmQjlNTHBFUWh0VGpNc2hPdHktdzlaNGVlVktKa19RanBuUkNoRVA0eUE2R3VCLXZkSGFBME5yckdlczhUVTZFeHR2STlQOW80S2l2WUNpcdIBlgJBVV95cUxPcFFnNGh4Z1Eyc0V3TjloNzNCQThZOFRQU2k5eUJ1Q0dKN1JyMFEwLTAzQ0REVW5XR3lDRkpFRzFSSFpMalg5UE9Sc0kyRTJtQ1JTUHhLeWxzdEhyT3ZGNUlHelJ3WndoWkpCcjl2b3F3NW9DYmdCemRJaHVnSTBaazJfVkNZWGs0STZ5QkF1LVU5YUdwQmFKcVRBUy1NajFuZkVONElUcU5mQVhFWmZBUGVwZG5UQ3BHVTdtSFg4WG02ZmFXTDhXNENmY2RSc0FJcnI2V3R4LXBlb2FORUxGTXFPN0pnMFBBbFJPZ1lqV3RDVEQ1R3NWQnlPcTlJYmllWTBIcnpxdldWd2FKMWdvYTFfbTl3QQ?oc=5",
+   "o": "Noticias Ambientales",
+   "ts": 1795388718.0,
+   "m": [
+    "Innovation"
+   ],
+   "s": [
+    "Énergie"
+   ]
+  },
+  {
+   "t": "Souveraineté pharmaceutique en Afrique : Macky Sall vise 60 % de vaccins produits sur le continent d’ici 2040 - Pressafrik",
+   "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSFpJc1RVRWZrRmViREZDZkFwMTZtWUtDOE56Q3pBQ0NuTHk4a3F2U2tXdWZQM0pCREFKQktRS3V6VjNIVVlpN0htUnBBOXVwbUV3VG5sV1lLWDNuMV9IYVlfazJPS0R0QjJ5MmItOEdiNEZXRjV2amJPdGVmczFqUWlSX1BoZHlXcTZSdnNZRXpreFpHWG0wZF9kV1pOWjlEZ3B3bGROeXlvdHJIWTBoRW1ES1doN21wWUZiUE5NRDhla19EWHY3TXBmSGpfdW1DMlg0WnBldEs4NC1UYkE?oc=5",
+   "o": "Pressafrik",
+   "ts": 1795382520.0,
+   "m": [],
+   "s": [
+    "Santé & pharma"
+   ]
+  },
+  {
+   "t": "IA et droits d’auteur - L’innovation justifie-t-elle le pillage de la création ? - GamerGen",
+   "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUlJEa3BhUWozMWIwQ3JBSHNVcFhiQXZIeTZ3WEpySXFRZVlFWWVPeEk0UjFyNzJpdTlSa3h4cWRmS2c3czN5TUVQWkdqOHlaeEhOVWllREhpMmk1SXZyYVJsRjBCSi1kZk9QZmNyWVlnamItWm5uYk1FQXF5NHJ4dmdVODZMTms4eDltYmg0RlhkYlNWRVF3Wm1lTk1adUJIYzduZ9IBqgFBVV95cUxOR0NIRkMxMEpldlBPaGsxQjA3UEVJdmVNaG9RWm9fRjVna19ZdmRRRVJwV202VTBfOWlHRVQzVGs5YUZxU3J2Wm5OUlhaZUpOQUZTVWtDdHNWNXNRbnkyZEFwelZvTkNoRzFUaVNBc0dQcU1CVG9zN19BZ3h5VnJaSVRXaVVNYUY4QmotUmlxUy1FTXVxQXhyeDhobENuZklCUUg3aFlMSG1rUQ?oc=5",
+   "o": "GamerGen",
+   "ts": 1795380434.0,
+   "m": [
+    "Innovation"
+   ],
+   "s": []
+  },
+  {
+   "t": "Automobile : la qualité, l’affaire de chaque geste - Les Echos",
+   "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYkVJa2ZNR2pvTFNOV1NCYllWSTJQZl9yS3E1T3BTTVBsSF9iRVZad2NacVFBWGx0Wlktc2ZxLTFiT1dZb1hxa09CY0dFTFctMjlpUnRsbjBqQ1hJck9pRjdOTjFpMHVCeWNKem9Wd2puSmhPR1M0cWZZN0dmN3BXR1g0U3FidUdPc1ZCcEhuNlREWUgzb2VPYWNwd0JRUjBDVHQw?oc=5",
+   "o": "Les Echos",
+   "ts": 1795379603.0,
+   "m": [],
+   "s": [
+    "Automobile"
+   ]
+  },
+  {
+   "t": "GTA 5 a appris à l'IA à voir la route, le FSD v15 de Tesla ressemble à GTA - Pasquale Pillitteri",
+   "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcmJWMWJ4X015aHltZzhRODFwMld6ZmNYYjhMeHRleVRnaXM0MkRTSkQ4RjYtQkFNVndzb1NrRTI2aS1NQXBqdUZqZUlwZmp5emMySXN1UE9RdXg1TjBTREFoTnpxYnNjZEx5cUhVMXdwdFlYWU1iY0ZCSjVQYU5vTE1HMkFBWWpZel9aTFY3QTJ4Ny1zZms0Rg?oc=5",
+   "o": "Pasquale Pillitteri",
+   "ts": 1795377728.0,
+   "m": [],
+   "s": [
+    "Automobile"
+   ]
+  },
+  {
+   "t": "SIREXE 2026 : La CIE mise sur l’IA et le solaire pour construire le réseau électrique de demain - FratMat",
+   "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTlNVelZFVEtueWtvLXZtU09sbUtEY0RuT3BYTUw5RGV1allpLU0wdTQxUktSb01JS1hNeFBCQW84aU1LMXFuNHVqOEJNUU1VMUFQZXN2aEFaNE5wNlBFalNxRnpmc2dhWEU4aGlRX09QSS1GZEJBV0VTS29VU0pubkNqdHN3Qy1Qb3VockVEbnhtQlF3ZnVaMlhKeERrMzBSYVVVQ0IzXzJmQ0VfLWtub2pNMTlEN2ttNVJfUWxmaS04UWpRdDhKVXUtdERqVU9GNzVGWW44TFBQQQ?oc=5",
+   "o": "FratMat",
+   "ts": 1795376880.0,
+   "m": [],
+   "s": [
+    "Énergie"
+   ]
+  },
+  {
+   "t": "Comment l'intelligence artificielle pourrait transformer le tourisme et les destinations - horticulture-abadie-pyrenees.com",
+   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mWFhjdTQ1dHpLTHpGbVpEOGF5TkZvQVlxU2dYb21HRjlVM0lXSk1TU2ZSd3JJOEtxcnRqU2NLS283RUxqYUxfSzRCemRCQmk5YW5oT3d0d0l3NmZjazFDa29IV1RzQ01SNlE?oc=5",
+   "o": "horticulture-abadie-pyrenees.com",
+   "ts": 1795374444.0,
+   "m": [
+    "Innovation"
+   ],
+   "s": []
+  },
+  {
+   "t": "Intelligence artificielle: les fabricants de serveurs augmentent les prix jusqu'à 45% - RFI",
+   "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYU9wZ1ZnYmJHbTZlRmR6c25vY2plaVVDVFRYZUc4RXpvZG9mZVZvQUtUVkc4UDRGamotYUs2R0RXR2tpbTJheVFsMkowSFhsSmFKSW9Hb29JUUcwejlXQVo2REM5WEYzSnYxVHEwN1YzWWluYTZaM24xQklNSjhrR19XWXJUVThKMXV0U2lWR3ZqaUZlb0FzblNaUTJlUHdYbVlHLU85d21qMUZhQVVJMlJfTl9FbzhVWVFOX2hGWnB4UXhad1FZTGt5c210dw?oc=5",
+   "o": "RFI",
+   "ts": 1795373169.0,
+   "m": [],
+   "s": [
+    "Industrie"
+   ]
+  },
+  {
+   "t": "Question de la semaine Comment l’IA est-elle en train de redéfinir les stratégies marketing ? - La Presse de Tunisie",
+   "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbkROSzQyV3MxdTdYY3lvcTFSUnNJVkRFNHB2SHBmdWlzUHZ0dUlTekNyLXpoMnAzTzlYWnk1Q0F3SlVacVRyTjRjSGx0akpvV3lMcFM1ZllhN0pjRDl3YWRwOU91Q1FfY0RPWWx6N1FWOGFSaWpnWFVUOW1ybktjUmYxUS1YdFdPbDU0VllZblFhTXlyeTRKZDByMjc2TzV6NHEwZTQ1dGVCeHQ4WVpSNW9oczVkN0x4TTREVXJZNWxNUWtQ?oc=5",
+   "o": "La Presse de Tunisie",
+   "ts": 1795372419.0,
+   "m": [
+    "Marketing"
+   ],
+   "s": []
+  },
+  {
+   "t": "Sommet \"Choose France\"-Environ €15 mds de nouveaux investissements français attendus - Boursorama",
+   "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNSjNrWGttOGVPRGN1M2NxYl9kc1lQbm5DMmh1ZXZHbDZSUmQ1RDdUWEFuYXpmSzVTX3ZoQWVBVURwR1dubDlPRjE0TGp2LTRqRm14d0xNQldzRnAzc1dheDRKcTRsT0IxcjhrZnpnYW5VMzAxYlZSYVFjLVJtaHlaaEpDMG4xX3NlOG8xWEpZSmo2X3R5OUJzTHB4UXJISnRSVFRfeF9ZRkZUcWVZWlljT2l5ellmVGpDOHY2S1JXcmR5T045SHR5Um9Gc3F6R1pKNnZjY0lrTzFSY3JUMENFajRQZmQtZXBMdTBnNlhwZ1U2N1BKT2fSAfYBQVVfeXFMTUoza1hrbThlT0RjdTNjcWJfZHNZUG5uQzJodWV2R2w2UlJkNUQ3VFhBbmF6Zks1U192aEFlQVVEcEdXbmw5T0YxNExqdi00akZteHdMTUJXc0ZwM3NXYXg0SnE0bE9CMXI4a2Z6Z2FuVTMwMWJWUmFRYy1SbWh5WmhKQzBuMV9zZThvMVhKWUpqNl90eTlCc0xweFFySEp0UlRUX3hfWUZGVHFlWVpZY09peXpZZlRqQzh2NktSV3JkeU9OOUh0eVJvRnNxekdaSjZ2Y2NJa08xUmNyVDBDRWo0UGZkLWVwTHUwZzZYcGdVNjdQSk9n?oc=5",
+   "o": "Boursorama",
+   "ts": 1795370400.0,
+   "m": [],
+   "s": [
+    "Énergie"
+   ]
+  },
+  {
+   "t": "OpenAI plaide pour la perplexité comme métrique clé pour le progrès et la sécurité de l'IA - blockchain.news",
+   "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1qcE5tclBWSThOdXVKRHpYRko5S010Zm9TMkJnVFN1eU53ckhpSWF4aHJmdm1oZHVydG5sV0NNSVhjRG1vOFlfaVdGNXJMTTV3TW1GVFp5a2JHZDZkT3pkUHRyU1VhbUxzdjF6U3ZTd0VqX3VpVURoS3B6Zw?oc=5",
+   "o": "blockchain.news",
+   "ts": 1795370289.0,
+   "m": [],
+   "s": [
+    "Industrie"
+   ]
+  },
+  {
+   "t": "Bulle ou pas bulle, peu importe: l’intelligence artificielle dévore la planète - Le Temps",
+   "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYjJmdXo0cUU3b20tUmd3ZzltQ3VYdU1WdUd0TG90Z3g1d3FkclpPMWVYQU5zblV3VnVnZENQSzJ1WDRYTFlJV3dPWTNBWnYtVlZXb1JfRnRWZW5DLUJXQml3Z3VWQllpdURvNkpvRkpDcmV5UF92cDFpZERhenkyU0prSkRLaUpKWjlwLWpiYVdfRUVZT3Vpc29fWml3OE9qZWNhUGJybkxyRFBNN2d1aWUxS1RoajYxZ1BnQW8zLWZ2NGtnTUhqamEzRQ?oc=5",
+   "o": "Le Temps",
+   "ts": 1795364543.0,
+   "m": [],
+   "s": [
+    "Énergie"
+   ]
+  },
+  {
+   "t": "Intelligence artificielle : 25 000 offres d’emploi en moins en trois mois, les métiers les plus exposés commencent à subir les conséquences – Free Dom - Free Dom",
+   "u": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZWMwXzhRcm9iVG9heHdOdV9qT0pQcUVGcDg4N1RodktNV3E5alZvcHVBUzREdHJobF9LT0l4X2d6WkRPN2cyRmhaOXBQWWhfUTVrdEtVM0ZnbVY4OU9FZV9ZLWwwVWdYb0dLcEhHVS1PSWRPbHh4eU43MTNvbF9ubW9nR3V0ZzRhTU13d0JVOFVSbDBUYmFpWWhEMFVoVDhfOUZYM3U1bHVtUG8zajhTbkVWM1dFVm45S28xU2tGUTFyVlUyNThLakRBOWZ2Rm5adWF4NTdBTFJ6TUJOSnVNWE1sTVFhRWJfNnJ3?oc=5",
+   "o": "Free Dom",
+   "ts": 1795362890.0,
+   "m": [
+    "Études de marché"
+   ],
+   "s": []
+  },
+  {
+   "t": "Produire, soigner, innover... l’Afrique en quête de sa souveraineté sanitaire - Le Matin.ma",
+   "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU3RXd0t0elJEWkNrMGwwN2VKYkNWM1BRUVVDSGF6UzB0YlF2ZGpKeHlmNnRDaXlDUjhXa29lX3ZiNksxMXZ3dXVFY3RnOXdjdERwX1FacWVRY1NjVmczMUx4RDVqOW9tYlBaSm4zTlNMWlR5VHRGb2I4QXQ2eEtxckZfZjIwRWNXWmVDajdSQVRHem1UY2xIQUV2Zm9jNUgtVUdR0gGoAUFVX3lxTE9nUW1FNExWQjFCQXFmRlFCWTMyQnRITmF2cjM3YlNZbmc5STc3Unk5RHRlbFdCWmlQdVZKaTRLZ0owNkF1VGJQa181UXhNYVhnYWlISWU4TldYSVZaTG91YnlvQkdoUjctTWhEeHpUOGttTWpueVl6VzdCU3BNRFJCdzVDSHpWQ3FjNmw1Vnc4UF9ldnZUaUpXblgxS1FYWk9iU3V3T0FsRw?oc=5",
+   "o": "Le Matin.ma",
+   "ts": 1795360500.0,
+   "m": [],
+   "s": [
+    "Santé & pharma"
+   ]
+  },
+  {
+   "t": "Le ministre saoudien des Communications et le ministre bulgare de l'Innovation examinent un partenariat dans l'intelligence artificielle - وكالة الأنباء السعودية",
+   "u": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBjdE9mY2ptaGFmTVlZODkyMHIzRE85T09ETG5PRm5EMzFWTWFseC1MNWhjdmhEZWtDQnFGM0pvNEkwQXJqWkFNa2Zn?oc=5",
+   "o": "وكالة الأنباء السعودية",
+   "ts": 1795359255.0,
+   "m": [
+    "Innovation"
+   ],
+   "s": []
+  },
+  {
+   "t": "Le dirigeant de Sunwah : Le ministère de l'Industrie et du Commerce joue un rôle de liaison entre les entreprises vietnamiennes et chinoises. - Vietnam.vn",
+   "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcEdWMWlKNGx0N1h1MW1TQWZJNW82MXFoenJpWlcxN1pmcVl0Q29vNWs4WUhiWFlYekszQ09GQXNZazlWMEZ3N1VLUkd4TFVJTzdkekdEVUxKcDFMMFp1dmVFQ0RwZ2RNSE9PRllJV1JEYWJqQnZkdXdoaWhEYmt6NW5LZHZSWTZveWJRTmg4RndUNXZCUjNSZ3lScWJYYlZoVFZZTHVVV21oUEcybjZv?oc=5",
+   "o": "Vietnam.vn",
+   "ts": 1795358719.0,
+   "m": [],
+   "s": [
+    "Industrie"
+   ]
+  },
+  {
+   "t": "Quels ont été les faits marquants dans le secteur de la santé la semaine dernière ? - Vietnam.vn",
+   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5UGFBNHp6M00yZFhOZ0VjVkZqMzhEZTJNaUNaTlVxZEJtQjFLTUdELUVXeVA0UGhvQm9FWEc1Qjd2WklwMDZXSl9FZnRQdXRsMDNWNjlGeE9ncjBUT2gwQkNDQVM?oc=5",
+   "o": "Vietnam.vn",
+   "ts": 1795358330.0,
+   "m": [],
+   "s": [
+    "Santé & pharma"
+   ]
+  },
+  {
+   "t": "L'intelligence artificielle va-t-elle créer de la richesse au Portugal ou se contenter de consommer de l'énergie - The Portugal News",
+   "u": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQYURCekRxT0drSksxbm5CazBOUm5sckdBOTFhQ08yQ0xBRXoyNlZfWEN1dW53X2VTX0w3VmpoQ09vSk41MXZ3NzlzN2gtVTR5Uzkxd1hIOVZQOFlueXpjZUxtYVhoTzZtT0k0ellZQ1ZUU0o0TnVYMzRJd0lONE9yN1JwTlVpaHo0MmpzOFRmSkk5enFKZzhDSFdpMVpwV2R0NURSdXY2bEZRS1d0NjNVbE1TTVJoRC1mOVllMUpDRmNINW80dlRORzNGS1BsUHBZMWpMM0lGYVNUOUJQbEx3MzE3X25nU3ltTmRDbEFXUWdWUjc1Tk9IcU5ad0Vic0FpcmpIeA?oc=5",
+   "o": "The Portugal News",
+   "ts": 1795357975.0,
+   "m": [],
+   "s": [
+    "Énergie"
+   ]
+  },
+  {
+   "t": "L’IA au service de la révolution verte : Le dilemme d’une technologie qui ne s’arrêtera pas - Réalités Magazine",
+   "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRGNVY1pWRUJTS3RKRjBxdzhZbWpyNDNCTS1zWGZzazR0OXBXMWUyMmw1aDNpR25JTjQxM3dULUROUTZ0REhITmx0VnlFVmdETXZDOURxSkF5VzNldl84eGI0NGdzOUZwd1lTWDBwTHlUY3FOQ19YUlYyc1M4cTBSTS1ndG5UaEd1MmNjdHNfOGU1Sm95ZVFTRTRQdjdyYjlLSzUxTHh5WWpUQktiak0wT01kSGw3SU5heHc?oc=5",
+   "o": "Réalités Magazine",
+   "ts": 1795355837.0,
+   "m": [],
+   "s": [
+    "Énergie"
+   ]
+  },
+  {
+   "t": "Gestion de trésorerie : les trois meilleures applications pour TPE et indépendants - Le Parisien",
+   "u": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQNFBlcXlmMVBmYjUtWThack9pVkpmSU9xSFhCT2g0M0lvOEdTSnFrYXp6YnMzUlhxUjFlUkQyeTA3ZUdYclJ0LXZPX1VTaTI1c2dKSDdzUUJlbkpvbG56Y2xrOXQyaWdhZUJyR2JHejZYVW00WFZvMmZRWUk5ZUJOVXFKNjNnZlA2eEU2QkVxV3JELWpfa1dhTW1aT3UtbjlMYTZLS1pEOW1VVEppWUt2Z2hQN2FWalJ1ekVxVVNMZmt4a3hVTlNMNG5XTVQ4TjhsdnRENnR5TnJid0RpMGVxQ2RhcGJlVUN3eEZVRGJnTHJjQW9XazY0dEdvS0Jzc25nV21RdjJKY2hkNmtGdVZLNG02V3hOaDJ4dzJJdmFjVFJObERybzlz?oc=5",
+   "o": "Le Parisien",
+   "ts": 1795355160.0,
+   "m": [],
+   "s": [
+    "Banque & assurance"
+   ]
+  },
+  {
+   "t": "Hausse des revenus de l'industrie numérique en Chine depuis le début de l'année en cours - وكالة سبأ",
+   "u": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE15MDZwbjVINUVSdldmZnE3SkhyUWFjVEJ1M0s1YmlKZFF2TlFkdjhyR0ZCbHNRcmlNcWJPYmk2U2wxLXJHbVJrdlh3?oc=5",
+   "o": "وكالة سبأ",
+   "ts": 1795354869.0,
+   "m": [],
+   "s": [
+    "Industrie"
+   ]
+  },
+  {
+   "t": "Xpeng prépare également un nouveau SUV pour l'Europe - Motor1.com France",
+   "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55b3o2QXNiS0VxY0NWR3FoU2g0SjktY21GRndkQjR0NC05NXNWczM4SEllZEotZGRrMDY4SlMyeWRLeVpUaXliUVY4VDlxZ1gza3ROZEF6Y1ZJNkxWUVp2OHY2Zm4yR0xoRGdlYkhHWQ?oc=5",
+   "o": "Motor1.com France",
+   "ts": 1795353128.0,
+   "m": [],
+   "s": [
+    "Automobile"
+   ]
+  },
+  {
+   "t": "",
    "u": "https://flipboard.social/@guiadeti/117660184197632245",
    "o": "Mastodon #IA",
    "ts": 1795351931.0,
    "m": [],
    "s": []
+  },
+  {
+   "t": "Choose France 2026 : énergie et décarbonation au programme du 23 novembre - L'Energeek",
+   "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWjJCRTR5cXRqMjc2alVURmVUdDdiTWlhWW9MaGxJMTExTVMzMldWWjQweWE0Y1k3STR1MVBkS1pnY0RWMlJWak1WejB3Unp1TXZncXJsek5LLWF0ZFh4M2UzYVhjaWdfaE5JZ0c3Sl9XNWtGelZtcGdfelNRRFpfc0c0ZmRiSG14eGl3YU4xWktJRGZMbUt1WG5uMW9MSEFGbVk4?oc=5",
+   "o": "L'Energeek",
+   "ts": 1795351048.0,
+   "m": [],
+   "s": [
+    "Énergie"
+   ]
   },
   {
    "t": "Tesla active en Italie sa conduite assistée pour 99 euros par mois - Foro3D",
@@ -47,13 +1420,13 @@
    ]
   },
   {
-   "t": "Vers un ralentissement du cycle d’investissement aux États-Unis - Paperjam News",
-   "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNd3VGS19pWnF4M3VHQ3NHTmp6WDhZS0wxSGxOVDAxbUtKODlzQTd1ZDRJcmkteXpXSGRnZEM0NVhTSXVuYldFdUFjNThsQ1FIV1VLa2pTaTRQZXhsWmhNRk1xajJaMUFiUkFGb3RRU3lJSzk3c1liMXNoNDd4YmpoSVJrbzNpckQteWtheTl3dnM1X1R5Rkd4Ri1R?oc=5",
-   "o": "Paperjam News",
-   "ts": 1795349475.0,
+   "t": "Corée du Sud : une fraude à l’intelligence artificielle provoque la démission du ministre de l’Éducation - Leral.net",
+   "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNklBSjRUUy1FMXhFZjBJMHRhdXU2dXU2clVYTVlUazNiU2FiV0JCQU5zX2s5SUtzMTZzNVJPZkNLcGJENkxqSTViRmJ5S1NvbGNZRG5ISDZISWpPaXRyNzdwTTdMNkV1WlVfZ083S2VpNE5oU18tM3RLeHNpOHU5OTJPRmF3QXdGVmNvNTVibW5fbFhBdjBFRzctVk9zYjcta1RkYjBhNGlLbTRNbURQZHQ3OUdRYzRGZnNFSm5ybTQ3ZUxBcHpUQXpaZl9DeWNQLVdV?oc=5",
+   "o": "Leral.net",
+   "ts": 1795349880.0,
    "m": [],
    "s": [
-    "Banque & assurance"
+    "Santé & pharma"
    ]
   },
   {
@@ -70,10 +1443,40 @@
    "t": "Tesla FSD V15 : une nouvelle vision de la route bluffante de réalisme - Fiches-auto",
    "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOEFxY09zS0xMTjZ1Q1NEUTVtcVgzc3pWOUZINng4UEYxT3J4QjAzcGpybXRfSHA1REFSX09zdzlmSzAwYWpaMFBDVGx1Q051N3JfalZoRWdUelBDX21KTTF0Q2hXZjZNamg2eHM3NFp2aF9SNGFPQXItRUdrNUxNbTFtZDd3S3FnUUJIUG90a0tBNWpUdi1OV25oRVZOWnJoVE5UZk1CbGhTay1xRDZXNURRc282V0ZBZXFWUnJWVGViZUl1Z254b2d5OTh0MklkeUVMM1Y0am15dw?oc=5",
    "o": "Fiches-auto",
-   "ts": 1795348125.0,
+   "ts": 1795348712.0,
    "m": [],
    "s": [
     "Automobile"
+   ]
+  },
+  {
+   "t": "Corée du Sud : Wi-Fi coupé, 68.000 euros de récompense... Pourquoi un scandale de triche à l'IA secoue-t-il le pays ? - CNews",
+   "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcHR5Q0QxR1JUcU85LUFINE5GNTVyMlQyREZXTE1LWVo4Y0kyMThlLVZMZXdRR2ZTSkE4bEJQWEN6RE9PaXlpa2E5YUpaSzZGNDFYR3FMYzhvVmxJdU5NYjdCUlM1Y0VZWjB6S284UUI1VndWOWx3TEU4TWhTZjVHdEVZZ3l5ajdXcnZPb3R3aG9fTjlNc3FiWllxWDYzaG1VQTQyVUdER2R1ZFpaZ0FhVC1uUFVpVkFJYzhn?oc=5",
+   "o": "CNews",
+   "ts": 1795348219.0,
+   "m": [
+    "Études de marché"
+   ],
+   "s": []
+  },
+  {
+   "t": "Santé : dix engagements pour renforcer la souveraineté sanitaire africaine - Lebrief",
+   "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcXd6OTgxWmVLaUZmckdWa1FmT0JXb19RZkpiMFJFb2NWa0FlQTBDUklRdHU0N1ZCa2l1eHgtSmlEaDAzR0Z0azExaWx2T3U2aWFVMVg0ZTZSblRmVENOOVBVOWdJMjhRSFhOQWh1TlYtQk9ickx1em1DWlBaNlBFUnBZR3VMcEMtNE1rTWs5YzJrMUh0UmRsZkNpVEY4TFNLeXc?oc=5",
+   "o": "Lebrief",
+   "ts": 1795346400.0,
+   "m": [],
+   "s": [
+    "Santé & pharma"
+   ]
+  },
+  {
+   "t": "Centrafrique : Radio Lengo Songo, RT, Sputnik et l’IA Claude au cœur d’une vaste opération d’influence pro-russe - https://corbeaunews-centrafrique.org/",
+   "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObWNvOUpoOGRfYld3MFhzYzVqZmtiWEM5ZlNOSWNrQWtMWHU2bnhxTzcyUWhkLVFDRTVxTk9FXzNHY0wwMDh1eG5Id0Y1YWk2UVdXZ1lNZkNmY21aWlVxYXJjTUJ4R1FSUENrUmw2b2l0clU5X2NCZy00UDNPWnNEc3dCMEFlZ0stR0hHeGdsRGxMM29xSE51dzAwNjNJX0VEa0N5ZWcxbGZZN1hha01lS0hGOUE0R0V2WU5oamg0SmNPU3VjckNEUHpsT29PdDJMY2dGUGNyUnl2amZ2?oc=5",
+   "o": "https://corbeaunews-centrafrique.org/",
+   "ts": 1795345200.0,
+   "m": [],
+   "s": [
+    "Médias & télécoms"
    ]
   },
   {
@@ -85,6 +1488,16 @@
    "s": [
     "Médias & télécoms"
    ]
+  },
+  {
+   "t": "IA : le cycle que nous avions identifié entre en phase descendante - Libnanews",
+   "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVndSWHotNFNaQ19MNUJwVGNHOEpRaEIzSjZic1BscEwwVnBNcmx1bnlCVGlCVllkblFrV1JiLUpiamlwdTE4OEVBSVJZOWhtWFVnRVlpblhUUmJLdzJCY0RfcnZWWlBELXVDbzhCUk9LLWI0T2VYanZIVlVKNmFiazAyNVFWNDlXX2dZd3JxYnE?oc=5",
+   "o": "Libnanews",
+   "ts": 1795344041.0,
+   "m": [
+    "Études de marché"
+   ],
+   "s": []
   },
   {
    "t": "Réseaux sociaux : le fil, l’algorithme et nos enfants - Defimedia",
@@ -117,24 +1530,44 @@
    ]
   },
   {
-   "t": "Formation I DU Usages et Bonnes Pratiques en Santé Numérique : se former pour faire évoluer ses pratiques professionnelles - Université de Limoges",
-   "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBwRFA4OW5aSjFJZDR6Slk2UTRDVTk1RzNPUWRDWUNFY2JzTUhQTU5ZeXVvTnNlMWk1Tl9QN19NdF9ycUk0RS1qcDlvRkYzYXg2N2hxSFBvSWFKa2NxcHNDdi1JUEhCVnFYVmYtc2N4TU1LXzh1LVRJY2ZFVQ?oc=5",
-   "o": "Université de Limoges",
-   "ts": 1795342261.0,
+   "t": "EGA présente son offensive dans l'IA industrielle à la Dubai Future Week - IndexBox",
+   "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQX1hMS3pmbXk2QkJpZFFzUGtHNUQzcnZRRjJzNXRnMkh5aHM3azV1NExxMVZxc0t3Y0ZzSWV1aHlFWEE3VVYtS2tmazYydmJ0X1dFV2k3ektnX3QzOUdhVldFcng4Ylg1QmVRcEcweVJjaFRRY1ljZG56d0xrVlFraTJacmZuUWFweDVOdG5B?oc=5",
+   "o": "IndexBox",
+   "ts": 1795342236.0,
    "m": [],
    "s": [
-    "Santé & pharma"
+    "Industrie"
    ]
   },
   {
-   "t": "Axelera AI : Fabrizio Del Maffeo primé pour son innovation en IA - Presse Agence",
-   "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaVJ0aGhEcUhHUC1lME03VGl6QmlPOUdqZVBlY2Q2WWdNSjhydU5WTEdiWGI5cUVmRTBqUjFybnNjM2w0N3dMcnU3YjdHeVo5a1g5MGJyT0JuVk9PNXM2Y0ZKOTViTDNOeWxFMF84djFRSmFmX1ZPZWY1RWp4QVFTWmstZE4tVnhtWXpQU2dOd21Eak1rbHYzdEtYc3lmYjZ6?oc=5",
-   "o": "Presse Agence",
-   "ts": 1795341600.0,
+   "t": "Live Advance Talks : L'IA, des études aux métiers de demain - jds.fr",
+   "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdWFodjJpVjktVFJ2emlRRlNIVE45R0kweVVoRlpHcHItanV4SmxvQU51MllpMDY5Wm5ndmhEV3hyeTd5TXhNZy02dW81bFFNandmemg1MkdOSXh2RFRIYlpyN1o2Um9mY1hveHBFTm9CeldBN3BkM0lmTzdTcHROMEljVXFMeFRVckJiRDJzd0Rfc0NQT0lwZ1k0MkJRSThtS3AyOEZDQnliNmtDSFZUTWtnUUJaQQ?oc=5",
+   "o": "jds.fr",
+   "ts": 1795342196.0,
    "m": [
-    "Innovation"
+    "Études de marché"
    ],
    "s": []
+  },
+  {
+   "t": "Suraccident à Louannec : une femme voulant porter secours à une biche blessée a été percutée par une voiture - Ouest-France",
+   "u": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPbVBrclRqTWR4bFktY0djT1FFclFBem51UWpZTHN4dDZSMmxLTWlxbW5zQkJuWUtlV0F2cld1N2gxTi1pWS1nS3NJM0NPa3huS2w1Y2RiZFFERWdWREh5aHVOOWJTazVILVB6cTc3VzhfRklHU05vR2V3Nkw5eU5KMDZKVmd0UzByQVk0UkJLZURNeF9ncDh2YnVUVmc2Wl92MXBReGJKRFljc0RGZC1sbm1ZbWtJYlZORURIVUZ3WnJqTFVkd3RBb2FuMHoyc2pLWXdTdUdLcnVPM2FHbmV0Y281S3NkeDBSQXNIN05fWmRNU1pPbjB3VjFpVXBLYnA2T2pCNW1qMDFTOFZUUjVLZFNoSF9ycXBBdzNlbG9yRQ?oc=5",
+   "o": "Ouest-France",
+   "ts": 1795341438.0,
+   "m": [],
+   "s": [
+    "Automobile"
+   ]
+  },
+  {
+   "t": "Quimperlé revient grâce à l'énergie de ses doubles face à Villa Primrose Bordeaux - NewsOuest",
+   "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR0ZreWJlQ2w3eWhfQ0dVNU52aHNTMThGNkFONU9tR004RWtpQklxSzRKZEJEOXJzRjQxeVN2Wl9KQzBKT2FCRnFZb3FqTncyMWIxTWFLOURLLVFHSzNXb3Vnb1NsWUtOSElxRk83NUpTNlNuOWNqSW9JazliMnlDSkFFUGhYMG1meDlfYVhVTGk3cE1NR1RudlRaZHozdU9NNXI2TVRPakEyUU42UHJFMlhCZ1NTUlE?oc=5",
+   "o": "NewsOuest",
+   "ts": 1795340862.0,
+   "m": [],
+   "s": [
+    "Énergie"
+   ]
   },
   {
    "t": "Voitures chinoises et aide à la conduite en Europe, qui est en tête - Pasquale Pillitteri",
@@ -214,6 +1647,16 @@
    "m": [],
    "s": [
     "Automobile"
+   ]
+  },
+  {
+   "t": "Vers un ralentissement du cycle d’investissement aux États-Unis - Paperjam News",
+   "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNd3VGS19pWnF4M3VHQ3NHTmp6WDhZS0wxSGxOVDAxbUtKODlzQTd1ZDRJcmkteXpXSGRnZEM0NVhTSXVuYldFdUFjNThsQ1FIV1VLa2pTaTRQZXhsWmhNRk1xajJaMUFiUkFGb3RRU3lJSzk3c1liMXNoNDd4YmpoSVJrbzNpckQteWtheTl3dnM1X1R5Rkd4Ri1R?oc=5",
+   "o": "Paperjam News",
+   "ts": 1795335271.0,
+   "m": [],
+   "s": [
+    "Banque & assurance"
    ]
   },
   {
@@ -317,6 +1760,16 @@
    ]
   },
   {
+   "t": "'Plus besoin de juniors' : les jeunes diplômés en informatique peinent à trouver un premier emploi - RTBF",
+   "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTWFtUEItVm84ZEV6Zko4X3VZWnM1RW8xa3ZoU2hYS0ZLVTA0YXhqZ1RtWnVFU3ZoSWNNcjctaEtoMjM1c1I5VmxWM2dRYkVaemtZWnMzd2NmcXpUZFVTY0lIQmdTRGsxVWpvMFZsOF9yTjl6a21mYzUtYXR3OWZsX0M0NV93TmdYaTE4aVdVY19xVmF3NXYyR2kzSF9KM0ROaHVMS2x5b1VSdUlucTFTUlhra05xZzNFRTFFVVBEblktMzk4MzNWOWc3NA?oc=5",
+   "o": "RTBF",
+   "ts": 1795327365.0,
+   "m": [
+    "Études de marché"
+   ],
+   "s": []
+  },
+  {
    "t": "Développement des ressources humaines dans les domaines de l'intelligence artificielle et des semi-conducteurs : un fondement pour les industries technologiques stratégiques. - Vietnam.vn",
    "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYzN4YThfU1lKc0ZDMTRjUGpFME02R1Z0RGZOcVgzNTdHazRCTVFUdURQdy0wMXBCYUF5UlhFU0ZESTdvZjEtajB2U0FNUG12Y19GUmdEUWhnanJqTERUejlUTTY1bmpwelQ3bnhFaFRFOG1pSk5aanFwT1k4UFE3dHBJQzNJV0drcG93NXpKQm1RU2xtWVRSZ2k1U3U1R1NIWHpIM014clo4OFBPUXZkU1AtYi1HRjZCWHZoelg4dHE?oc=5",
    "o": "Vietnam.vn",
@@ -333,8 +1786,7 @@
    "ts": 1795327228.0,
    "m": [],
    "s": [
-    "Santé & pharma",
-    "Énergie"
+    "Santé & pharma"
    ]
   },
   {
@@ -388,6 +1840,16 @@
    "s": []
   },
   {
+   "t": "Quand l’IA transforme vos idées en images, quels visuels ! - Light ZOOM Lumière",
+   "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQelRXT1JJNDNFWnNVWkRiOFZibW1JTlVuWDZ0SDA0M3lLOFJDT2VhUnZ4eDVjYlBkOUFsdjg2Sjc1QzVhTnZDSnhrWEgyRVVGeTZNX0phZ1lIdVdWVk5CMFR3WlNTMUVpdHdueDI3U0RxYkNISTU1RUhKRVBzcmYzekplMW9wYk9KQ1p5T0pucG55RU92X3NyNHFvb0JwZzYwQ1lEMmtONUp4RlJs?oc=5",
+   "o": "Light ZOOM Lumière",
+   "ts": 1795323645.0,
+   "m": [
+    "Marketing"
+   ],
+   "s": []
+  },
+  {
    "t": "« On est référencé comme territoire d’innovation » : à Lorient, l’IA au service du handicap - Le Télégramme",
    "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVUx3UE5vMTNOVG9WbXd4OUJiSF9JbEtfcmw0S0JNYTRMMnNNbkxYU1ZYSUFLdG9nTy1WekxNR2h0bDJwUWxFT2ZneTBpOThQV2hEZW9tdElqZUs0aVRrZVJULVpndkhydHhFWVNwZjd3QWcydG1yR1FpLWNPUDBUaVlTLW5XWEoxVld3R1dZUWVPZmlJQnNud2h4VGlWSHhMOWNOZFFSTENhOVJnNl8yM19wbV9zcDdWbFFBY2lkQV9KSkhVSldVb3UwWnNXeWlkM3AwdF9Sd0ZHSmVGU3c?oc=5",
    "o": "Le Télégramme",
@@ -415,6 +1877,16 @@
    "m": [],
    "s": [
     "Banque & assurance"
+   ]
+  },
+  {
+   "t": "Infor et Anthropic amènent Claude au cœur opérationnel de l'industrie - Foro3D",
+   "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPelhNZjBqcWhodVpSQU9Ta3Y5enlhdDFxcnZiSWdCUVR3Q0tEcWw5dVJnMjZ6RDc1MzN5TlZSUGRveEg1VG85VDRQaVRxQXZtU2VwRmd3ZHpaVDNmY1RVMUxKNjRrZjFXVnRrT2pEN0x5Q1JVQ1VjTm1XbkVMWDluVjZtcHVMNzVVbks2R0N5eF9rb2YxbHlJVmV0Ul9MMlJiTHllRkZXblIwOHdBV1E?oc=5",
+   "o": "Foro3D",
+   "ts": 1795322800.0,
+   "m": [],
+   "s": [
+    "Industrie"
    ]
   },
   {
@@ -446,6 +1918,16 @@
    "s": [
     "Banque & assurance"
    ]
+  },
+  {
+   "t": "Économie et marché de l'IA - ActuIA",
+   "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBkUjJXNWpZMGsxZXFhS1JzYzk2dnR3T2hsUzFBUVphb1FRbVhyLVBQUTAxZUc3eWkyZFZjVFJ2RFJtcDN2c3l4dlNEX21DLVZLRTNOcEVVMHNIbXZHRGdVZkdPbw?oc=5",
+   "o": "ActuIA",
+   "ts": 1795319246.0,
+   "m": [
+    "Études de marché"
+   ],
+   "s": []
   },
   {
    "t": "L'énergie géothermique surchauffée offre une solution à la soif d'électricité de l'IA. - Vietnam.vn",
@@ -488,6 +1970,16 @@
    "s": []
   },
   {
+   "t": "Mesures de lutte contre la tricherie aidée par l'IA - Agence de presse Yonhap",
+   "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1ZXVIWDRndjFONlhZRXFxbmtadUNHblF0cVFwSWh6T3Z2OUl6WTJCSkx4cmJQTk1NbWFQU09nT0pDTUpKNjZRREpfSF9nbFlISGwzbFBqa1FKckg0Q2VGWkdhTXNOQ1FKdzV4X3k3cmN5bTN0RlE?oc=5",
+   "o": "Agence de presse Yonhap",
+   "ts": 1795312055.0,
+   "m": [],
+   "s": [
+    "Automobile"
+   ]
+  },
+  {
    "t": "La politique industrielle connaît un « renouveau » en Asie de l'Est et dans le monde entier. - Vietnam.vn",
    "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYTgwOVFWbFVZckdBT0hMQ29pc3N2NlhhdDExSmhQZ0tXUW1kN2h4MjVGVWRVUUNSTldwQWlPOHFvTjFJNlN3Z1gxWlNlMjFwd2ktWlpsMF81MXlhSXZBSlNudVRtYzNVSTlhZGQxaVRTRUZfQ2xlU2Rjb185NWpTc3FXTEoweEVadHhvbVJyZHRDTWZqTHQ4ZQ?oc=5",
    "o": "Vietnam.vn",
@@ -496,6 +1988,26 @@
    "s": [
     "Industrie"
    ]
+  },
+  {
+   "t": "Éthique, confiance et régulation - ActuIA",
+   "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53WGpfYnBfRTlUd1lFdWlwM3EtUGNNcTNsZmg2TDVJdi1FdDNnY01DUGtaMkxDRVBQRTlJWHBTeVdvd2dUUkRPb0s1dmxNUnByU3JKNjlkVGdMYnd2aG5pNjJHaVZ6WlhDaFlNT2VvQVc?oc=5",
+   "o": "ActuIA",
+   "ts": 1795310287.0,
+   "m": [
+    "Études de marché"
+   ],
+   "s": []
+  },
+  {
+   "t": "Le livre, œuvre de création et produit marketing - RTBF",
+   "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUnU3bzF0bWpjZXQtLUZsQ0hOODZvb0VQWE5UX2xsdkdMbnR5LXBZZi1yVzRGM0laa01NcTZCTnQ3Y09PRzY4ZlZHYzZrRnE2Q05OSWdEalpMSTN3bm5aSnhvZmJVNnRIcm91a0g5UzRoZGp0SjhjMzNaVHNhT3pGYTJrWEt5bThXYkVj?oc=5",
+   "o": "RTBF",
+   "ts": 1795309460.0,
+   "m": [
+    "Marketing"
+   ],
+   "s": []
   },
   {
    "t": "Monte Paschi Banque devient Banque Nouvant : banque fiable ou pas en cas de faillite ? RIB au nouveau nom, garantie de 100 000 €, comptes séparés de copropriété et rachat par J.C. Flowers - Reda KOHEN",
@@ -508,10 +2020,40 @@
    ]
   },
   {
+   "t": "Axelera AI : Fabrizio Del Maffeo primé pour son innovation en IA - Presse Agence",
+   "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaVJ0aGhEcUhHUC1lME03VGl6QmlPOUdqZVBlY2Q2WWdNSjhydU5WTEdiWGI5cUVmRTBqUjFybnNjM2w0N3dMcnU3YjdHeVo5a1g5MGJyT0JuVk9PNXM2Y0ZKOTViTDNOeWxFMF84djFRSmFmX1ZPZWY1RWp4QVFTWmstZE4tVnhtWXpQU2dOd21Eak1rbHYzdEtYc3lmYjZ6?oc=5",
+   "o": "Presse Agence",
+   "ts": 1795305600.0,
+   "m": [
+    "Innovation"
+   ],
+   "s": []
+  },
+  {
+   "t": "FCM Travel nomme un expert de l'IA pour piloter sa stratégie - Presse Agence",
+   "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQREhFZmNxT0NPUmpFekV4azhhbERVaGs3NVc0NUlVOVJUSGw3WlFxWkhWQ3ZDYTF2aDFmdkx4RldIaGNzRlZrXy16VExfaG9GdWhsaVNzUVJzeXpDSVhOY01JUmJISU1pYjFfT0t1Ym03U09mM01tZnFGdDh1emhuN3N5d2VIRFNHRXV1S2lXMEo5SE9EbV8xN0NSMTM0ZEFVVGZmLVhsa0VkZU9KYTktU3VkLXJPdw?oc=5",
+   "o": "Presse Agence",
+   "ts": 1795305600.0,
+   "m": [
+    "Direction générale"
+   ],
+   "s": []
+  },
+  {
    "t": "PARIS : Énergie - Un foyer réduit sa facture d'électricité de 26 % grâce au stockage intelligent - Presse Agence",
    "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVHBsMW1Bd09oenNsOU4tY2FKeGp2TWFKTGFOVnVBb2JKTV81eWFmZWI0RGhjbEwxdW5GcF8yNVNxUW90Q1FuMjFhS2NRMXhUNG9EbFRQaFhFRzVwa2lObzZIcWtXV2gtbWF5NEtkMUNINmlLQnk3cEVYVThfUGN1ek5GeWNzZ2ZSbE9GMElhSU5DYjVSQzlpYWRjUXlXT1ZJZXdxM0ZJZVBZejQtd0g5TkFNT24?oc=5",
    "o": "Presse Agence",
    "ts": 1795305600.0,
+   "m": [],
+   "s": [
+    "Énergie"
+   ]
+  },
+  {
+   "t": "L'intelligence artificielle va également modifier la valeur de l'immobilier - The Portugal News",
+   "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSTQ1TkFTUTFIUGNIZV9vY3dwck9wM1VlOU5WNTBTNjF3TUF5S1dkQW96elc0QnFuNXEtVlBhVU9PRUJsMXNLNXVWVThuRjJrRTZjTXpfVDRyRjJfcFFhbUx4SW9nUUpMSDlxX1JaU2ZPOHFoWm9WYVJyQjRobWJKYXEwR3k4ajlib2liLWFiVk5mUld0NHpfVnpXLVJKVWFkZTZHTkdSZEtwTDZ1a0xQNW5IREhZbjN0SGF3ZlNjOUYzc0JndXZCYURVcVNUdFZPUnZF?oc=5",
+   "o": "The Portugal News",
+   "ts": 1795302111.0,
    "m": [],
    "s": [
     "Énergie"
@@ -548,6 +2090,16 @@
    ]
   },
   {
+   "t": "Thibaut Guilluy (Haut-Commissaire à l’Emploi et à l’Engagement des entreprises) | Décideurs engagés - L'Hémicycle",
+   "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPX2lhV0ZpNlIxS0pCNERONmx5LUxoc2pDbjE5SExmZ3B2RFJsMWJQMUxWeFBLUlppZURUZmxNVUVWNllBQ0drWTB4aXlBWDVkd3Q3ZzYzZDFoRjdib0c4LTJYaVhtU0xRcUs1VmV6ZkVhQTNURHYxdUN6c3ZIaDQtbHk0TTNfWDdFSDlhaXBQc2VRYzhGUU9DVU1NZElqNXVBeWFUYWJZQmtPRUVyM25MZ1d6ZHliVm11WUVaTVo2MzFSUURSV0E?oc=5",
+   "o": "L'Hémicycle",
+   "ts": 1795289517.0,
+   "m": [
+    "Innovation"
+   ],
+   "s": []
+  },
+  {
    "t": "Valant désormais plus de 2000 milliards de dollars en bourse, Anthropic a-t-il trahi toutes ses promesses d’éthique et de sécurité? - Le Temps",
    "u": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQbU5uVDgxTTBfdlFEWHZTN19heG55c3lIZEtRUzN0V1I0Zk84enNwS0RGY0ZnRml2aktBcDNLYy12SkpQMjhVUndXRUVLcmZQRm5RQlREdUMxQ1lwcE1jbHpIZHhULVlYY1RIa0lXYmo5SEtHdnY2VGFqWEE0M3Q5YUJvaEpWdVRxUGctSVRfd1RUQTRJa0hRWFB1RGIxMzZnMVJGZ1FKck1ISm5SeGd3Q0F5NXI5LXZ0SXhPZUdPMzFWTFdPcm5UbmlvSXlCQmJiTHRPZjZvX0gtd0RYRHB5NEE1b3Jqc3Qtb2plZ2JoVjdkMVB0OE96cXFjWWxoT2stNld3?oc=5",
    "o": "Le Temps",
@@ -566,6 +2118,26 @@
    "s": [
     "Santé & pharma"
    ]
+  },
+  {
+   "t": "Santé africaine : à Dakhla, 35 pays parient sur un indice d’investissement - Telquel.ma",
+   "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb3FQNmhUVjUwZEpzVU9nNk5IQTV6Tk1Uc1RaeEJiWW9lWnBqV1dMN2tYc0pmRGNRSU1XZ01FN2RISk4xZUVDT2lLbGpRWnk0X0lXT0Z4TXNQOEVqajRjT0NPdFlocFFfLWljMHpnMl9la2VKTkc5Z2FyRzRTV0w3Y0MwVEozNXNJakF3Ym1Xek5IYXFYekhhY1Voc3NxX2lmeVlOckF6UGJMWk9W?oc=5",
+   "o": "Telquel.ma",
+   "ts": 1795287070.0,
+   "m": [],
+   "s": [
+    "Santé & pharma"
+   ]
+  },
+  {
+   "t": "Ai future day 2026 : plus de 600 participants réunis à delmas autour de l’intelligence artificielle et des métiers de demain - Le National",
+   "u": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUTBsY2k1X0hwSFpkRzJEZ0VHRTRUeTMxWmREZFlYS3Y3V21NMVFSQnFDa2o0T3FRdGxEcnFBSTFUNUxvZTBob211R2p3Rk9SUzZYbFpVMExVclJxcXZKUFF1LURULUVndC15OURIRGpDLUpJUWk5VkNqdDRRbUR6dVNLR0NUYWF0RllYb0p1dUtCem5URnZ3ekllWTh4SjBXWmgwOWYxSjZZeEVyeVpuaEJXejl2WUFQTnEtd2cyWllCY2kxSk9GcFZwYjgxQnVMbDhBejFUMWw4YWc1RDE4Z3FVV1hxdUEwNmRzTy1JcWlUZ1h6aUI5RjFJR1h0Zw?oc=5",
+   "o": "Le National",
+   "ts": 1795286997.0,
+   "m": [
+    "Innovation"
+   ],
+   "s": []
   },
   {
    "t": "Tunisie-France | L’IA et l’investissement au cœur de la 4e édition du Forum de l’Atuge - Kapitalis",
@@ -596,6 +2168,26 @@
    "s": [
     "Santé & pharma"
    ]
+  },
+  {
+   "t": "Amphi de rentrée 2026-2027 de l’UPSD : Les étudiants exhortés à porter l’humilité en bandoulière et à utiliser l’IA avec un esprit critique - Seneweb",
+   "u": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOUWZjZFNManh2RHItWHVYOTVNLUw4bDRfMkJ1NVZ2ODcxLUJOWjFJQmZYbldnbFpfbDNWa1E4SkRLR01GbzZaOHh0R2kyZEZRUjVsZEYzUWR2X2FPQjFncUlpbHljV0o4QW13eUZzdVVpdm94bmJzMWp5VUpVMXRzWHZTQjM3NEQ5ZFg3dm83YXBOQzVwTWZXUzlENUk1dmJJSmRYN0h5eUZnVVE0UktGTTdVaWtOazZmX1I1MmwxWjlzZlZfZ3VhVWJiOVk3cDhmaUFLR0RBQXpfV2c4U1pvT1Z6RnZjbkZYNUpmY2MwS3ljaDFTR01TckFweVVWYlNYdFpKR3M0N3JoaER4NERZUTlrejFUVEp3?oc=5",
+   "o": "Seneweb",
+   "ts": 1795283776.0,
+   "m": [],
+   "s": [
+    "Santé & pharma"
+   ]
+  },
+  {
+   "t": "Les Émirats s'appuient sur l'IA, le big data et l'analyse de la mobilité pour des villes durables - Actualités et statistiques - IndexBox",
+   "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa1FJRGFoSUNiODBlblhoLTI3MjhISTVrSDdMOFg3OVBtR05wWjdBNEVSdk5XVnhXTW5jb3FWQU14dFZPangxVUhWaEJtWFVwal9MczMxSUg0TjlKcm5fT192SjJFM05oZFo4TUk4bmdLZTFSYzRvREkzdTZqTDBoaWFhcjlnbVVSMmMxVUNpcVE1eGhjc2t4Zk1DVHRwTnc4SGV0cUFaV2F1UQ?oc=5",
+   "o": "IndexBox",
+   "ts": 1795283443.0,
+   "m": [
+    "Études de marché"
+   ],
+   "s": []
   },
   {
    "t": "Perte financière LOA : voiture volée ou épave, que doit-on encore au loueur ? - Reda KOHEN",
@@ -1249,16 +2841,6 @@
    "ts": 1795219200.0,
    "m": [
     "Innovation"
-   ],
-   "s": []
-  },
-  {
-   "t": "FCM Travel nomme un expert de l'IA pour piloter sa stratégie - Presse Agence",
-   "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQREhFZmNxT0NPUmpFekV4azhhbERVaGs3NVc0NUlVOVJUSGw3WlFxWkhWQ3ZDYTF2aDFmdkx4RldIaGNzRlZrXy16VExfaG9GdWhsaVNzUVJzeXpDSVhOY01JUmJISU1pYjFfT0t1Ym03U09mM01tZnFGdDh1emhuN3N5d2VIRFNHRXV1S2lXMEo5SE9EbV8xN0NSMTM0ZEFVVGZmLVhsa0VkZU9KYTktU3VkLXJPdw?oc=5",
-   "o": "Presse Agence",
-   "ts": 1795219200.0,
-   "m": [
-    "Direction générale"
    ],
    "s": []
   },
@@ -2469,1576 +4051,6 @@
    "ts": 1795163764.0,
    "m": [
     "Innovation"
-   ],
-   "s": []
-  },
-  {
-   "t": "VinFuture 2026 : Des experts internationaux discutent des opportunités d’application de l’IA dans le domaine de la santé. - Vietnam.vn",
-   "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWi1sN1ExUW8tS0V4TF94MFV4aHdiekI5SGNKNXUxUWlwZ21XRTFJT2ZJUHJrZEFvbGtTUkxOb2VyaTNvZktCVW5wX0p2ZXI5M0FpdS12M3poVVdVV3BhQ05yQjVHY0xpeTdqUHpTVjA1NTVqSGdfUWVack5JX0k1SkM1Y2NUZmlCUVhBMGRsZVp2c1BrNXhNOQ?oc=5",
-   "o": "Vietnam.vn",
-   "ts": 1795163672.0,
-   "m": [],
-   "s": [
-    "Santé & pharma"
-   ]
-  },
-  {
-   "t": "Marchés européens : le show d’Anthropic ne suffit pas pour rassurer les investisseurs - Le Revenu",
-   "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZjlCaXVNQUxDbjdMLWlRSlZGcU5NdHd0Q0RQQXI4WjNfR2dHdklHXzRxSzVMeUdPY1hLOVZwc1lqSW9vWldzY1p4ZkRYRkRkemQ3WThUbHlmZjVUYS16VUNLbE41Q09rVGxHWURNMTZvSEEzRU9BdEFPN0RnTEFhS0VIYlNyZXlMUmNpT0ZHbnFycTFlU2ZkN2FmQ0tMbGlaTTVwVnRnc2RweVlMS2puV3BJX2M0cXU5aGVBWjJaMTljWTdtTDc4TDVYS09mSnE3M0x0RmVn?oc=5",
-   "o": "Le Revenu",
-   "ts": 1795163640.0,
-   "m": [],
-   "s": [
-    "Banque & assurance"
-   ]
-  },
-  {
-   "t": "Bourses asiatiques : la chute des valeurs technologiques s'accélère - Le Revenu",
-   "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQRE1saXNVNkVKbFg3dWFWUEgweVdiOFJScEQ5eE5SS1N0bTlLMm9wZGV1dGJjZzd2MEUyUUpZdW5jY3dPN1FtMnM1OFJRQ29KQWdDWTVoSzVUTWRqU21oV1ppTGVybnNVVHhWVGZoQ3owdWJuQmRJVi1aaGhFWWtzTzB3NmlBYkZZcGVyV1Z3eHdNaF9rMXVITWxicHdYdGlMWlhFRHk3U2h5Z2JxdnVsYUhYVTBjd2dFeGp4Y2JCel9oaHhaR0w5ZXM0a2dXd0tORDEzb3RrVk9YSG10TUxFT0pacEUteW14dDRlZU9mSlFzbXgyNWhkRw?oc=5",
-   "o": "Le Revenu",
-   "ts": 1795163460.0,
-   "m": [],
-   "s": [
-    "Banque & assurance"
-   ]
-  },
-  {
-   "t": "Vidéo. Le Portugal inaugure une centrale hybride pionnière combinant énergie hydraulique et solaire - Euronews.com",
-   "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWXZUd2tETXhsNnUyVTJ1QUFkTVI5NGI0M1FTVFJtNjROTUdia0UwbzBNM1hObUdDTFVPWkdYR2EwWXFkT0tZUnh2SlJRM0JWZG43NXQ0bjBCWmRiSnVvRUkxWkpNVm9pVGdUUi1kaHZteEpXeVBUS0pCTDdIVm94R0x2VTJLSmh1RHpFUktyUjlOQW1aWUhBT3JLbnZHZVEzdGlwM1hkZkRWM2J0NWNIWUVHT2UwVDVoalZBLVZpdjhSdU5jTThubkNfWQ?oc=5",
-   "o": "Euronews.com",
-   "ts": 1795162709.0,
-   "m": [],
-   "s": [
-    "Énergie"
-   ]
-  },
-  {
-   "t": "Çfarë duhet të bëni me paratë tuaja në epokën e Intelegjencës Artificiale - Reporteri.net",
-   "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSUJva1pXMWtMc1dZMEFTb2NXMmtRTHZBMVlrbFUtTW0zOXNxU2s5M3VabDdwRktZTkJ4a2xDRlNwb09wLVllQjZ4SFF1M0lMcEh4b19FOWNPQmFDUVNJSmV3NDZLMlpyQkozQlZuYXN2V3ZYSHpDLXdHaEF6MWpoSTNNM29Mb2ZzZzBsY2lmcDNDN3loS3dFU09qOVJydVk1TGFOTkg0b1V6SEdHTWZqTUd1X3lwUXpWcXlkaHh5STMxQnJjUGhDdE1zRlhuSW5qT29paXpmcw?oc=5",
-   "o": "Reporteri.net",
-   "ts": 1795162153.0,
-   "m": [
-    "Marketing"
-   ],
-   "s": []
-  },
-  {
-   "t": "Agent d’IA complet d’Apple : une réponse à ChatGPT prévue pour 2027 ? - EmarketerZ",
-   "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOY1AzcUtHaDg3bWxjbTNvMFA2UkEwQkhRTmswczNqX1hlUFdiZzN6QnJlalNDQ3dSOE1EWnR0VkFPT3VtX3FjaDdsR05MeDczcktBMjFNemMtck04NlIwZjNPNkVVMkRHNUxwalhaZVpOQjlySzJpVWIxR1c2cFlVX1VaUFhYNWxlX2RUY0hzT2VsODBX?oc=5",
-   "o": "EmarketerZ",
-   "ts": 1795162108.0,
-   "m": [
-    "Marketing"
-   ],
-   "s": []
-  },
-  {
-   "t": "Le parc industriel, de la création audiovisuelle et culturelle de Malanshan : Là où la culture rencontre l’intelligence artificielle - Le Sahel.org",
-   "u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTUQybVh1OUZuaTlXaENmNkhjcjZVX3dhWWVTMndia3RRMVVCUk9fQjc1MUFVdXlGNnZOc2lTX2cwVGFBVW5JQVBPOTFnNTRsT1FDUXpDX1JLSGZSUVd4QnozNTJUTFp4V1hqcENVSzlkOXFVTmppV3VlN2ZnN3lhVFpBQjZ6ZlhfLTNEWW00djdQWW1IMmtUeFV0ZjBfdUdvcFFZeF90ZDdKR09FNG11YWJiTkt5TGFZVzlUTjlLTzhtd0ptN2NzYnpIbkVSeTVtZmVmUTZKOGc0MkVXaU9KdzJwY2pJRjYx?oc=5",
-   "o": "Le Sahel.org",
-   "ts": 1795161844.0,
-   "m": [],
-   "s": [
-    "Industrie"
-   ]
-  },
-  {
-   "t": "NetMedia Group mise sur ses communautés professionnelles avec The Makers - Boursorama",
-   "u": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWTYzTHZOZ25iWS1Ta3U0OXFxVWw2Ry02ckVRMXpqNDlaMFR6Q3RVaWVCU2EtbFdTRTdoV0MzampLcDdPN1YxdVVKbEExZlVYMW5KeTdEZUFuRWgyZ0RaSkRxQWliVEp1bDR5dFZURzFndVNLeW15cm9IVFBva0hOWnViQUVqcnFXSEVBS0R0QUlGZXQ2WllZZXNnZWhkd3ZZNDBTZ3RpSW1ESG1yZXRaMWdMM2VFR1BQcVZnWFY1ZXI3SkFDcmNrWl81WnlURXF0VGlPX3NiX1ZBbWJkVGpmdlY1STRWOHNFNHfSAeoBQVVfeXFMTlk2M0x2TmduYlktU2t1NDlxcVVsNkctNnJFUTF6ajQ5WjBUekN0VWllQlNhLWxXU0U3aFdDM2pqS3A3TzdWMXVVSmxBMWZVWDFuSnk3RGVBbkVoMmdEWkpEcUFpYlRKdWw0eXRWVEcxZ3VTS3lteXJvSFRQb2tITlp1YkFFanJxV0hFQUtEdEFJRmV0NlpZWWVzZ2VoZHd2WTQwU2d0aUltREhtcmV0WjFnTDNlRUdQUHFWZ1hWNWVyN0pBQ3Jja1pfNVp5VEVxdFRpT19zYl9WQW1iZFRqZnZWNUk0VjhzRTR3?oc=5",
-   "o": "Boursorama",
-   "ts": 1795161480.0,
-   "m": [
-    "Marketing"
-   ],
-   "s": []
-  },
-  {
-   "t": "NetMedia Group mise sur ses communautés professionnelles avec The Makers - Option Finance",
-   "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcXpWdVhrRU5rU3JFdTV1SldZSG15dUdjbWo2Vl9QMkw4RElBajZOeVk1THJuYVBUa3N1Rzh3S0hMMndqNDlPM3I5TlNKQ09MRm1Dc0dJSUZYb2tlcjg1UU5kRnFZS0hPRHZMcjBUTk9NeGNJQ3FOTlZRS2hHVHRyUkFGUFJSOHdlY1ltY081eGVSaXNPaWJBNGJMYU1tcmItcmd2cEtRV0lHSTF4QnRoVGI2YmdoeFY1VzNocnVpYzRUSlJnbkxBOWZKdU80eXpaTUJocG1aVnJGTmNFTmRZ?oc=5",
-   "o": "Option Finance",
-   "ts": 1795161480.0,
-   "m": [
-    "Marketing"
-   ],
-   "s": []
-  },
-  {
-   "t": "Italie-Arabie saoudite : Riyad mise sur les investissements et la santé numérique - Agenzia Nova",
-   "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMm01MWVLdkZVT0ZMNjBRTTh4YkROYm5uOG05MGVhU25FempTd1dTYmZKRE1NSVI4LWQtbV9wQ1FjTENRQ1g0aU5PU3gxcFd2V2tyTnVSbWxMd1BncjJ4aExGdS1hdjhLRHpSMGdiTmx3Z2p6UWhVSjliaDE0UG9ycDZiODdKSWJ2Zk1oOW45dGdCOWE5OUxMODNfNGVuQmFEYnkwRExLZEhiTEdwLTBHNG4tay1TQV9rM0xnY1JQM0FMX1dTSmxON3ZyNUZqRXRuS0FpX0tHbDU?oc=5",
-   "o": "Agenzia Nova",
-   "ts": 1795161021.0,
-   "m": [],
-   "s": [
-    "Santé & pharma"
-   ]
-  },
-  {
-   "t": "Budget 2027 : la RSE sacrifiée sur l’autel de l’IA ? - Comarketing-News",
-   "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTHEzYnNrSk5nRWpOakFtcjdDRjE0SlMzZWpZbWFHNExoVm14MmpySzhzeDNnbFEzUy1XSUFybzR1cFpqbnVWYXRTYThka01kd2FYbGdGV1ZsdGR2bFJVT1BjbFdBN2FsLVh1SDI2aW5wLWJmNjZzdHlIUUE0S3FPcg?oc=5",
-   "o": "Comarketing-News",
-   "ts": 1795160643.0,
-   "m": [
-    "Marketing"
-   ],
-   "s": []
-  },
-  {
-   "t": "Industrie : un forum consacré à l’intelligence artificielle et aux solutions industrielles tunisiennes le 28 novembre - Réalités Magazine",
-   "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOY05UQ0NNR29HM1RLOWdNMnJVNVJqUUJ3bkVZYjFfcW01a05UZlFnNVpWSG03eHBERER4am83QnVRcGxUajZPcERMOVQ4a2pndGNOWVZJY3B3Mk0xNnpjUjRaLVZHSS1DVVFEZE1RSzBQT3VCX190Vy1aMUZXTG1YWmY3cVFqWENGU002LTZUeFZLcGdYODBBdHRPTE1GOXc5WUgtLTJKdzc0S2lsd3dkdGhvWGU4cDFiMEFrelVFVjdFMlFlUGhPQUlsSGx4WS1DT3czenJySWtXQQ?oc=5",
-   "o": "Réalités Magazine",
-   "ts": 1795160381.0,
-   "m": [
-    "Innovation"
-   ],
-   "s": [
-    "Industrie"
-   ]
-  },
-  {
-   "t": "Industrie : un forum consacré à l’intelligence artificielle et aux solutions industrielles tunisiennes le 28 novembre - Réalités Magazine",
-   "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRHR2Z2prR2xJUnVkZk42X2JGVjdDWFBaZlZOOVJQNjVlYmRvRVJobVM2NGZQYThES3R6bk9INEYwejNBSnAwa3dSSTdoUzZ2N3NOVXhjdnAtZlZkSG1SSmtoV0d0Sm5MN3VlUURFUWRhTUFUS2ZVX3g1ZlV0R3Y2ZnZxU0JtOEVmdS1Wc2pJejZGckFKd2twUU93MVRILWZZSEstWGY3Tmo3Vk1yb0FHeXpxbE9SNW1aY2hFS1VfSnUyb0ZYV1lUM2VGVkZuWXBWdF9FS0NGdnR5NGpxSGlz?oc=5",
-   "o": "Réalités Magazine",
-   "ts": 1795160381.0,
-   "m": [],
-   "s": [
-    "Industrie"
-   ]
-  },
-  {
-   "t": "Dix entrepreneurs, dix expertises : dix minutes pour convaincre et créer des opportunités - AKTus – CCI",
-   "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMHRoTnB6bkducHpMQVB0ak4ySHhHX2JmWTlsZEVtVUVRVHU5M2VDWEtleElHcEhUVzl5MUJ5N2tFS1ZjQXQzQXlwNlhJLXdLX2RpQnlwWnV0dE1qRWFRVU1TVktvRm9DaUFPN001ZjVwUmV3WDYteW5jYXBUSVRKMFFaUFdqZVRSNzdpVldBOGxFd0RFdEdrT0xhd2hXMVdoV0pQeVpsd0lLS3ZaU3pGVjJyUTljUnJQM2Zv?oc=5",
-   "o": "AKTus – CCI",
-   "ts": 1795159800.0,
-   "m": [
-    "Direction générale"
-   ],
-   "s": []
-  },
-  {
-   "t": "Alzura mise sur la reconnaissance visuelle par l'IA pour identifier les pièces de rechange - Auto Infos",
-   "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSUdYWVlmNEZycHRJREgyeWR3dzBuLXVGVFZpcldOeFF0b1Z2UkxSN1Zqcm5oWnBqN1ZZWG5hczlRZ0tGUVZTeVhjX29DZXM1Tm1KUlpzVFNzYTZHdGpCaGJDMWZpVW5VRHd1dHZLMEowRmZGNGhVamt0Z09lTUd5QjgzcHBDXzVPVXA4b1JESU1NMXFJZmgzWWJqZ2doWE9yRFR5b3dRVjFvTW1pOGFRd2taa2dOdU5ESlUtUExtczBFMVZxcFlRMTZ1WQ?oc=5",
-   "o": "Auto Infos",
-   "ts": 1795159800.0,
-   "m": [],
-   "s": [
-    "Automobile"
-   ]
-  },
-  {
-   "t": "Selon l'IEA, l'appétit électrique de l'IA menace de saturer les réseaux mondiaux d'ici 2030 - Génération NT",
-   "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOE1qSFkxaHBxanQya1V2b19SNVllUjRXXzRFUm9jQnRPLWJLeWIxVTJEc2FjeW5WV2FINTJKVGRIOFBaVkg3TjZvekM5alZETGlMdW1ucExIcUZBQXZEbzBYVE55SG0wOENTbm5OanpyR0tiUVRGQm5xRDQwZDUzLTJpOFBXNE5LVUVZa3NacW9MWDNpTWJYX2F2bWwxNkFNZWfSAaIBQVVfeXFMTThNakhZMWhwcWp0MmtVdm9fUjVZZVI0V180RVJvY0J0Ty1iS3liMVUyRHNhY3luVldhSDUySlRkSDhQWlZIN042b3pDOWpWRExpTHVtbnBMSHFGQUF2RG8wWFROeUhtMDhDU25uTmp6ckdLYlFURkJucUQ0MGQ1My0yaThQVzROS1VFWWtzWnFvTFgzaU1iWF9hdm1sMTZBTWVn?oc=5",
-   "o": "Génération NT",
-   "ts": 1795159201.0,
-   "m": [],
-   "s": [
-    "Énergie"
-   ]
-  },
-  {
-   "t": "Le forum VinFuture réunit des scientifiques pionniers pour discuter de l'ère des soins de santé intelligents. - Vietnam.vn",
-   "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObXAwaXlLUkhranJtek04QTltS0ZNUV9mR001bTlzVGFPZ3V6SHpDeHZXNmlVOGI3S0pYYzFsOC05cC1UenQtQXFRSU9Vc0lnODBabHhtT0YyT2VaaUhfZ0txZHJIYWhPYWVXWGo3alpybHFwdGhyZHY5Wng5YlhIa0ZTd1hfRUZyMW1lSjFjM0pXSm42eVY2MVlkbzExM1E1aDJweGpfMmE1cjZnVUNPMFhhbw?oc=5",
-   "o": "Vietnam.vn",
-   "ts": 1795158105.0,
-   "m": [],
-   "s": [
-    "Santé & pharma"
-   ]
-  },
-  {
-   "t": "Collège industriel Thanh Hoa : Renforcer les liens commerciaux et adapter la formation aux besoins du marché du travail. - Vietnam.vn",
-   "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMXJhVk9uNXVnWU1pWVpBOWo5UF9mTkZtZTJfRVRsZEhRZ3VzTWk2cjR1Z0xjT0ZaNWt6S2x4NnJzQzA3MHgxbVpOLWkyUHlSMUpDdUwxUFZ0VExpc0hqNkh5T1FIRk5BYVJ0OXFueGhESkc1SWcxSEl6REo1OU45bl9xQUN2dEZTOVoxUG0xNmZnbDR6ZlJ5cEEyVTU4a1NoNUZDcHpYTEVIdU5vTmVIS2dONzg0WXZFQ2R1eGdEWXdhY0pJQ21IVlBONG5fWkdyQmpXbA?oc=5",
-   "o": "Vietnam.vn",
-   "ts": 1795158088.0,
-   "m": [
-    "Études de marché"
-   ],
-   "s": []
-  },
-  {
-   "t": "Pour alimenter les futurs centres de données IA, une start-up veut installer des infrastructures flottantes capables de récupérer l'énergie thermique des océans - Science et vie",
-   "u": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNWGlGUW5vaktRZlgyQzBQYnVsMnpFNHVxY0tWakhGRjh5cVU5YU80MHhTXzBaSVQwR0YxMzV4UkFJYkxPMFcxRFpLblZNeTBmOUNmQ0ZtX3JaUFdjZ2RoU1lQYWhVR3VaaVZEVXhwc2hBVEI0dW1kMkxxTXZ6SmxYNDlOZDBzcWp5V3RDSXNFWkpwY3VYV2FsbjR6cE1teXE4a1FzWThOQkt2M21Xa0NwNExoT0hvWjh3RUdNRmNKaFZYWUpGb3EzNUZZdW5xS0dXalktTVlzd056M0p2ekhRUDVuZ2Y2Mko4MlA1MWlpdkotYVVXY2xIaXJVbzdWbjJpNVJDU01lU1ByNFAxMXJNS2xkNzExSW9OMXlXa0JfS2xUd2hYR1haeWFhUHhZMzZFSC11bk5PMDhpX2h2RGlZ?oc=5",
-   "o": "Science et vie",
-   "ts": 1795158014.0,
-   "m": [],
-   "s": [
-    "Énergie"
-   ]
-  },
-  {
-   "t": "MODIFICATION DU CONTRAT DE LIQUIDITÉ CONFIÉ À PORTZAMPARC (BNP PARIBAS) - ActusNews.com",
-   "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ0lzMTVlMXJLb21UNEcwOTdXN2VIT0loMnhucFdOU3RFcmFCR0xORjdZSVkzTnBOaFZ1czdjSGc4a0Y5bXk4cG9iNlBFT2g2aDBhckN2dTViRVJkenBzREdFMWpMeFhrV24wRklRZGEyU1ZWWEVxdDZZZUlFU2k3TFFXOU11dy15b2taY09CdUdFR19fMnJYYXFoS3I1Zk1jWjltZ0p6eXFNNHZYVDJfdElwWlVjdC1MeHZRM05EONIBvwFBVV95cUxNQ0lzMTVlMXJLb21UNEcwOTdXN2VIT0loMnhucFdOU3RFcmFCR0xORjdZSVkzTnBOaFZ1czdjSGc4a0Y5bXk4cG9iNlBFT2g2aDBhckN2dTViRVJkenBzREdFMWpMeFhrV24wRklRZGEyU1ZWWEVxdDZZZUlFU2k3TFFXOU11dy15b2taY09CdUdFR19fMnJYYXFoS3I1Zk1jWjltZ0p6eXFNNHZYVDJfdElwWlVjdC1MeHZRM05EOA?oc=5",
-   "o": "ActusNews.com",
-   "ts": 1795158000.0,
-   "m": [],
-   "s": [
-    "Automobile"
-   ]
-  },
-  {
-   "t": "MUNIC : MODIFICATION DU CONTRAT DE LIQUIDITÉ CONFIÉ À PORTZAMPARC (BNP PARIBAS) - Boursorama",
-   "u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPV3dHSU1HS1g3Y2Z5SU9ncHU3QWhMRExuWkZwVjZ2UkFTMUJkd3VWWlJnTGFnZ3RKekNzdG9VN3JzbTdYazdnTnJ4SXF1U0FwenJvcTZTTU4zaW9UeUIwb0JwNVZmNW9QNDh1SE0yRHZIX1VaYi1wdm5YS25adTFNdTFzRXVCeFM4cUhyVU1PSHNtSmgtbmpTNHR3QWxjb1V0amM5b0xlU0p0Q2VFX2JrYUpwRy03cWdDS0FHLTE4UjlZYVJwN05ab1ZmQnVGSTBtSXViN2xHazFlYmRheFdOTFJoWnpMb2hL0gHuAUFVX3lxTE5uTTRweXltSk1vc0JpWXkzNHU1ZnVQVlNvZGp5Qkg4Z2paM0ZmQ2JKNlQwdG9Kcmdfd1Y5TjktQVk3Z3pBa2dLc2luOElPRXJlamE0dkJ5MnZtTFhMQXRybE5jdEU4eHduaDhXUmp5Sk83dDlhWkkwQ1EzankwVWZzYnk3UUhhT3BnaFJ3aWRTd0ZZTW1uc2RKX2piRldSTXF3c081ZjhOUWdBTTctWGZMeG8yakRNelRoQ0pYbDBPRXc5aXVyNkZGTHY5RE9vaEdVcmtsQ01vWW9zQzBScWlIZk1kT3I5Y0kxSFMzVGc?oc=5",
-   "o": "Boursorama",
-   "ts": 1795158000.0,
-   "m": [],
-   "s": [
-    "Automobile"
-   ]
-  },
-  {
-   "t": "Contenus générés par l'IA : TikTok lance un outil de détection destiné aux personnalités publiques - Defimedia",
-   "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSTNJbURaSGhnbXRmNzMyamQtZTRFTGh4eWZyenNGQU9pOHpVdEs5NDhhckZuWUVsX0hrMS15ZHF3Y3JvNUFkclZiSm10OWlUNG96bVEtTzl0dEdnNk1sUG9rUXJiTEVxUm1zRlNXQ3R5MU9kTHN5T3ZHMGVxUlduZFJCMFRYUjBoOHJ1WkIwcTVjUDF1WEdkZDRDdGozTXY5OGxvOWVBQXRTYXluTGNzWTR1TWFYdHhTQWc?oc=5",
-   "o": "Defimedia",
-   "ts": 1795157818.0,
-   "m": [
-    "Marketing"
-   ],
-   "s": []
-  },
-  {
-   "t": "RÉSUMÉ DE LA PRESSE-Wall Street Journal - 20 novembre - Boursorama",
-   "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTGFiN3pqMThsRU1ucXBaUTlyNDRaNFNadmcyaVBXY2JTOW1QWjdCb2dXamsyYjZzNEdlVjh1aVN2TlZ5YVFCem5hWjhYQU5xQmtzTW8xaGlMMDg3ME5HODM4cTY5UmVXQm5kV0FtQ0gwbGtUWDZ6dW9MTWRvdkhvSXhJa2FaQlEyZndBWEhRUGJGcnRaQkdlek1XWUt3ZnVFNThLd0gyOVlRMjljb1U3emU5eE9iVFRhNDJCLTZDa0Nsa2hTekJCb25KRXljQdIBzgFBVV95cUxPTGFiN3pqMThsRU1ucXBaUTlyNDRaNFNadmcyaVBXY2JTOW1QWjdCb2dXamsyYjZzNEdlVjh1aVN2TlZ5YVFCem5hWjhYQU5xQmtzTW8xaGlMMDg3ME5HODM4cTY5UmVXQm5kV0FtQ0gwbGtUWDZ6dW9MTWRvdkhvSXhJa2FaQlEyZndBWEhRUGJGcnRaQkdlek1XWUt3ZnVFNThLd0gyOVlRMjljb1U3emU5eE9iVFRhNDJCLTZDa0Nsa2hTekJCb25KRXljQQ?oc=5",
-   "o": "Boursorama",
-   "ts": 1795157685.0,
-   "m": [
-    "Marketing"
-   ],
-   "s": []
-  },
-  {
-   "t": "Alibaba : le cloud bondit de 53 %, la facture de l’IA s’alourdit - business-times.fr",
-   "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mSXY4Y0pjSVlNZ3pLV21ZT0FwUl9odHJVN0p5ZzVqaWNqVGpRMW84Q1JRdHpYYWhpbktYQWRNa3dQeWFYVDBjWmtTRzFLSnpDbXBKQVNHRGU4aW5MaGU0ZlRXYnJEZkFYM3VsU1JYWnVocUdfbFZB?oc=5",
-   "o": "business-times.fr",
-   "ts": 1795156560.0,
-   "m": [
-    "Innovation"
-   ],
-   "s": []
-  },
-  {
-   "t": "Intelligence artificielle : les étudiants de l'UTBM formés pour mieux appréhender cette technologie - ici.fr",
-   "u": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQQ0hPTjEtZm53dE02VnVxamlEdnE3U1NKLS01MTU0RDRybW1Cd3BROFhJQVd3YjdMdWNNU1RCTzVMOENlZHV6cGFwby1LSU9qdjFqaWJsRWFQOFNMdnJFc3doamVia2tmVVJhbnJDa2dOMWpyX20wbmdLUGJuS2tRUXVMbVJHWUZFUng5NTFJUWFVSFpGVkZkZVpoUkJSQnpyVThGUjY5eUd6cGs2bHl4N3NObDI4a1VzVXNGZFAtTlFSdlk0WWV5eTRzdm9Gc0FHdV92ZVZtTV9xNjdqLTN5ZnNpZnNUcVlCS0szWDBGZGFzd005b1hXdVdKaTRSdkVG?oc=5",
-   "o": "ici.fr",
-   "ts": 1795156350.0,
-   "m": [
-    "Études de marché"
-   ],
-   "s": []
-  },
-  {
-   "t": "La Commission européenne ciblée par une offensive numérique menée avec l'IA - Génération NT",
-   "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ042YzhDUlNqRVZmWVpWdmFoYTNTbTRQQjVpdDRXQ3pqR0lUd1cyVzJJZi1ramF3c2hNdmRzQlZsVXRkVXI3ay1BVnFZc0R4R2F4VDBuTUtYcUVXWkZOc3ZmSnY5MUdqX2tNQlVvdzR5dnZEVjNVRDZlcnpxMjdwUzYxQkpvbUJKRXJTMHN2X3RKU2xfQ1hXWC1QTXFiRWdaX1lMYW4xNlBHVHFRTGfSAbMBQVVfeXFMT0VXeVJaVGU3UW9GckpEd244WHBtdm84NmhrLTEtMEZBdVRkUlZMRjNGSmRzc1FDWml4Y3U1cHNqRVpoTUZKU0dpcGNuV2tYM2NmSjVsdHVscnBuemE2anBnWXJxOS1rTmktaUNMQ3h4a1k3WUNwVVdLVG5pM0hMVVNVSWhlWGo3U0FqRmwxQ2VuWTQxcUYzcVpDMVRGUlJsdE9GaEVYVks5VlBybTVKSC1uQms?oc=5",
-   "o": "Génération NT",
-   "ts": 1795156201.0,
-   "m": [
-    "Direction générale"
-   ],
-   "s": []
-  },
-  {
-   "t": "La Commission européenne ciblée par une offensive numérique menée avec l'IA - Génération NT",
-   "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRVd5UlpUZTdRb0ZySkR3bjhYcG12bzg2aGstMS0wRkF1VGRSVkxGM0ZKZHNzUUNaaXhjdTVwc2pFWmhNRkpTR2lwY25Xa1gzY2ZKNWx0dWxycG56YTZqcGdZcnE5LWtOaS1pQ0xDeHhrWTdZQ3BVV0tUbmkzSExVU1VJaGVYajdTQWpGbDFDZW5ZNDFxRjNxWkMxVEZSUmx0T0ZoRVhWSzlWUHJtNUpILW5Ca9IBswFBVV95cUxPRVd5UlpUZTdRb0ZySkR3bjhYcG12bzg2aGstMS0wRkF1VGRSVkxGM0ZKZHNzUUNaaXhjdTVwc2pFWmhNRkpTR2lwY25Xa1gzY2ZKNWx0dWxycG56YTZqcGdZcnE5LWtOaS1pQ0xDeHhrWTdZQ3BVV0tUbmkzSExVU1VJaGVYajdTQWpGbDFDZW5ZNDFxRjNxWkMxVEZSUmx0T0ZoRVhWSzlWUHJtNUpILW5Caw?oc=5",
-   "o": "Génération NT",
-   "ts": 1795156201.0,
-   "m": [
-    "Direction générale"
-   ],
-   "s": []
-  },
-  {
-   "t": "Port-Louis Waterfront Food Festival : coup d'envoi ce vendredi pour trois jours de gastronomie et d'animations - Defimedia",
-   "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWWVFR2cycFFjS0sydW0xajE4VEFuV21QdWxINmRpTFYwLUtfLXN6QmEyUEw2S2RKQ25wRXB5Si1sSXl3TFcwYkFQNkNRX01yNmYyM2k2S3ZFZm9rS3RUb19pWWtQWHliNkhlSTNzNkpyMmNXS0swbEMxZU9qQWxldU9pTHNiSlhZZUlWdG54dC11a1hhMVNwT0d1bkhEV2ktdVk0UXoya3MtSFZ6WmVyZ0txenUyQWFH?oc=5",
-   "o": "Defimedia",
-   "ts": 1795155996.0,
-   "m": [
-    "Marketing"
-   ],
-   "s": []
-  },
-  {
-   "t": "L'IA bouleverse le marché du travail des cols blancs. - Vietnam.vn",
-   "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94WVB2akNzUWpITXFTMktPMjlMaXNZQ3BYVGV3MWhBdWYwcVN2TTNYbE1TdlA2T0tWVGJtV2JMMmw3VUFNcE9UaFNSVVg2dEFKQWVzYVhIMm5WNThGZ1FteDVjVXFvOUhHMENMM2dmNDZUMExMa1B1SGtNTTViZ00?oc=5",
-   "o": "Vietnam.vn",
-   "ts": 1795155449.0,
-   "m": [
-    "Études de marché"
-   ],
-   "s": []
-  },
-  {
-   "t": "Une cyberattaque assistée par IA frappe la Commission européenne : ce qui est confirmé - Menow",
-   "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ29mNGIyamQwVk5QZ3RBT08yOFZwa1gyM3F0czd3VHhGcEdIVDYyS1VhNUY1d0trSEdORkxkZi0xMjZra3BNY0JsTmxFT054SUZCcWJ5WGptZVA5cGpNeUJGdFFpNDlEZlhUVmxBZWxaUWJmd1JBNG00LWZidVpXUXJDOUJQZjNST0NPOHdIR050N3BNNEJJd1FaTW4tXzRBU0RtWEM2VWo1UQ?oc=5",
-   "o": "Menow",
-   "ts": 1795154400.0,
-   "m": [
-    "Marketing"
-   ],
-   "s": []
-  },
-  {
-   "t": "L'IA peut aider le Vietnam à faire un bond en avant dans le domaine de la santé. - Vietnam.vn",
-   "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMnVrNFVwcUQybk5SSHVVQUExRmRkLXZZMFpvYjVTTEFaa241VjQ2a2NhTHR3dTZMQmtXUW9PcnVqanZ3cnAxR0ZBMEFjQWlrdTBEekxXci0xVHBpcndibHItY1prRC1sZW9NaTQ2RWJXZWpIV2w5Z3FBRi16LXp3VG55Q1Z1NXBuUXNhelc2MlljZw?oc=5",
-   "o": "Vietnam.vn",
-   "ts": 1795154353.0,
-   "m": [],
-   "s": [
-    "Santé & pharma"
-   ]
-  },
-  {
-   "t": "APEC 2026 : la Chine défend une mondialisation ouverte et une coopération multipolaire - www.chine-info.com",
-   "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVWVodVk2MXlpdzNaVE1RLV90eWdfbEtYYU91NVB1alhmSW4wd3BmWWxhNU4tbXM0ck1uRnQ3VXdmMVhSaEZIYWY3UVlQZ04tNmlIN3NQcDNyWVFWeHFSUGxZZlBSTXdncHRCcGV2cnhrLW9DWW91X1diSkFCUXdwTDF4ZVZMRWprTGFjcHlsb3V4YTk0aWJXU0YzRTAxMnQ0V2N6c2FRYkVSemx1Z2VreDVjUHlIZw?oc=5",
-   "o": "www.chine-info.com",
-   "ts": 1795154160.0,
-   "m": [],
-   "s": [
-    "Énergie"
-   ]
-  },
-  {
-   "t": "Voiture tombée à l'eau : Volvo brevette un système qui ouvre automatiquement les bonnes vitres pour vous sauver - L'Automobile Magazine",
-   "u": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQSEw0VTEyTjgzbHFvMDBmdS0zZHNGaTNaZFNWU29aWmUwVmNjenlFYjlVNzJpd3p6QkxHWWJDMWZ6M3pOUWw1SG9YQU8tN0c0Umg5R21aVzZuemI4NGdoNlhEV0h6M3RlS2k2MklrbDc0aWVFbEZKejlCdjdZTmx3ajlWWWhyME53RVAxbndEVzdfODBvcnVUUG9rVVV6LVVFZXpXRVZYOHBJMWNpVVR3U3pwbDd6RkdkenZnZWF1UUh2d2o3YlJ2QTJ4ZW9XcDNiYVhxYVNYS0FaNW96bndqMGF0VF9xal9hUWxtVHB3M3J6VUZ4NzNkM0w2TWN4QmpyNjI1ZzNjTQ?oc=5",
-   "o": "L'Automobile Magazine",
-   "ts": 1795152720.0,
-   "m": [],
-   "s": [
-    "Automobile"
-   ]
-  },
-  {
-   "t": "Visa confirme une fuite de données liée à un prestataire en Asie-Pacifique - Génération NT",
-   "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdVJmcEh0VmZJemM3NnhlNE53V2V2bzBCVUJtX29faUhKcGdNZ2FpdDU1SlNnWjROQ1ZEdGVzUWxnRThOeVE4NnB5aGVaZGVaZkp2SHpjNXNWcmJ3S2NIcHF1Qm1PdGo3RE02ZXp2TGxZcFB0bU93d3lHeDVYeGtFVlZzUTVRZVFkaE02ekFpdGVpUdIBkgFBVV95cUxQdVJmcEh0VmZJemM3NnhlNE53V2V2bzBCVUJtX29faUhKcGdNZ2FpdDU1SlNnWjROQ1ZEdGVzUWxnRThOeVE4NnB5aGVaZGVaZkp2SHpjNXNWcmJ3S2NIcHF1Qm1PdGo3RE02ZXp2TGxZcFB0bU93d3lHeDVYeGtFVlZzUTVRZVFkaE02ekFpdGVpUQ?oc=5",
-   "o": "Génération NT",
-   "ts": 1795152602.0,
-   "m": [
-    "Marketing"
-   ],
-   "s": []
-  },
-  {
-   "t": "Visa confirme une fuite de données liée à un prestataire en Asie-Pacifique - Génération NT",
-   "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNUN5UkFXY19NUHpGU2VaSmsyck5PWmtYVnk3LWo4SlM4ZDBmTEN5b1E1anJLMGM0Rk1NQ1FNY2pIbFdWMnZaTnM4SHdFNFF5M0ZLYWxJV0QtWjV1dlczckpEVVdpcnpJTmVhQmZmSWFaakFGa0Vfa3JDU3hfbDZBaXlmaEdsRDJudlVkaNIBkgFBVV95cUxQdVJmcEh0VmZJemM3NnhlNE53V2V2bzBCVUJtX29faUhKcGdNZ2FpdDU1SlNnWjROQ1ZEdGVzUWxnRThOeVE4NnB5aGVaZGVaZkp2SHpjNXNWcmJ3S2NIcHF1Qm1PdGo3RE02ZXp2TGxZcFB0bU93d3lHeDVYeGtFVlZzUTVRZVFkaE02ekFpdGVpUQ?oc=5",
-   "o": "Génération NT",
-   "ts": 1795152602.0,
-   "m": [
-    "Marketing"
-   ],
-   "s": []
-  },
-  {
-   "t": "Edito - Quand tout s’accélère - Auto Infos",
-   "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCbkFLLUthVmZpazZTYWEtQ1l3dnd1c2Jpa0FSMW5feUNHZTNYX093ZkhWMnBJUTdsRGFCczQ2NWp2U2pBNExWc0dJdHhYeUxWLXBoYzBuSmtMVm9Ma2hVZlVha2xMVkg5QWFpRHEyM0pYV2xuNjM0?oc=5",
-   "o": "Auto Infos",
-   "ts": 1795152600.0,
-   "m": [],
-   "s": [
-    "Automobile",
-    "Industrie"
-   ]
-  },
-  {
-   "t": "Stellantis convoque un comité d'entreprise lundi 23 novembre - Sud Radio",
-   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8ydVRWbm81OW5Kak52dkdHaHhRcTh0S2gzNm9JdTM2emtfXzg0bGg1WlBNSFE4QnJzWXhpRU1MWldwQmQ4M25ReVNvV2R4SE5Ia3pYSHJmam4xRGlpZnZPRmJlNlZrMGFn?oc=5",
-   "o": "Sud Radio",
-   "ts": 1795152574.0,
-   "m": [],
-   "s": [
-    "Automobile"
-   ]
-  },
-  {
-   "t": "Port-Louis Waterfront Food Festival : gastronomie, musique et innovations au programme - Defimedia",
-   "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa1lwQjFnVE5nRlNtLVFhY3BVNk5HZDQyM09MRC1VbUdhbVpZcWRHdFg2ZW1EdXdNX1B2Y21heU91TnNNbjBnRC1yaXZHTC1VVXgybkk0UmU3VWV3c2F0S3BIeFRyVGg3Yk5tYzZ2REphQXJMWXd1WGZ1QXJQZE9jUXc3Y043bDBWMzFhRlZnS0VUWHhZRUhMa3d4VGtMUUpLbFRoUGx5dGdRZw?oc=5",
-   "o": "Defimedia",
-   "ts": 1795151100.0,
-   "m": [
-    "Innovation"
-   ],
-   "s": []
-  },
-  {
-   "t": "Le conseil d'administration de la Mayo Clinic élit Matthew R. Callstrom, M.D., Ph.D., au poste de prochain président et chef de la direction | Newswise - Newswise",
-   "u": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQcUtjMFpNbU51c2xXLU9TaTQyWVNDeFZ6WDE2UVpocmFERnpEbVVvdEJLVFRhdFBsMFlhM0draDlfemN6S2I5Q0RCTnU0Z21Bc2xiZDNNdm4yTHNDSTZfeUl5b0pQWS1DR1FCeGpCZXlYd29GM2QzT25yQzJnQXpBc2JBLWZlTERxT2UzaERVSTlMaTEtTlZtcnVLX3k0a1Zpb0xzcEY1dHNMRTRNNDFPM1UyNGk1aHJqeXNLUlNwYTBmWkdJU2JyUzE1SmtIVFhwMnFxRlltUGd1dVpXTkJSekRnWlljZVdoUnhObE01RlFzUG9GQzBBcUZ4a9IB-wFBVV95cUxQcUtjMFpNbU51c2xXLU9TaTQyWVNDeFZ6WDE2UVpocmFERnpEbVVvdEJLVFRhdFBsMFlhM0draDlfemN6S2I5Q0RCTnU0Z21Bc2xiZDNNdm4yTHNDSTZfeUl5b0pQWS1DR1FCeGpCZXlYd29GM2QzT25yQzJnQXpBc2JBLWZlTERxT2UzaERVSTlMaTEtTlZtcnVLX3k0a1Zpb0xzcEY1dHNMRTRNNDFPM1UyNGk1aHJqeXNLUlNwYTBmWkdJU2JyUzE1SmtIVFhwMnFxRlltUGd1dVpXTkJSekRnWlljZVdoUnhObE01RlFzUG9GQzBBcUZ4aw?oc=5",
-   "o": "Newswise",
-   "ts": 1795150500.0,
-   "m": [
-    "Direction générale"
-   ],
-   "s": []
-  },
-  {
-   "t": "Ubisoft supprime 166 postes et crée une filiale IA : ce que cela change pour ses jeux - Menow",
-   "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMUtudE56WUE1cU9zd1NTaW84WjlyR05pTktCVVFvUllDN0ZPY1F6S0JUalk3azRZRmhuajB6cEphRmh1QWdIQTRuVjF3VHZSdVFDWVlSakNDdVcyS01tYlVpdWRKYmRjX0VsRy1OeEVHNVU0Y3h3Z01vUHpzNnJ5b19IVkJKa1lqQkJxSE42aXBiZFlubk1GeGZHSC12TDZPczFPQ29hUWw?oc=5",
-   "o": "Menow",
-   "ts": 1795149000.0,
-   "m": [
-    "Marketing"
-   ],
-   "s": []
-  },
-  {
-   "t": "Le Maroc veut investir près de 365 millions d'euros pour développer son industrie de défense - RFI",
-   "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdmwtSGFnNlBnRG83Sk8zNnpGeXh2WFFQeFIyNlExUnJfS0N0YmhYLVJlcWYybTA3SldYU0Njb3BvbUI2YzZUVl82X3ltZUR6M29URGQ2alBIcC1ONWp3U1VROUZSUF9NNzFBUTkxQW9CU2pSVjJhWHVjOE42SnNObGxVR1B4aUxhd2hzZDhhQjhfNnBVbHFzMnBldDlmaUNGczNuWnV0Y0lnaHlXRDloaVowVWc0RHhUMjZLSXZnNWY0WlJGV2dSUVc1SkIyRTRpa0ZwSlNXdWtHWC1Jd3Zj?oc=5",
-   "o": "RFI",
-   "ts": 1795146881.0,
-   "m": [],
-   "s": [
-    "Industrie"
-   ]
-  },
-  {
-   "t": "Mesurer l'IA par les résultats : le secteur public vise 7 principes d'investissement, tandis que les entreprises privilégient le contrôle. - Vietnam.vn",
-   "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZzNQWElnT2VRcGRDOG0wRG14MGs4WWJ5SkFEaTlXWW12MTZ6UjA1QVVHY2MxekJtSWRfT0sxMnZDTmx0NVJqXzIxRkxYVWFkamo0UHkzT2JTb0lvOEVrcENtNnVYRkNVMU4yY191M1JJRmdTRzR0YXhkNGhQQzEyaXIxelJPZ0czT3lIMTBJZzViRVdyNHZaMlYwSUVVUjAwMzB6RVNfQjB6MVVaM0VJSE5VTjdNck4zZXA5MHowdjJZWDhlamc?oc=5",
-   "o": "Vietnam.vn",
-   "ts": 1795144775.0,
-   "m": [
-    "Direction générale"
-   ],
-   "s": []
-  },
-  {
-   "t": "L'IA ouvre de nouvelles perspectives d'innovation dans l'enseignement et l'apprentissage à l'ère numérique. - Vietnam.vn",
-   "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1LZmNjZzBKSlJGWV9Ybm9MSE9WcTJqdkpQbk0tYkJlUHhMQjFmZ00xUjkxV285R3VRN1dpWUcxT1hXU2ZJdDczZzlXM3RjYkt6cDNZdTB2LU1tcGpEeGx2dzhEUHhWdkgxS0RiUnNaUmhjU24zMjRvUkV1ZFg?oc=5",
-   "o": "Vietnam.vn",
-   "ts": 1795143929.0,
-   "m": [
-    "Innovation"
-   ],
-   "s": []
-  },
-  {
-   "t": "'UN Innovation Update' 2026 - Welcome to the United Nations",
-   "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1zWVNpQkVuQXVjaXRlcW96cUxoMVNIb3dMd0pZNHR0RW9WaUozYUl4WUU0Z2QwbkltbXVpR29ubnZBbHB2bkFQU0xxb0ZRRkt4MHBzd3FIVUNUNVhLT1JXNDdtTUxkRkZjZk1j?oc=5",
-   "o": "Welcome to the United Nations",
-   "ts": 1795143920.0,
-   "m": [
-    "Innovation"
-   ],
-   "s": []
-  },
-  {
-   "t": "The Weeknd et Voïvod dans les oreilles des joueurs de Grand Theft Auto VI - Radio-Canada",
-   "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4yN2lSbjY4SlVmWENWTWViWDlseEhNUzNtOERTYkFfTTNjWUdXTXF6ZFE4UmhLLXkzUmRCUTBnS2RTVHV4cExELXYwZmlxN0lMTmdIeldqcXRaS1lET2lkY1BvbFZHRkVLQ0VNeXJKNjgtSWlTRkV3djBGMS04UQ?oc=5",
-   "o": "Radio-Canada",
-   "ts": 1795140182.0,
-   "m": [],
-   "s": [
-    "Automobile"
-   ]
-  },
-  {
-   "t": "ALTERNANCE - BIM, Digital & Innovation ARTELIA Saint-Ouen-sur-Seine, IDF, France CDI - L'Usine Digitale",
-   "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPN3FfaUJFcXB4bmZOZW9TUlJwOXNCMTVKa2ZteE5mU2l4S3Q3VXg2QW5UVUh5Uk5uNE1WQ0pPcmc4LTdvTmd3ZVV2aHFMN0d5LXY2WUt3TE5FTU1kS2pVR1lHZEJUZ1VPUURSdGFRaGNUSDNGZERFbS1BNUVaRmpFSGN6d1ZQOFFBNTRNS3FFeENOaDhzajhxM251bjNDTURfQ3R2MExHaWMyWFBOZVpRMUswdkY1cnVCNTBES09pNDFiTTRK?oc=5",
-   "o": "L'Usine Digitale",
-   "ts": 1795138292.0,
-   "m": [
-    "Innovation"
-   ],
-   "s": []
-  },
-  {
-   "t": "La division concurrence du ministère américain de la Justice clôt l'enquête sur l'acquisition de Dominion Ener - Boursorama",
-   "u": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxORGZRMFRRT21HYUFoOW5iZV9wS1JlLTRKa3FIQUJTSHZ0WUVmRXdkLXdIY2VlWGN3UXpWVXhmQTRmYWtNelhnSk9Kd09jTG15STJpbW90WFNqdDAxSFY5OTgtU1JLODlKUGtwM1VyemtRVzFCVUNiZTE2bDBEY1ZzMXRfY0cydU5mUlJXUEt6YUFnYnl6YVBxZENlQS1vRnpXbGREemJpYWlMOTBUWEQ0b3A2V0xvLThtRmNBQzZJX2VxSDlmRUhsN1hTYXRvdDhvVEs0R3pFSWFWYy00UnZ0Ujc0V0JOcTk5bnVkNkViRmF6VVYtU180U0JabU0xQWNLOU9SUzluV3V1RlE5am1SRGJaX1QxMHVyNm5NRjFfZ1kxM2RmbnJQY0l0NE5VVzRGQzQ2UC1pTHfSAbgCQVVfeXFMTkRmUTBUUU9tR2FBaDluYmVfcEtSZS00SmtxSEFCU0h2dFlFZkV3ZC13SGNlZVhjd1F6VlV4ZkE0ZmFrTXpYZ0pPSndPY0xteUkyaW1vdFhTanQwMUhWOTk4LVNSSzg5SlBrcDNVcnprUVcxQlVDYmUxNmwwRGNWczF0X2NHMnVOZlJSV1BLemFBZ2J5emFQcWRDZUEtb0Z6V2xkRHpiaWFpTDkwVFhENG9wNldMby04bUZjQUM2SV9lcUg5ZkVIbDdYU2F0b3Q4b1RLNEd6RUlhVmMtNFJ2dFI3NFdCTnE5OW51ZDZFYkZhelVWLVNfNFNCWm1NMUFjSzlPUlM5bld1dUZROWptUkRiWl9UMTB1cjZuTUYxX2dZMTNkZm5yUGNJdDROVVc0RkM0NlAtaUx3?oc=5",
-   "o": "Boursorama",
-   "ts": 1795137516.0,
-   "m": [],
-   "s": [
-    "Énergie"
-   ]
-  },
-  {
-   "t": "Journée des enseignants vietnamiens (20 novembre) : l’innovation et le numérique au service d’une éducation de qualité - Vietnam+ (VietnamPlus)",
-   "u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNN3hWZ0RpSHlWM04tRTdSdURyNVdUNE1JanlHSFk1MlVkYnFQbV9VN0pYdlpJVzUyQS1HVlZwcFhaOU13YVQ0eWloOTd1a2FuTjI5Mm9FZzlnYmJJc2RQQ3VtTFYtZHJJSGxBeWRHM2tUWkZ4Q3FmazM5TXNSVHRvaE8yRmRhekRvbDZ6a1R2d0h3VTVEN2NhaGc0Qmg2Ulk5eFFVUEZyVERmYXBFU2hBTGtsV25zUGZUd0pGQnZfNFVQZ1V5SWJKQzlwamhrd0JYVHNjS2I5MkM2U3VscVpMbll0VHlySmlC?oc=5",
-   "o": "Vietnam+ (VietnamPlus)",
-   "ts": 1795136400.0,
-   "m": [
-    "Innovation"
-   ],
-   "s": []
-  },
-  {
-   "t": "Meta Platforms « réévalue » son objectif de zéro émission nette à l’horizon 2030, alors que le développement de l’intelligence artificielle (IA) met à rude épreuve l’approvisionnement en énergie propre - Zonebourse",
-   "u": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUUFvVS1rTlBpN1BEMzhKbmhfVkkzTEdJQzA1alRVMFcxVGZkUndSSWRfYzhjN3FXR1o3eDRjQjJjaktLeVNINmFiN2x0NV8zaHlDcEx6RFRxWk9GR3dKWlFVNWZTRXo4Y1VnMmI0YXQtOTJUQjgyM0lWaTJJc25kNGFHLU42Zm9vVGVhdXZPRjNqQVVhd25LSk4yQW9nQU0xb0RRMjA4RXE4T19iOGpUX0ZtSE1CSjFhTHhQTld4WnNVaWRrOE5hNFVJRjd1ZHBqbWllbTFBaDJIYkUwb0dnM1F1RmFhOXpfVWNn?oc=5",
-   "o": "Zonebourse",
-   "ts": 1795135468.0,
-   "m": [],
-   "s": [
-    "Énergie"
-   ]
-  },
-  {
-   "t": "Meta Platforms « réévalue » son objectif de zéro émission nette à l’horizon 2030, alors que le développement de l’intelligence artificielle (IA) met à rude épreuve l’approvisionnement en énergie propre - Zonebourse Suisse",
-   "u": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNmxRdGtpVkFQTWFYUmZIcXhNZG4yak5LenFpZEpZN1ZJekp6cXVHcmc1OW9aNlJRVldYeGtJYVdDcERUY21HV050b2Rna2JZc2gtR241MXdWaWp3b0lIYlZBRzFhcXoxbzlLS2NiSzBKUWljdC1qaGRtY2FCMVRDb2dNeF9aOV9aRWh1cnFsMWhYaWpWWC0wNk5ZQVdIY2NkV2themtjUjlHel9OcGplcUpYT0cyQ1lPOTZFSXp4cnpwMjVrQWlrSVdQWXpJWTlNWjRXYWVsZkF1U1JUQVAxenVxS0pGVjNTWlE?oc=5",
-   "o": "Zonebourse Suisse",
-   "ts": 1795135468.0,
-   "m": [],
-   "s": [
-    "Énergie"
-   ]
-  },
-  {
-   "t": "Emmanuel Macron à Phnom Penh : 29 accords, de l'énergie à la défense - Cambodgemag",
-   "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQa0hwSVhadlZ4UmVxWmNaMk53RUtiN2Z2cmRacTg3RjB5cGIyX1J0ZXFOYVh5bWJ1SjRTck9CcDl2X0pCTEx6MUZMa1BHN0NEdzVJel9JQWMtd1RKUUhuUWNIbnoweTVhWFE1TkJpeTd2emtueE5zOWJ1Um55elZsYkxRRHRrLTlsRmJyRnVReC1UWG1va1VCYS1XaHNlUlFncjdOaW5VTDc5NFhUcXc1NTBMZG9MQ3N2SlE?oc=5",
-   "o": "Cambodgemag",
-   "ts": 1795135296.0,
-   "m": [],
-   "s": [
-    "Énergie"
-   ]
-  },
-  {
-   "t": "VetoDiag, l’intelligence artificielle au service des vétérinaires et de la santé animale - Lien Multimédia",
-   "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5IVHlaNHlpekV6OV80ZllwSlpQVU1oMUZEQlpiVUpzZHVMcm1zUjVfcWV6RDBSMHBSNTMyWnlVeklZVTNXc0xYVW1abHk5aGlzcVRsVVllT0xwdmVYdUE?oc=5",
-   "o": "Lien Multimédia",
-   "ts": 1795134600.0,
-   "m": [
-    "Marketing"
-   ],
-   "s": [
-    "Industrie"
-   ]
-  },
-  {
-   "t": "TEST : Grand Theft Auto VI (PS5) - www.geek4life.fr",
-   "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UQUZWSXE1R1R6SnpiVC1fOFMzdmdLVFlKY21qSXIyRG0tbHdrd2RGRmMtX3MzSkVGbDM0UHlUUl9NS2lMbHgzMWFkdEg3dWxBXzlFaDRibXRwM1pVZ2RtRVQtODVJVmc?oc=5",
-   "o": "www.geek4life.fr",
-   "ts": 1795133632.0,
-   "m": [],
-   "s": [
-    "Automobile"
-   ]
-  },
-  {
-   "t": "Anthropic est entré en Bourse Cela pourrait-il tout changer dans l’industrie de l’IA - NetCost & Security",
-   "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaXAtQTZhR056TVZHQkVPQm96Q0ZqRWRlVnlsbUZnamdfdG44Tk9UXzVoWXJJY0FtWDhXVjhxTlNHaE5GN0NkWmJ4UUNBZUVmSGZNbG9FMkxoQmlNVXlBQ0tKUnhNQjhvb3F3aFpENzFLU1J0NVpaWE9EN2RJalloTVJoeUpFdnZqSW81c1dNVkFEX0ZfZ2JTa3YxaERubWE5Z2l0VHM4azh1dXFJaEpJeDkzc1dWRTJVdURxblM3QmRyeFlreUU5Yko4OXhsdw?oc=5",
-   "o": "NetCost & Security",
-   "ts": 1795133389.0,
-   "m": [],
-   "s": [
-    "Industrie"
-   ]
-  },
-  {
-   "t": "PARIS : Marché de l'emploi - Une étude d'Indeed révèle un profond décalage entre employeurs et candidats - Presse Agence",
-   "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYm1ZOFBLdmFKM3lFZ0pJcDhCOE1GNVE0M3JyX19FQlJTYjV0eFI3WGt3MDU1SzJZRXBYY3oxSll4R1h3SkJiZXozWGp5cF9NdXZEOXVWRC1sRk56V09ZcXZMVFAwa3FLbTdkV2N3X1VkeDFxM2wybVZMRmJIYnlNTXZCS3ZtVHlqaVhfV0lNeFA2SUgzY1owX3VNZFJTMWtJX25FeG9NT2tRVEpvaHNDYXlsUmR0aEdWVmYybWJVMnc?oc=5",
-   "o": "Presse Agence",
-   "ts": 1795132800.0,
-   "m": [
-    "Études de marché"
-   ],
-   "s": []
-  },
-  {
-   "t": "IA en entreprise : la France championne de la shadow AI - Presse Agence",
-   "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ0JVal9ERHd2RGMzSXpOSXJWUlE4Y0pNQU9ScUNtNVVhWVVOOVpreVl4amNQa3B0T1QyWG12bEJyb3M1ZWQxMzduelp3YS1YWXZxaEtMSTBXSndxeVd3OUowWDNuX0lrLXl1TG1BV3U5SFhKb05ZdG1zbGpWQ1MwRlNvVGFUNXgxLTF4NlJLZEhjOGFOdTZyRk5BNi03N2RRR3k4?oc=5",
-   "o": "Presse Agence",
-   "ts": 1795132800.0,
-   "m": [
-    "Études de marché"
-   ],
-   "s": []
-  },
-  {
-   "t": "Le Venezuela mise sur l'IA pour réduire ses émissions de méthane pétrolier - energynews.pro",
-   "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQemU1TWE2dmR6Sy0wVjBwaF93RlpXN3hieTBqanI0azdpazJIQTQ4YVN5UVNnUHo0YmFtb3JOU2xwUVZ1QmJBZU5kSnFqb1VfcnVqQ3NLSDF4WDF4ZDdsbnQwNkJNMG8wbGNfLVZ4cUtXRUlnMVBMNmVRMGREX1F6SmtnaDVSMkN0MTFmOWJsbGJZNV84WTVWRFlyM3Q?oc=5",
-   "o": "energynews.pro",
-   "ts": 1795131212.0,
-   "m": [],
-   "s": [
-    "Énergie"
-   ]
-  },
-  {
-   "t": "Intuit va céder Mailchimp à environ un tiers de son prix d'acquisition de 2021 ; le cours de l'action s'effond - Boursorama",
-   "u": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNbkdtM0xyV2tFOVV3SjlrWHc4VWloQ2NoM0h1UFhDZExON05IV29mRUdQQ1JWOXVIVnhqeTR1X3Nma1hvRXM0OWZaM2ZfcHU0c2FTemxTbC1iRXNkXzdtNm5TUU5sMDFXelctWlN0NU5YQzF3Wlc2ZnlCbEx0a3I4LUE5UjJyeUowRTdkNjlWekVEc1JpNE1yRTl5eTM2bGZqSVY2Y25xSWVCLTlhVTU2Tnp3WVR5YzFVWWpwWkRKSHVkSTZVS3FldGpqei01QUVLNXJuMEZna0FKR0h4M2pEWV8yT3JvRFNkZC1ZSEg2WEV0dWhzaW5sc21zWGRLUVkxanIwZ0VUOEk0RUtLUXJvOUUwSzhRRDNVRUQxedIBnAJBVV95cUxNbkdtM0xyV2tFOVV3SjlrWHc4VWloQ2NoM0h1UFhDZExON05IV29mRUdQQ1JWOXVIVnhqeTR1X3Nma1hvRXM0OWZaM2ZfcHU0c2FTemxTbC1iRXNkXzdtNm5TUU5sMDFXelctWlN0NU5YQzF3Wlc2ZnlCbEx0a3I4LUE5UjJyeUowRTdkNjlWekVEc1JpNE1yRTl5eTM2bGZqSVY2Y25xSWVCLTlhVTU2Tnp3WVR5YzFVWWpwWkRKSHVkSTZVS3FldGpqei01QUVLNXJuMEZna0FKR0h4M2pEWV8yT3JvRFNkZC1ZSEg2WEV0dWhzaW5sc21zWGRLUVkxanIwZ0VUOEk0RUtLUXJvOUUwSzhRRDNVRUQxeQ?oc=5",
-   "o": "Boursorama",
-   "ts": 1795126840.0,
-   "m": [
-    "Marketing"
-   ],
-   "s": []
-  },
-  {
-   "t": "NIQ nomme Danny Lange et Chris Tung membres de son conseil d’administration - Zonebourse Suisse",
-   "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOa0lKQkdHTURURDlObFZQN2lXYnRuZm9zc0F6OGxsdjZwSVpsMnowQUp2WDNid0xQT3pfeUFDaFdvZ09xc2JpQldlYzkyNGJFZmpYeTZzajhMLVhmSmtPQ09BaHdLdzEzOTYxUEh0TGM4dXF1THI0UjR2NmVLcTJnZDVuTEQ1VGstQzViX2lZUjVhNkdWRFRwTHdUUTU3QXJBZVdxT196ajZfOGtQN0MyS3NWZG11bk9ybS16OG5DVEJOVGJ2a05sXzMtV1FrcnFGNGc?oc=5",
-   "o": "Zonebourse Suisse",
-   "ts": 1795125000.0,
-   "m": [
-    "Direction générale",
-    "Marketing"
-   ],
-   "s": []
-  },
-  {
-   "t": "Beacon Financial Corporation annonce des changements au sein de sa direction - Zonebourse",
-   "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYlp0MERLVmIyT1ROX25YVUVxc3RZdlRjaldISUdoUm5JdzhHMVB1QjFfMXBlbTQ5UlR5Q2tjSkxyMlNtZGRNWGdJTFZLUURSTklDSXhDYUdPT1lRMFpZNUc5Y1BnRjRiWS00Zno2VDlvQkI0ay02RVZ6T3VBZDFTTG9zOWRmUWZRWmZUbnlXaVR2c0NaUHV3WFJENGRLdFphejZDTzBpYTN1b3hnVlJmalRIWGU1LWwxZEt6RUFwOHZTZEI0R1l1bVhGZXU2ZlFRYS1n?oc=5",
-   "o": "Zonebourse",
-   "ts": 1795122300.0,
-   "m": [
-    "Direction générale"
-   ],
-   "s": []
-  },
-  {
-   "t": "Cinéma : l’intelligence artificielle doit-elle avoir sa place? - Radio-Canada",
-   "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTElDWjdsbHMtay0xUzg1TlVOc2JNbGEzSEwxVGNHVjRsUE1ZSllrU2ozRFg4dGg2djZ1ZnVPcGRIcjFMY0xha0M4SE9HOVp6bzRVVTlkNnYyMkt0a242Y3E4QXFtMDNoUlIxWlBVYWhKMm9hZkVkb0JkY0Z5OUp2SEN1N2VkeVVBX1IzWUt3LWh6dENqNC13d0JMbnlLYzJ2RWRvS1kzQQ?oc=5",
-   "o": "Radio-Canada",
-   "ts": 1795119976.0,
-   "m": [],
-   "s": [
-    "Industrie"
-   ]
-  },
-  {
-   "t": "La Hyundai Elantra 2027 prend de l’ampleur et ajoute des technologies L’Elantra amorce sa huitième génération à Los Angeles cette semaine. - Auto123",
-   "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQzBmTjAzc0FWWVE1eG1XYzZLOS0xTUs3dG9yRTRSNFFSUFA1cGQxNFJqX0JHd1V3VDB6STlpNG5ZOHhCVG1DWmd1eFlab0hrSzJrRmlucWF5eHBFWmlxbTFQT0YyWmJac0thU0FtOURaSEVuMjFPUThnTWdYVjQ2ODZKSDJ6MUZkUmgweDR2UdIBlAFBVV95cUxONGwwZDJVN2dndTBqNUtQQkMzSUtVS0pWeklCOFJOSWg3d0JEZ1MybjdwUENxNmR5S3d5ZXZPUEZXQ2RmU1JNT3JkV3BQb0dWaXBDVjZPdFBGS2dLMEZOWC04bDc4SXhKeVVYcHF3dFp5MzNsTlFPRnhLXzhSLVlKNVIydC1aODU2V2thUUE1SzJ1V2tP?oc=5",
-   "o": "Auto123",
-   "ts": 1795118677.0,
-   "m": [],
-   "s": [
-    "Automobile"
-   ]
-  },
-  {
-   "t": "L'intelligence artificielle traque des catalyseurs plus propres, un pari où la chimie pèse 2 % de l'énergie mondiale - Daily Geek Show",
-   "u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4yNmF6UlVGZTFacHRmZnN2WW12N0c1QXJjLWhoWFNBY1EtNDY0MDdBVGQ5eVZ5NnN4X2xqTG1WMHZoUld5ekZPdy1YMzg?oc=5",
-   "o": "Daily Geek Show",
-   "ts": 1795118460.0,
-   "m": [],
-   "s": [
-    "Énergie"
-   ]
-  },
-  {
-   "t": "L'intelligence artificielle Claude Code a terminé Grand Theft Auto VI en douze heures. - GameGPU",
-   "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOVFDdXF5T0Z5OFRQVlpmZTJOUFR1MnFBU0xWemhhN1Juc0N5VG9HcHlja29WRWhsN215bENESlpKMy1lV2lMNlMxNVVDV2QxZTM4bUY5a1FaZFpIaFI0cENpUW1sLV9KLU1qblhqT015LXh2SVN0dDBxQ3AyRzVIdlNuZklkMWU0NXZZM2xFMTV5SVY2YndQdWN3aDcxNE9yT2YzZ210RDR1NEZOUl9IclQwLUtfc0dKcHhJdWtvWQ?oc=5",
-   "o": "GameGPU",
-   "ts": 1795116834.0,
-   "m": [],
-   "s": [
-    "Automobile"
-   ]
-  },
-  {
-   "t": "\"L’innovation et le progrès sont trop souvent confondus\" - Alliancy",
-   "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVW5lVU1fWlU3X25XNjBXOE5QQ1Q4S0lhaXJabDRtYWlfSjRVb21BS0J6ZC02SlZ6Y0pYVGJ3ZGZFVExXdDBLNFFFYVBFRWpPVmR0U2ZjcDhVeWRFZUYxUnEyTG9SUDRwNVk5ajNHVmI0ZW1tbnVSdERsRmRRZ1UyakNraVVVN0dXWXF2MjcwYzhFMWVmN0tJc19hM0hDZ0lPVUpoa1FvQm8tLU93cXFB?oc=5",
-   "o": "Alliancy",
-   "ts": 1795116046.0,
-   "m": [
-    "Innovation"
-   ],
-   "s": []
-  },
-  {
-   "t": "Trends Impact Awards : LCL Data Centers remporte le prix Climate & Energy (PME) - Trends-Tendances",
-   "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMDM0QzU5X19FR0dHUldvX0dGNUFna3F1elhxWTdOMU1fWEQ5UEpXQklrdFFDSnVWTzdJcUxqbU1mSDE0czVzbVV0WmdVS0x1WUJZSERuektDNExuMzNBZWxpWjNDX0h3b1dqbjlDUkFCOW9pdmlGM3h4U3V5d0JFOUc5Mk40cllIeUtZMFJSMHVmblhoNGt0dzRISUplN3lpYlJJQXUyNk13MGxHa19r?oc=5",
-   "o": "Trends-Tendances",
-   "ts": 1795116036.0,
-   "m": [],
-   "s": [
-    "Énergie"
-   ]
-  },
-  {
-   "t": "Ressources humaines, informatique, conseil, droit, recherche : une étude dévoile les métiers menacés par l'IA - Valeurs actuelles",
-   "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVnJld0V4cnhMeDlodzNnMVhaSlJRVGZTelFPRE9qZ1J5bVVHSWRnZjVqd1lPZjR1M1ExcTJLNXVDZE9pMmRMQXVURDhEX1cxRFloV085ZHhQeDNFQUVpUHJjZkpVa2w1M1RYNDdJTWUyOFJxbm9nOVBpVFBHYk5mcENQMGhpYUIwaXNIcV9fS3g4UzZHTmJ3MW5fUFlXcWdVbHQxenNLMFBTTUhkTUw1SlZkeURGRlFEQWtzbUdJQ0dHTUxVNmVCQkxmRkhmNG1fWXNOOXZpZFF0Ql9T?oc=5",
-   "o": "Valeurs actuelles",
-   "ts": 1795114978.0,
-   "m": [
-    "Études de marché"
-   ],
-   "s": []
-  },
-  {
-   "t": "\"Tout est géré par l’IA\" : une voiture volante du futur imaginée par l’entreprise chinoise Xpeng est visible en concession à Béziers - Midi Libre",
-   "u": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNVTdHV1RYSzFneEFTQkN3OFQ3dGRxTGg3TExaOXhSM1dwNFJTUVE5WWFySUhPcnlXYm8tdlZpdnNzbHVHaTE3bnd4V2lHVktVLXFkeE9tRnVfMk9kNklyeEhTVGt0NFUxQlJtd3d0OFFPRHlDQ3Vkc1kwNHZ2LUE1bVNnQmVOdWVSeUZDM3ctYU5QZkRqYV9SM19ndVN0c0g5TGR1TUlWVTUxdVU2eFY2TDlLR0loMVc5Q2NZaU1NTXVjak0zZnBocGVrczZTQVc1SUJkY1FGYnNFRVpkRUtFbU9Sd21Wd1ZNX2t3VVhKS19IcFhHanZjOXIwaTY1Q09tc2p4X2l3?oc=5",
-   "o": "Midi Libre",
-   "ts": 1795113420.0,
-   "m": [],
-   "s": [
-    "Automobile"
-   ]
-  },
-  {
-   "t": "L’Autorité bancaire européenne appelle les banques à la vigilance sur les crédits aux PME - L'Agefi",
-   "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRmNOYXRRTlE2dFRJTDFQdUYtTUtxUkgyYjMzd3pxVlpNcVJ5aUtYWDNYcWZEU1ZWVGg0ZUNoLVNNVGpOcjVQbkltYzREUVhXWWJpY0tVbldFTW1IZzBsb1p1VXhEXzF2WlRnYTVvOElvUk8tRzUtVk5Id0JQZDdFSUJIQXdEc0c4ZmVaWXhJYkdaZ3VSanhTQlpGbnJSSUpMZ1VMdmtYWkdZNXRJMlFCcGpFUVBqQ0c1RWFwV1BrckU3dTBWbFlteUhaUQ?oc=5",
-   "o": "L'Agefi",
-   "ts": 1795113296.0,
-   "m": [],
-   "s": [
-    "Banque & assurance"
-   ]
-  },
-  {
-   "t": "Les Etats-Unis ont été secoués par des pannes informatiques à répétition au plus haut niveau: la principale responsable a peut-être été trouvée, l'intelligence artificielle - BFM",
-   "u": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNRzNPVWhCd09zZUpoZEVvd0NhRlA5TmJUbDlVcnhodWZqSUZUeGtPUmlCRHY5TnQ0Zi1YeXRSaFRfZ0RKdDJZVEE5Q2VBT2xRaHAyMXItdWpFb0lianliOXBRNzJqNHNuaDcxS2JsbnZrWHoxVWl2eEdxWVlXUkdMRC1OT2NPdVNvYzZEMkdYU3VLZ1ZZYlVzLWVpRERzZUxoX2VPRmY3RndONHJLa3NwQ19jVU5SZGZjWVphV1FmYmJvRndmTE9fTU4ydDdJbF9LNzFNcDZOcmthZWZvY1pLYUNJM1RQZFpXcmw3NnJiRHdJaUZUYVp0SFdPc2YyMDVWOEFibUZCQnZnUW82dlRIb1ZMc3dONnpWcWdMV2hNZjlWemVUNFJEU0xUdE1vSFl1UkY3TmxwMFJZMHIwbjZTaGU3V0dOQjAxR1BRcndUUlA4QQ?oc=5",
-   "o": "BFM",
-   "ts": 1795112645.0,
-   "m": [],
-   "s": [
-    "Médias & télécoms"
-   ]
-  },
-  {
-   "t": "Le propriétaire de Temu réduit sa facture marketing : l'action s'envole - Invezz",
-   "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORnVobk1ZVHNSTlBibFdIbkZnUUY4Z2duRDI3VDViamtYRTB3eEV5Rm5jUElQcXpYaWtsVTkxZmt5dEJxQmdMMk00LWoyc0Q5UUhXUTdfRGRFZDlIdUdqbkhnWktWemlSOXZpQkpJT3g5WGdsVFFEWV82UWNlMWwxZVdKSExUZE9LWHQyUnoxVGw3RHRCQ0RzUTJVM2FzcndXbVhMNGpkRVZUMUlKV3FKTXBR?oc=5",
-   "o": "Invezz",
-   "ts": 1795112640.0,
-   "m": [
-    "Marketing"
-   ],
-   "s": []
-  },
-  {
-   "t": "Rennsport : mise à jour de décembre, 4 voitures et MOZA - Univers-Simu.com",
-   "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcDhJb1kyRzZHY0N3TDluMjRGYmN3eUR4T2YwYmxGRmw3OUZoUzIwRkNIc2RCOS16ejAxNU1mYm03TzhZaUJ0UW5RVEgxTndDaTJyY2pTYS1aOHlrS3lOaExYN28zbjVIQzRnTkJrcHk3dmxmVlJ6UVE3WFI1UXlGT2dhcVMxeEU1R25vN2UycjV6SXpwM0E?oc=5",
-   "o": "Univers-Simu.com",
-   "ts": 1795112304.0,
-   "m": [],
-   "s": [
-    "Automobile"
-   ]
-  },
-  {
-   "t": "L'intelligence artificielle, un nouveau défi pour les entrepreneurs fransaskois - LEAU-VIVE.CA",
-   "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPakVTTVJ0aFRLOGdEVFJ4VS15VGxMUi1jdWdhZGJXZjQxZEkzc24xSW5XOWxHS1M5cHB6ZE1vNUt0U21VVXd0UURMczBZald0SjFsXy1taHlhOENSWmY2UDRlMU83eUdXT0taSVRVcE9EaEpraVk3cUN6WUl5a0ZhRmdxZDNLbUxha05NVFlSWXZUTzY5UW5VQXdqTUlkRGFRbEpTWGZDckpjMjU2MXlhZFYwTnU1eHNKSElDX2VsLWs5WTZmU0UtTGJFZjB0Sno3TzlCRlluR1lXUQ?oc=5",
-   "o": "LEAU-VIVE.CA",
-   "ts": 1795111681.0,
-   "m": [
-    "Marketing"
-   ],
-   "s": []
-  },
-  {
-   "t": "Transcript : STMicroelectronics N.V. Presents at Morgan Stanley European Technology, Media and Telecom Conference, Nov-19-2026 12:00 PM - Zonebourse",
-   "u": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQUk8wY3pVSkU5SUF1cXVGalpzZEpBR285dC1OallHWXZjWlFpajlVOHgwd19hX3F1M25FZ3ZoSk9WTy1Ia2Q1LVAyeVRtU2I5SDB5YmxxNVhrR09Fanl5R1FJdk5PMTNsNkVQdnZoWFhqR0xCWkZGWF94MGgyX242b1JRSi10eG5Db1RwOVppakFBbllfLV94NjBmWWhrdXpRYzlYdHMyRzZTRDB1NXBYRzE4NVhTaXhtTjBmWktqQmpnTnI4dVZLZHl2TldGNDZzTTB3MVVKX2p6YklpZERDaDNnWTgzZlVnb3ljOGRvYnJQS0c3TlhJU05sZHZUT0VEMmdyS0p4enNLczZ0a290OE1R?oc=5",
-   "o": "Zonebourse",
-   "ts": 1795111589.0,
-   "m": [],
-   "s": [
-    "Médias & télécoms"
-   ]
-  },
-  {
-   "t": "Anthropic, le vertige des 2 000 milliards - Option Finance",
-   "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVWlBaU1iX0xrenA1d1YzejVCdmdCOXN0TzZkdVRIMzhpSTJLUExkVHNtR2YwRlZSTm9fWk1Hbld6NkdNR2l4UEI5Y1d0NzFkYVJBOS02SHg1X09XcUxpYWxURGplY0RHcDdyLWNsbDc2eWNQaXA5MFdMNlZ6UmNrLUx6bVhVYjBDcWtaUU1KTVdjLXN5N2FaMUZPZDZqMzNZTllxbEJfZU1VaFNBWTB3Y0JEQU0?oc=5",
-   "o": "Option Finance",
-   "ts": 1795110720.0,
-   "m": [],
-   "s": [
-    "Banque & assurance"
-   ]
-  },
-  {
-   "t": "EDF, Engie... Pourquoi les négociations salariales dans l'impasse dans l'énergie - Les Echos",
-   "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSnowMmFydGU0TGZ2VzNWdmt6dVRodUNMWEFPdmhxNXJsSkR5bXVqZVlld2JrYzJzYmkxaUI4UmlRclpNZGNvOUdEQVc5ZHJFejdhcEp3OVJuamdXcDRQRXo3NnRqaVIwRGNFZENtYkZzTW5WckpES0VWaHJVVEZiUnF3Ql9JT1FuNVNxQ1RpTG9va2QwU3NfSTZyWWI5aHVhSlFocFhKdk1mek9wS1M1d2o1ZWs0eFpIY3ZrOHB0MA?oc=5",
-   "o": "Les Echos",
-   "ts": 1795110535.0,
-   "m": [],
-   "s": [
-    "Énergie"
-   ]
-  },
-  {
-   "t": "Des formations adaptées aux métiers d’avenir et aux besoins des entreprises : le premier campus du spatial, de l’IA et de la quantique ouvrira à Cannes courant 2027 - Nice-Matin",
-   "u": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPaGNjMExnT2RVdU9mZW9lWGlDRmxaVVN5V3ZVOWVwMFlPWldwUHRFNFhUZVFUQW14ZUdZWHI2NlRNd2I1dkV3VWc5LU5YYUNNa1IwLWxwQUhnbVBiekhEem8yTmdFOEx5V3Vxd2xZaXFiSnB5ZjU1Mld0QzBKdEIyQUFvMlpzU1l5Z01VdEVEZHYyZDB3bzUydHNObWZlNHBuaE9rejBHTlM5T1E0WU5XWmRLbTZHdFhEOTZueHlBLXlQTHNqcVdsY3ZlaFczdS1JanpXTDVsVU1vdzVuTktlN3NkQ29mdzNENG5fUVQ3UGVjWVVmUmpHYlhPSkladW15QnB2VDdNR29Bc01oRlBvZmxEUTNkSG9raTBGTG00dmJvUnEwT21US29rTjR5QQ?oc=5",
-   "o": "Nice-Matin",
-   "ts": 1795109766.0,
-   "m": [],
-   "s": [
-    "Industrie"
-   ]
-  },
-  {
-   "t": "Le Maroc va investir 400 M USD pour développer son industrie de défense - The Times of Israël",
-   "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ2paV2dTZy16b1pZNTV3Q0g1S1lTR1ZUY0kwLXJtVF8yUGJmSG82d3dBVnhNNjgxbDhid29UTXdKN0h4MnU5VkZrSUFnczlsNzJQX1BQV1ktekt0Yjd1WEhMUk1FMVR2WURiRFRGLVQ3TUxIZTgwMU8xZG1zSEozNlhPVDVZTnhBdUVKZUwtQThsZURRaXNneUFIN0JDSWJTQ1lJ0gGoAUFVX3lxTE9yM3FUNlJJRE8tbmdoWGVPS3llaHA3NGZtUFVsQnJUYkNHMFhhdlBtWFBjOEZWMmlHamRNaVU0QWZUT2hUS0RReVR4eTJ0NTFzS1pIRGg2WUI0dDNhOW10VDRRRTFERm1WQmZHVVcwTFgxVTZ1aDhGQlN6WF90UzB1R09oUzB3LVd6RjVoM285WXV4UkZRMm5YdEhncWhsVjdpSTVXelV5aw?oc=5",
-   "o": "The Times of Israël",
-   "ts": 1795109640.0,
-   "m": [],
-   "s": [
-    "Industrie"
-   ]
-  },
-  {
-   "t": "Grande distribution : Intermarché continue de caracoler en tête, U et E.Leclerc suivent, Auchan décroche et Carrefour souffre [Octobre, parts de marché Worldpanel] - LSA conso",
-   "u": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxPZjlJNlVzUjVuTlA0ZEFISktNOG1kWnRLQ01ZU0RYR0ZUdWg0Skw4MUs5VzJBVFNVRUs3bmJFa3NQQ1hWRnZoSFFSVE14SmZnMHh4am90TmViWm1XSGYwUDR1RkFtZ185czVMYmNnbTNGV3JtTERqdUpLaVNCbFdfWXZHUVBKRUpwWU11TU9LSmlIVFdPR05LZDc3X1ExcWFLS2FfbTZjTlFjNEl4VWhtdkN1VzNKOUUyaGtEYkh0cFI3SnZBVmRnRlEyOWlmNS1KQjVyd1AwVWxySjdpaGxxNjFISWVBc204NVFNenJQNVF6U2k1VU42dmw4ZjR4bXRaRnlMVmdxbEg0UzNZZU9lME1hRUN6ZHBPNFpROE56MlNySTZ0YXB4VDQ2VE9BYzR6RUZneXJmMktUV0Zlamh1UEg3S1pyRzFyUGFOVzQzTEFaX1dfTkdhM2l0NA?oc=5",
-   "o": "LSA conso",
-   "ts": 1795109322.0,
-   "m": [],
-   "s": [
-    "Retail & e-commerce"
-   ]
-  },
-  {
-   "t": "Retail media : Mr.Bricolage s’associe à Unlimitail - Points de Vente",
-   "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMEhvRlRiOHFQM1g0M2tISThySmFLYTUtcUd2ZEZzeXJfUXlqUjh0Ulg4RmJSOHQ5ZFFwZ3o5bFBpQWtNbEVxaFFqcjAyWFpsU1BqcjQ2MFZyejN2X2FLb1Z6a3h0eGF1MDJmUlZBV05aOEtyaWtYcjVZdFhadjYzZVgzcWdub2w0eHc?oc=5",
-   "o": "Points de Vente",
-   "ts": 1795108337.0,
-   "m": [],
-   "s": [
-    "Retail & e-commerce"
-   ]
-  },
-  {
-   "t": "Plus volumineuse et plus intelligente, la Hyundai Elantra 2027 débarque avec un style renouvelé - Le Guide de l'auto",
-   "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOU0VIel83NUhLcUg4b0dzb3FHLVJvbVphMm85UW45T2VyeUdRWFIyLUd2Y00yckxzeGM0VjNHek5qV25Fc1NUbHJJeXM1SEVVRXhkVk40cnozSHdNTlgtNFpKcExHMkRSNUUweDkxTWtPZUEyc0djdmVtd0tHTEZwa1dQaUpCMXZNZEw0Qm9jNjVwNVBQVktFcWZleTE1TjkwdWdBTjZVM0hsRWZKMHJJaXJsQ3NfT0R2NzNCY2ZKakNNQnA5T2s4UzFIOTRMYXJHM01CR0hR?oc=5",
-   "o": "Le Guide de l'auto",
-   "ts": 1795107900.0,
-   "m": [],
-   "s": [
-    "Automobile"
-   ]
-  },
-  {
-   "t": "Rééquilibrer les portefeuilles vers l’industrie - agefi.com",
-   "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaXJzc1VjRWRMUFVTQ05jZ1NCbVRoQ1h5V05IdjZvTU01MFZpOUk0MVZnZmdSSlU1VWdteUdaQkVqeGZiemJLcmdqbjRnUldMTjFOZHQ3UTNDSjVGcVZlWUFjVmc4ajRMNTNtMWFjTFEtWmxpYXRDSXNBX3hySlhDT3lpcnZyemxOTmhR?oc=5",
-   "o": "agefi.com",
-   "ts": 1795107600.0,
-   "m": [],
-   "s": [
-    "Industrie"
-   ]
-  },
-  {
-   "t": "Tapis rouge, « pop » et 107 milliards d'argent frais : l'entrée triomphale d'Anthropic à Wall Street - Les Echos",
-   "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMmNVZ2pqY251ekwxUjROSGlWUldlQ3cteTFjSFZQdnNtbnRpM0k5M2Y1bEFlUVN5TWxJRG5adjl0SHFiWjBaQWMyOGhhTlgzd01tNFVmUnlaTExIWFkyRVJ2bTBoYUh2WUtPUkVIeWZoczBaTFJNNjBmZVdzR29XWGE3Yld2YlZZYUlNWjFfTFpxbDNOTS1HdENXYk5pNkxBN01RZkw4eEQ5THZaa0FlZzJ0RFJHQVlUd2kzVFliTERWWDF2c0N1bFNMbnpCZU1SS1lUZW5VUk1vZw?oc=5",
-   "o": "Les Echos",
-   "ts": 1795107481.0,
-   "m": [],
-   "s": [
-    "Banque & assurance"
-   ]
-  },
-  {
-   "t": "Writesonic : qu’est-ce que c’est, fonctionnalités et comment l’utiliser - Smash Marketing",
-   "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS3N3NDRIRENrd043MVdlN0VsQ01SeE1iS05pNkMtc2kyaGtjVm41UEkzTXJMTWNaQ1M1N2VObVJFZTJGcExWeU1kcnJpQ2Y4eGVsUTJnQVZfZElnb0l4UmRGOXBvYm9FTks3RmQ0dEVkLV8yVEcxUHJiWHkwTFBaWVByRDhoZmRUbXM4YUxwVW9rMU8xN25yZm5SMThNUXlLRXdqNg?oc=5",
-   "o": "Smash Marketing",
-   "ts": 1795106962.0,
-   "m": [
-    "Marketing"
-   ],
-   "s": []
-  },
-  {
-   "t": "Les risques de cyberattaques et de fraudes accrus par l'IA, avertit le régulateur européen des banques - MoneyVox",
-   "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUVBfWEFGWEt5NHRTYWhlUGtiMXJGOFBmZWlOdmtmR1BUU2w0bFNubl85X2RQanI5eXppS1U2aGpKVlU4ZFZGZThrcDJmVmlXdWwtS2ExV3ZMaXlUV1Z1dm1KbEpyTDZZVGVEbWFNSW9CMTV2SHR6SjFpUXUwZndlcGc2Rnp0RGNhczUzZjBua09YU1JVSzhWQ09IMkpKSnlQeEdLSXUyQ3RSblRCWmtMNnJWeGZZNFdKcXdKeFVsT2ZWWVIzZjd0aGJuVmNFOE11a0RrQVhjUnlqX3B1M1FYc0tn?oc=5",
-   "o": "MoneyVox",
-   "ts": 1795106825.0,
-   "m": [],
-   "s": [
-    "Banque & assurance"
-   ]
-  },
-  {
-   "t": "IA : quel impact concret sur l’économie française ? - BforBank",
-   "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaDlxUXd4bVlZWjZzQllib2FjamZVRDFEeXloak44V2tEYV9CV2V6ZFdRSUlpenc4NGFaTm80TmFYOEp3OHBLcnd1OWVzVGpWMXIwUzlPM0w2RWJxeHZZVlhTZTI1ajNjeExQQVQ1aGUtcmZfdEY1cl82TjViQzNuVmNLcEZEekpzRUdoTnNZY1kyektDVDg0?oc=5",
-   "o": "BforBank",
-   "ts": 1795106794.0,
-   "m": [],
-   "s": [
-    "Banque & assurance"
-   ]
-  },
-  {
-   "t": "Belhomert-Guéhouville : Reborn Arcade sacré pour son innovation - Radio Intensité",
-   "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc2dYWFhpWXo0ZnBDZkJFNTlKQUYxZjBaMVd6UUFIWjNQWFJZNVBFRkFJY2Nzbk1QY18tcURnckE4eUJqeDhkdDdlZ1E3OFVPSlN1RUVwWTRtc3RXNDMwXzFqdnQyNHREa3JGQ0h0YS1DNWJQNmN5VVU4RWVTZVZkQl9pRnB3M0ZiOGNsNmstZnM?oc=5",
-   "o": "Radio Intensité",
-   "ts": 1795105920.0,
-   "m": [
-    "Innovation"
-   ],
-   "s": []
-  },
-  {
-   "t": "Santé et handicap : l’intelligence artificielle au cœur de l’émission JAIME Radio - Jaimeradio",
-   "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQkxfZElVSHFkbUlwNlEzMmFtMWg1dmQ0OVRBZl9EeTk2OTdYWEs1S25fWGRaY002aXBCT0d5LUM4MkZxc094cFp1RzM5UHVoeXMzZVdrWndOd0IyaHcydzA4M2hYRW5nSlBndDFWdnpnMXBzY3NpRXhpc3NVd1FvaVNxUU5oUlFMRnBmUmtacl9uQmhzTGt3X1l5TEZQZ1Z5?oc=5",
-   "o": "Jaimeradio",
-   "ts": 1795105813.0,
-   "m": [
-    "Innovation"
-   ],
-   "s": []
-  },
-  {
-   "t": "Bloom Energy monte après la note de BMO et l'IPO d'Anthropic - Invezz",
-   "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORHh2S0t6bWRMM2I5aXlMZS1tZ3ZzOWhMMUY3dVF4YmpVRXY1U3dkeGVqNWZaWHdYTWZZVWZYc2xUNzVaMXh6SlpsaVpRd0d2QkxaX0c2aEQ2bmxnUW5WLXhhRmdKNUwwVk5Ca19QWGxROGlMSkFSSVBPZkwxcFhXSXVid2l1UGxQQ3dUd3IwUVFvOTVxOWI5UkVUTVRyM2RwZlN1SldB?oc=5",
-   "o": "Invezz",
-   "ts": 1795105080.0,
-   "m": [],
-   "s": [
-    "Énergie"
-   ]
-  },
-  {
-   "t": "mOS, le cerveau marketing de l’automobile imaginé par le Groupe Amplitude - Auto Infos",
-   "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUmlnMy15UTkzdml4am1JYktlWW9OQWpzNHpXZFZHaGt6VFZPMlBLQ3E1YjRWbWlFMkFEUnp0SHdwY2kxWjh1aDMwMEZSNUt3TXhLOEo0Z051blA3ejVRV1NrV2VhNnZ1dEIxMzFJMkFHRUFZX08zTUUxLXBoNF8walNKQWQyREJpcDdaRlBWa2Vmd19ndFBmVndOOVJnZHFKcE00N1BvbUYxT29HVFoyaFRIZw?oc=5",
-   "o": "Auto Infos",
-   "ts": 1795104780.0,
-   "m": [
-    "Marketing"
-   ],
-   "s": [
-    "Automobile"
-   ]
-  },
-  {
-   "t": "Piñero gère plus de 510 000 demandes avec son système d’intelligence artificielle - Demócrata",
-   "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaDhjQ25GZzJGNXNPVFZHWlRmS0F2U05qdDY2dnJjdVdaelVuUXZKWFZkV2Iwbnd3bVZqeWdTbFVCejVsNmg0a0RxeUN1R3JETkVnMTZMeE9fdkdxY0lTb09pS2YyZmlJVXFtQUQ0cEZyb2lLbDBka2ZwRkNwSW5WeXA5RDFyLXRUcnlaZWFmZkd6MzVqdFlGbTJjSjNGeS1aZFpnYjg3NVZkZE9zVUNOR1YyNXA5ekJPTkpF0gHAAUFVX3lxTE8yYnVvUU1zbmlUaDNLRjhlN2pBdTV4Z3RDaDR3dDlrTHEtVXN3T0FCa1VYN1pfRG5vajF2dkJ1aHBGU0g3bmlBTU1SeXVSaGhUY0RwZEtuVjcwMThHOGRMNGN5OVZBVWotc1ViZnpybTJzanFFUFpxZzVVNXVGM3BBUjNnNmdfdUE3Rkx4d1U2b2hXQWdiNEFPSTAwT1c0YmFfb2JjN0dSWC1Qc2xya09HeG5BU2FuRWhiREpwQ1lVOQ?oc=5",
-   "o": "Demócrata",
-   "ts": 1795104396.0,
-   "m": [],
-   "s": [
-    "Énergie"
-   ]
-  },
-  {
-   "t": "Transcript : Nokia Oyj Presents at Morgan Stanley European Technology, Media and Telecom Conference, Nov-19-2026 04:00 PM - Zonebourse",
-   "u": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQTzNmMWtydUJmajRsZXJScDJaNHFEUEN5UE9iMVo3N0RDZ21nNkgzT2hmcHptSGozRzNMRWRYazRtNkExZTl5WFUyS2ltQzhzUC1qdzkybm43bkRuR0swdFZySEZSblJoeUlZS3BDaF85c3dHVm95bERONXNrTnhYcFNNd1Y3dnhTV042WmN1N3BGekZ1bENRWjQ0cC1ndkJWUHN0MWVUUHZmN1pHNmVvX00zRWNuSFpHLWtoM29zQi1hY092SDNwVkRkR2lyZzFVcHppVzBubzhJdG9ybTdyZ0lLVXIyV1hYSXpoRk5yOExGckMtN2hWRGh4emNTcEpqbTQ4X1JB?oc=5",
-   "o": "Zonebourse",
-   "ts": 1795104315.0,
-   "m": [],
-   "s": [
-    "Médias & télécoms"
-   ]
-  },
-  {
-   "t": "Le Maroc poursuit son expansion financière et technologique en Afrique par le biais de Maroc Telecom, du secteur bancaire et des énergies vertes - Atalayar",
-   "u": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNY3k5dGNiVTN4RHBEZFBSbF9NSzFiN0dXbTZrb1MtYzZWWE55ejhIdjVXNGdQT1NvcTJEYmd6Z0o2YnBYOW1VcWQzczFuMllKNWRCbFlHMWxlM1hBMjZ1YVlHbjF6V3ZsamFCcy1oUEpZS2kyZDI3QVo0Tjk4d2VrdmM0SW8tZmJyODNRX3FuQ0Y0V3NhaTF2N3VmcWR2Z044NUVLLW4zYk5XT1ZiY2tqSEtqclByb2JoOE5EaGJIT0czd29ZdzFsZzVVbnFrSzR2QzlMS0xFa0pabERfSXljUEN2V3otOUdYN01vNTRIaWZRSTVsaGx5SnVUTU83dGFJcU9Nc1NoZ2FKVzBsT1ZDSDk5Z2lGcGtkNFhUaGRrN1ZuWWU3NlVpTnVZa0tyTGVMLTdr?oc=5",
-   "o": "Atalayar",
-   "ts": 1795104000.0,
-   "m": [],
-   "s": [
-    "Énergie"
-   ]
-  },
-  {
-   "t": "Une solution hardware basée sur l'IA pour le développement, les tests et la validation des véhicules - La Tribune Auto",
-   "u": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNT1ZyQ2RMdjdiYkpCMnRjeTltMGNlWklXd0dkd0hOLWVfaWpMeWtiU1Z1aFhoM3hTQV9md0dZdXp3YnBvakVFcHYtU2gyNWM1R05kZ1ZOWTlaNHc5elc4V0pMV0xBM0RVNWZXVk10SUNmcjc3UkZpSDNYM2paaFV2TmpQQnk2Z2M3UWZaeWVMOElzVFBmaHRoRks0TF9wdG5FeHRWV0Z3ZjZjSHh5a0pBQ2ltUjE1TUJjWnhSdzNpQkhHX0htSHJvWUNia3VGNkU5aVpYTUhhd3VWbkRiTmYxTXhrdWxjeTlJeVBYdUxyZFNRckMxN1VF?oc=5",
-   "o": "La Tribune Auto",
-   "ts": 1795102881.0,
-   "m": [],
-   "s": [
-    "Automobile"
-   ]
-  },
-  {
-   "t": "BofA reprend le suivi d'Accenture à l'achat - Boursorama",
-   "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSm1CX1RLVUdocnFzVFljY2laLXViZUQzTWxtNWE4LXVBbnVONWllMFlhV2tJSVQ1UUNrRkx6bUdFd3dnc3NJWnRHUk9KelBtOTF3c2YtS1hwZ3c2RENrZExIME5vT3lFY0F3eG5FLWxoWmxvZk5vTmZTWDJFVVB5QmtnR0d3R1lrcURzV1lqSVNyLWVkX3NOWWM5R1VHQVpIZWxxOC1nVmJqMHd4enpZeXJEbXo3SDJfZDdNWlRMQ2VDbDDSAcMBQVVfeXFMUEptQl9US1VHaHJxc1RZY2NpWi11YmVEM01sbTVhOC11QW51TjVpZTBZYVdrSUlUNVFDa0ZMem1HRXd3Z3NzSVp0R1JPSnpQbTkxd3NmLUtYcGd3NkRDa2RMSDBOb095RWNBd3huRS1saFpsb2ZOb05mU1gyRVVQeUJrZ0dHd0dZa3FEc1dZaklTci1lZF9zTlljOUdVR0FaSGVscTgtZ1ZiajB3eHp6WXlyRG16N0gyX2Q3TVpUTENlQ2ww?oc=5",
-   "o": "Boursorama",
-   "ts": 1795102680.0,
-   "m": [],
-   "s": [
-    "Banque & assurance"
-   ]
-  },
-  {
-   "t": "Blue Yonder annonce un changement de direction - Business Wire",
-   "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84bk9FWjRWV05ZRHY3RWxCdnlZYVY3NkxWZVpXbGsySFJYZFVEOGFWOGhCMFNGajdLQTlzTTlMUnc1SGRnbjh0aGZuR2JsdHI3UEprWHV0M19YM2hiTWJNY0dfZUJjZzg?oc=5",
-   "o": "Business Wire",
-   "ts": 1795102620.0,
-   "m": [
-    "Direction générale"
-   ],
-   "s": []
-  },
-  {
-   "t": "Les data centers charment le marché de l’assurance - L'Agefi",
-   "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVktqeHJmU240cC16QjBXUG13STRmMnEtcVBoa0hwd2NhZ2Etb0NLS2lDcjJUbUFwUEx5R0FoUGNuR3hPeUtvSXd2VW15ZWNqd05qSndfWmtEcVlHV0daaFliXzdMMlJnOEFYQkR3VG5wTnhmYUVxMFh6V1E5X3RVMGt5Um9IRzVWT09pQUJlck1rNXEya213?oc=5",
-   "o": "L'Agefi",
-   "ts": 1795102120.0,
-   "m": [],
-   "s": [
-    "Banque & assurance"
-   ]
-  },
-  {
-   "t": "Autolia Group fête ses 20 ans et fixe le cap pour 2030 - Auto Infos",
-   "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNX29BeWNDak5DaHBQNnN4alZiUThvWGw3WGZGRXJLOGVsN1RpSXAwSVRXRDl0YWFFSURSQVUyckxBSXZyeHhGN3JKSWRhSWZkUXVpcFhESTZUS2VhOVI0elJHdXZDbFdVdTRtaDh6MkRVN2NTMUVabVhReFdSM3o1d2VfS2t0Wlk0T2N5ZS1fNDUyT2c5RWVMUTI2UQ?oc=5",
-   "o": "Auto Infos",
-   "ts": 1795101300.0,
-   "m": [],
-   "s": [
-    "Automobile"
-   ]
-  },
-  {
-   "t": "Les entreprises offrent des salaires mirobolants et des voyages de luxe pour attirer les talents de l'IA - l'Opinion",
-   "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOG5YaVphdWQ0NFlVbkhFbmx5aDZVQ19Oc1FSaU9CSDk0dU1OUDVRcDFrcjhiMW9DZTN2ak04V25xRlI2cmdQaV9EZ0p1R0M1Q0V5RjllQTBJTTJ2UmNOemRtNzVNZTh0SjZMSENHVUhYY28tYXM0MFZ6RVdvOFVXRFpCVkR0dUJiV3VyRS1SQWMyRTZMUDlSUjdDc21XcVVoWmt2bTJ5X2xvNHpaZTA2SnZyZHhIemUtRXdBeXpkMk5XR0FZNmp6MDl4ckZkdmJneXc?oc=5",
-   "o": "l'Opinion",
-   "ts": 1795101300.0,
-   "m": [
-    "Études de marché"
-   ],
-   "s": []
-  },
-  {
-   "t": "Interview avec Najat El Khallouqi: « L’intelligence artificielle assiste, mais la responsabilité reste humaine - L'Opinion",
-   "u": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNN2pwSGlRbzVIdlMtVmRXQV9FRUotTUpQcnZZa3V1Ujc4WWFnV2taT0JTU3FVd1NGdFE5Q01EVGlYNUo1ekJIQzg1V05XSUEtUTZEdWo3d2o0MzR4N25tajRNQWh3Y05iall5YVBFM2pLajZaS0VqdmtwZzI3SXg2emV0RmY1VTBmOFRkVURVT3ZXS3Z0RWlkTGI1bFJ5aThKNHZKbVE3MlpSLWFDTUlUb0lzRUMzc2dEcG45bzBRVzhFNk5fZVoxbnpTSGl2R0d0SHMxUzdPa09TbWRFbHZOUTFnMm5YbkswdnhyRmhJN1dUaC1BdU9oeVdrOXpSb3pKU1puU05GOVU4U3c5YUtuOHZlUTBOSE93b3dMQTNOMTQ?oc=5",
-   "o": "L'Opinion",
-   "ts": 1795101017.0,
-   "m": [
-    "Direction générale"
-   ],
-   "s": []
-  },
-  {
-   "t": "L'intelligence artificielle : la nouvelle alliée pour le magasinage de Noël - L'Étoile du Lac",
-   "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQWQ2SnZZWTV5OFdrdU1oa0FibEwzNFpBQzdpSTMwUWhuMnpHekpTN0paeEtsdTBPSTdROFlOYnpJZnN1UmlXVW1TRURtdWNVTmpvUVFLMWZ4TWhtdzZSV2dPTWhUcy1za19UWjQzYUpUNGtOWU9PNDh3ZFlRZDZPMVlLT1ZvZUZGUk1QS0VhTTZCY2FESURPdUdKUExNdVAyZEhkT2RRRV96OVFWMEQtYXBPMDBCOXBhdVRfU0JrelNQRWM?oc=5",
-   "o": "L'Étoile du Lac",
-   "ts": 1795100340.0,
-   "m": [
-    "Études de marché"
-   ],
-   "s": []
-  },
-  {
-   "t": "L’UE redirige 24 milliards pour gagner en autonomie en matière d’IA et de défense - Demócrata",
-   "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa0lvVlNRX3ZYTFE2Y1QwUkNjTTFEN3RiaE9jTHF0LWxRLWYwbElMc1I0S2ltOUFUMnJDakxQZTJvZnc2Y1ozRC1WU0hId2NWX1hRby1lS2ZWZHNLcmVVZHAtR3ZtX2VsQkhTeFVjekFkUXJuYVIwUkFjdWJzc2lVUWVjZVlzVWxMTkx4Y25IOTNSUWw1S2N3M19SYTU1ZEN2dmx5a1UxZ1BMaU05enI5eURCNHFENHpRQ3M4Q21UNG3SAcABQVVfeXFMTWtJb1ZTUV92WExRNmNUMFJDY00xRDd0YmhPY0xxdC1sUS1mMGxJTHNSNEtpbTlBVDJyQ2pMUGUyb2Z3NmNaM0QtVlNISHdjVl9YUW8tZUtmVmRzS3JlVWRwLUd2bV9lbEJIU3hVY3pBZFFybmFSMFJBY3Vic3NpVVFlY2VZc1VsTE5MeGNuSDkzUlFsNUtjdzNfUmE1NWRDdnZseWtVMWdQTGlNOXpyOXlEQjRxRDR6UUNzOENtVDRt?oc=5",
-   "o": "Demócrata",
-   "ts": 1795100093.0,
-   "m": [],
-   "s": [
-    "Énergie"
-   ]
-  },
-  {
-   "t": "Créatrice de l’intelligence artificielle Claude, la start-up Anthropic entre en Bourse avec une levée record dépassant SpaceX - Nice-Matin",
-   "u": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPV1VjRHVPT0hmZFB0dXJlY1Y3V05BZTdWRmpmUEV3elIwR2hUMThvMmJvS1NJeWRMTlRFUkNKS2RXSDZoS2NtRVYzaWszNzF4dHVUTndVUnRmeHVENTlscERZSFA1ZzBBLTVXeXc3X29sVEpONkVWTnRWbmJxbTUyajJZc1RhY1B6YUhrSUtqNmZ3V3hNZlBUVG04ZzJaYV9Yc0s2LTFvcFkwN1gyVllpdzdaT2ZsUGFWRG5uNDdmUmhwZVhReGxBRmZXbW5qOTdvTFdPcFlmek84ZzAwNjFjTVlNYVhjQ0dya1VvMkgtLWNHX2pZM01TNVBOMkE?oc=5",
-   "o": "Nice-Matin",
-   "ts": 1795099949.0,
-   "m": [
-    "Études de marché"
-   ],
-   "s": []
-  },
-  {
-   "t": "Voiture inondée dans le parking de la résidence : assurance auto ou copropriété, qui paie ? - Reda KOHEN",
-   "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbC0xU0tCSmU3TExkaHF5bktFUC1yN1kwVkF3VXE5R1B4eTJoWGJBbldPVG83R09teTN4S1g1eFV2VFJQNmtmTVRRSWl4Z08zX3hzZjB0MDB2QVdTazhXQXdjZXJfN1FuVjl2azVKXzhtZ0R4ZWtBQkNtaEMyOUR0OGZ6NGMyR1VBTlJ5Qk5aSTVGT0tpZXA4eVE5SXZVZ0otNXljY3ozYmFTc2o0VURR?oc=5",
-   "o": "Reda KOHEN",
-   "ts": 1795099080.0,
-   "m": [],
-   "s": [
-    "Automobile"
-   ]
-  },
-  {
-   "t": "Industrie de défense : Le Maroc affine sa stratégie de puissance - Perspectives Med",
-   "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTldFdVRZRTl2Q05HVGp2UzBzN1VKQmN1MkJMcEVILW9aV3VKZ1FaQUdXSWxHY2FyMDRVRHlId1oyZS1EcVRlSVdxNzlBWXhyQVR4RFJYeDNINW1xNW9fbHBtZE16ai1TUkd4aDlFY0lXdm5La2FSZ3JiNVVVc3ZtOHM5UjBYN3ZQWlhYdWx3bF9kT2tuLWc?oc=5",
-   "o": "Perspectives Med",
-   "ts": 1795097340.0,
-   "m": [],
-   "s": [
-    "Industrie"
-   ]
-  },
-  {
-   "t": "La commission des médias examine le fonctionnement des réseaux Internet illégaux - Daily Beirut",
-   "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWEJIRTU5WlRxMXBYVkM2TG5xNEtmWVVEU1prdl9IZC02UUtxWnRYRWV2bG93SHJsMWs0Q3Q5YkJNWklsOXRlNWJLVDhYMk8ybW93dGlxLVhkTHlfZ1YxVXJiOGNod2dVOHpfeDNmZFRxR21KUEUzQlZFWjJfMDRpT1VTb0kySExHMHc4bkptT1dYcjFXSmhJb2ZmSXJ6MWUzTlJ1SGpjMEdpLUN6U3IxLXB5YmRDSTlHVkw5NS0xbTM0V3c?oc=5",
-   "o": "Daily Beirut",
-   "ts": 1795097060.0,
-   "m": [],
-   "s": [
-    "Médias & télécoms"
-   ]
-  },
-  {
-   "t": "Tech - Sophia : Optivalue.ai a reçu le trophée Innovation Cyber des Trophées de la Cybersécurité 2026 - Petites Affiches",
-   "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeU9IN0IyajBzSmtUVE84U2s0aDlZYzliMERGSzNubExxV2xta09jclFSZjQ1QXBHdDVJMXhQLVBadURMM3dWY2tHUzJuV0t2cnUycVRXbWdDQURuNlFENjl5bm5jNnpQZlp2d0NjV05fdlVBN21PQ1kyQ2dfNm13TER5Ym85ZTczSWh2M25QMmstX0xYTzROdUFMOA?oc=5",
-   "o": "Petites Affiches",
-   "ts": 1795096822.0,
-   "m": [
-    "Innovation"
-   ],
-   "s": []
-  },
-  {
-   "t": "Marketing de l’IA en 2027 : les marques rivaliseront pour être choisies par les assistants IA - Unite.AI",
-   "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeGtKSDFESVNjekZmTTJjQ1YwNTdWS2FaNF9ZaXpraWRYamxaOXZsdTR4MVplWDdERDFxNlFfQUljcVJtUGNLVWVib1VyQUZjZ1ZnQVY5VmNEMFNaWnJRWDlhNWNZU1RSUl92Ym9SNWJtazQ2RmVIOWZSd2ZBdzlHY0ZQS1Z4bDFIbnllRWNPTnZWbE9LV1pkQ3duSQ?oc=5",
-   "o": "Unite.AI",
-   "ts": 1795096800.0,
-   "m": [
-    "Marketing"
-   ],
-   "s": []
-  },
-  {
-   "t": "",
-   "u": "https://mastodon.social/@eddieoz/117643452958758356",
-   "o": "Mastodon #IA",
-   "ts": 1795096633.0,
-   "m": [],
-   "s": []
-  },
-  {
-   "t": "La frontière qui fuit : pourquoi l’adoption de l’IA ne rattrape pas son progrès - DECIDEURS MAGAZINE",
-   "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNWd3VHJZRTJXWXdTWW9QLVowVml5dkV6TEpqUG5XQVFhdkNIb2Zjb3FQZmJkNm81UHVKSS1MeTFJS2tvbjBNUnpCb3QtekVwdlQ5NnpfLVpORExpRWg4c3J5ZjFxX1lNTXc4UWY1aEtmdXN0b0VDSUFsMFBZTzFQSGxOdXhBZUh3aGticEVha0dwQ0tlMFZPT2E3OVd4bGlDVE1yMm1XVzN3MTlQY2xvdEdxemN5V2xXQi1INXFxRXo3TEVtR0hqVkFkS3U3WE92UEdNR3d0cVM?oc=5",
-   "o": "DECIDEURS MAGAZINE",
-   "ts": 1795096294.0,
-   "m": [
-    "Marketing"
-   ],
-   "s": []
-  },
-  {
-   "t": "IA et ententes anticoncurrentielles - mesinfos",
-   "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX204WGpMOUJjVktPb3l6T3dsQzV3U21FTHhTdUt0V3prMEE5bjBFb205cnRpdm8wWGl6WmdPdFNQdUVGa0JTRm1JZlJmUHB4cG5nbFdCUUE1MDh5aGJVMEVWZ0s2RVBSTVRDZ1FmRG1oRlI3enBPWEh2ZFNLYjBvNXhrMjdpbXR1?oc=5",
-   "o": "mesinfos",
-   "ts": 1795096020.0,
-   "m": [
-    "Études de marché"
-   ],
-   "s": []
-  },
-  {
-   "t": "Anthropic entre en Bourse avec une levée record dépassant SpaceX - FashionNetwork France",
-   "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOEI0YmFSeEJITUZJbE16aXVDSjQxamFmV3NQVHBhZ1J1RXo1aTk0M2pSUXB1dXRBd0pReThOcU1VQklRbmlQOVJlZjhmLVlwQllBbmYzaDBtWUkzV253dlpFMWotTDAwN0o0cDl0YUdMX3JsZ0JvSHNNUkJxMEI4SGo4NUxNVHJrV1lqU0hHOTNiRjZnUGlObDFZYWJMTDJYSlBYUlNpekpvbWhGUDFYMmJR?oc=5",
-   "o": "FashionNetwork France",
-   "ts": 1795095393.0,
-   "m": [],
-   "s": [
-    "Retail & e-commerce"
-   ]
-  },
-  {
-   "t": "Generali a le vent en poupe - L'Agefi",
-   "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54LU04cEpLams2cURRd3FDM01DY3o3YVJUTTZNLWF5Tm9XLWJIam5JRmpBYm5NNkFBeWNiLV9ZX2JtbmpkSVVMN19UcU5mZ19VYkVWaUZaekVRODdYTlE2VzNiQWVEb0dmM3phUUtVM3RsaWI3ZTUyX3RB?oc=5",
-   "o": "L'Agefi",
-   "ts": 1795095000.0,
-   "m": [],
-   "s": [
-    "Banque & assurance"
-   ]
-  },
-  {
-   "t": "Data centers : la ruée vers l’IA augmente aussi les besoins en gaz et en charbon - L'Energeek",
-   "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTVpLRTVGbGsxNno0M2tYYzBqb2k4VmJYVlJ4WXYzWU1iNi1TUGF0T2w0WkVndjZybThIcmM2ZjV4NGxjamc5ZHFPX3BzazV4NlIwYkJtN3lSYnpaMDZVUFppa0o0Y3U0WTFZTUJsZ1Qxa3BQNW5LblF6OFpqUHVUU2psR3E?oc=5",
-   "o": "L'Energeek",
-   "ts": 1795095000.0,
-   "m": [],
-   "s": [
-    "Énergie"
-   ]
-  },
-  {
-   "t": "Avec la 5e édition de Génération Industrie, la CCI Hérault veut séduire la Gen Z - Actu.fr",
-   "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOY3pfdkdmeFpQWVdKSDBwM01YWjRmR3Y2eEJjeXVvMmk0Yjl0MXRtOU83VVNEUmUwSUxGSU12azFndUY5UHgxZXphdDdWUUowclc1V3c3RnlPRGt1dzRtdXFpUzl5bnl6U2lXRllIMnpueE9WWUt1MHdSa2RKeXNqVjFYOURpR0pIdFRKZTJDdXpVanhEYlpSSFl1c3NyQ0JxT1lwOUk3a3VjTTYxbHZWVlVvakk1Z2R1U2UtZUNrRmJzUUtESnFwa1hKM3luR2dUSURj?oc=5",
-   "o": "Actu.fr",
-   "ts": 1795094655.0,
-   "m": [],
-   "s": [
-    "Industrie"
-   ]
-  },
-  {
-   "t": "La Corée du Sud teste l'intelligence artificielle pour prévenir les accidents potentiels dans les bus. - Vietnam.vn",
-   "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNGttZ25iRThQd3YxN1d2LVhuNHo0TE43ZFdtYW84V19rRFcxRVFGanhFelVsMURCNUlDMklSRS1aMVRhMTRNZmg1OUxFSWxzODdDaVQ2bi1DTEJXMERZak8tem5QVmR2MlU0QmIwVkN1TjQxbS10MnhrVmRIREEyWnZWVmdrVWVDV0hLbA?oc=5",
-   "o": "Vietnam.vn",
-   "ts": 1795094221.0,
-   "m": [],
-   "s": [
-    "Industrie"
-   ]
-  },
-  {
-   "t": "L'Université de médecine et de pharmacie de Hô Chi Minh-Ville ambitionne de devenir une université de référence en sciences de la santé dans la région. - Vietnam.vn",
-   "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZDVIdXlBcXFYaWluemdSXzZNbWJiT05WTDZGYlBNekVSZ21DZGxzS3hVdmpaNEFuMWpqNGw2NjJpbzVua1B6QkpETmRrbGVZc1ZWc28yZW94WThPMG1hSDFQWm9KWVV3MGJ3QTVHTVIydVkyNzhUTkJsRHNBeTc1djlPS1dFMDFhRnItY3N1c2o2Z05EeEpQVlRlWTF3NWMxQkJNbm9FRDN4dmxqZUMydnl1T2h0TEU?oc=5",
-   "o": "Vietnam.vn",
-   "ts": 1795094083.0,
-   "m": [],
-   "s": [
-    "Santé & pharma"
-   ]
-  },
-  {
-   "t": "Malgré le ralentissement du marché régional, les consommateurs vietnamiens continuent d'acheter des smartphones de manière agressive. - Vietnam.vn",
-   "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObTVRZEd5ZlFBcDR6Tjh0aUk0UWRMaHVtSTcwdkNnOGdkSFBnTF9kVUNtcGFvY3g4MkdzUVpnOEpSYTdZX1l1dUdLZ0k3Tk1wRm5LTjBwUkd6RTVwS3dfU05OT2JhbXhFSTRRdm9vVnFGX2Q5S0xiRFYwR0o5Z2dtU0VkaUNvdVREV2VwY0FBczFONU84amJjUm93?oc=5",
-   "o": "Vietnam.vn",
-   "ts": 1795093585.0,
-   "m": [
-    "Études de marché"
-   ],
-   "s": []
-  },
-  {
-   "t": "Sécurité aérienne: les électroniciens marocains appellent à renforcer la prévention des risques techniques - Le360 - Le média des actualités du Maroc",
-   "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZDdvLUFxcGxLTWtneWNHQ3ZQblJpQTRlZVd0TV9TNFh4N0JjbGVrWEVWTmNNT25nY2FvZEZuQ2dkTEtPdGYyeU90TDhkR1A4dVhOSUh6dDdzNjNCbWVQOHh1aE5ET1Rsckd3RGR6WUtjVndpb0wzLXM1WjB5VmEyNDB1VGdTSXljay0tSGtnUHlzN05ITG9uMnBWbGhPMG5ORnd0MmdZSFdEang1TENqZmVsekI5WFhEdmU3QkhETnI2N0ozZjgzcTdURnFiS1lRN3BFVEVhR0duNDdQeFViTlZ5Sk8?oc=5",
-   "o": "Le360 - Le média des actualités du Maroc",
-   "ts": 1795093380.0,
-   "m": [],
-   "s": [
-    "Médias & télécoms"
-   ]
-  },
-  {
-   "t": "Droit à l'oubli assurance emprunteur : cancer guéri, grille AERAS et recours contre la surprime pour obtenir son prêt - Reda KOHEN",
-   "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORHpESWVYYi14a2lGUFpXeHNuemt4LWU3cVg4WTRValZXc0QxbFF4N0hjNUsyR0FoSDFRRXVhRlQyR2hWdkdtZlRKS2paTktnLWYzUmZ4cWZ4RGVQSXBUMkhnTC1RNGdyb2FkWmtKSXpoS1V1V2pha183TXpIeG1fdmgyYjNPbTlCMVhnR1RVLVEydlBNX1hqckNROWxBcmRkajFuSw?oc=5",
-   "o": "Reda KOHEN",
-   "ts": 1795093260.0,
-   "m": [],
-   "s": [
-    "Banque & assurance"
-   ]
-  },
-  {
-   "t": "NielsenIQ annonce la nomination de deux administrateurs, avec effet au 18 novembre 2026 - Zonebourse",
-   "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUzFWdDNqQzcxWFRlSUViWWlqMFd5eUZ4LVluWTd5WmZ5NV9lZ3Y3Nm5Lekx5TXVNejZfWFE3OHFlNTJtTlRKcGJha3lwbjVjX0k4bG12VUZVMFhqUmptVUtUM3VaTFVxZmstYUdvbmNfUkI3amt0V1VvV3hFYVZtb0Jic0RCQVNuQTFZOXFrOFFUZVIwSWxpT19yNFdkOG1ycXFVYkVYOFFMc1NqZHZBQmFocEtrakdMcmFYMFZWWUV0d2JPeFRRaVp5T0NVVF9yUXU3Mkw0TGNYMzBsTkdSNA?oc=5",
-   "o": "Zonebourse",
-   "ts": 1795092820.0,
-   "m": [
-    "Marketing"
-   ],
-   "s": []
-  },
-  {
-   "t": "L'Université de médecine et de pharmacie de Hô Chi Minh-Ville ambitionne de devenir une université de référence en sciences de la santé dans la région. - Vietnam.vn",
-   "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQT21KZjV2ZFlhUU5VOENXSk12WFNMVXpTR0xXZ29pNWN6b2FXdzVQUDZMUk9aanZMSmRaNWh5bjdJVXFtQjdEOG1LLVRaVDZsNFJBa2FSU0t6QU1JZS1ZdzUzRENzUnpZSFFydlZNdUVUdkxjOWMyTy1tZVAyTThsa2tmX0RuM3NwZVlkMlRNMnd3NDZLVVhsVmQ1Q09xS0l4SklBN0ZHVGI3Z0xu?oc=5",
-   "o": "Vietnam.vn",
-   "ts": 1795092489.0,
-   "m": [],
-   "s": [
-    "Santé & pharma"
-   ]
-  },
-  {
-   "t": "COP31 : pourquoi les ménages paient pour une transition qui n’arrive pas - Economie Matin",
-   "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TQlJFOTBEUmdUZnAxcXdUaG55bDU1WTktYkFqOHZFSml2TkZyN0czdW9RZEVCcEN6TzBIUVZOUjVBdXNoOUFIVnFhT2JZWDZjZGp3UnZ1eDhRY2xVeVZpY2JHQWdKVmdTUTJj?oc=5",
-   "o": "Economie Matin",
-   "ts": 1795091754.0,
-   "m": [],
-   "s": [
-    "Énergie"
-   ]
-  },
-  {
-   "t": "La maîtrise des technologies et l'application efficace de l'IA créent un avantage concurrentiel significatif à l'échelle mondiale. - Vietnam.vn",
-   "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMlM1ZjZyWnh5bTdlQkxKU05aOUZmNUFLWkdNRDY1c2NoYWJuV0htOXB6Ty1oaU5qZ3ptY2lMNjNsNW5ScmZvQy1WaHBURGUtZS1qWjB3RGJiUEJwWnd1WkZVWGROZDI1UE84NGsyUnpDeEQyYzFBdGM0WUtweS1LWEFiT0ozM01nU0VFeHZTSFk0UTdxbU5kb2s5MlBCbTdHOWVCOVFWT2RXZw?oc=5",
-   "o": "Vietnam.vn",
-   "ts": 1795091524.0,
-   "m": [
-    "Innovation"
-   ],
-   "s": []
-  },
-  {
-   "t": "L'IA contribue à augmenter la productivité de 31 %, mais les entreprises ne peuvent pas se reposer uniquement sur la technologie. - Vietnam.vn",
-   "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOR0tzcjByT0p2UUZHTVdiTVFId0JDSW1BU2RBWWh3WWRDOElUT3NBWGhJOGlINmZBekgtWkw4MHpJdS1uWUNwcldVT2I0anRMeWQ3UVhoQkpHNDhyZ2dzSV93dHlZekpLSjgycldGdF9YbngyMDZReVo2Z21sRmJBSnlrRFFOQmw2cGcwMThJWDZteDhZYjZfcDlLWS1vX1FmTXpvTA?oc=5",
-   "o": "Vietnam.vn",
-   "ts": 1795091522.0,
-   "m": [
-    "Études de marché"
-   ],
-   "s": []
-  },
-  {
-   "t": "La Banque Scotia remporte plusieurs prix de l'industrie pour ses innovations propulsées par l'IA - Les Affaires",
-   "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPak1iZUZ3Yl9DRTRCVEpOOHZGcWR0WDNsQ1ktVDNlZ2h5eGJSeHlGQm5XMGY1dExRZkZteFNXTXJRcmlzdU12ZUQ4SzRzX0VmR3NkdU1pQTFFVXdoNU5YZ3ZSU1dZZWR3OUtLMWxVWXVmMDc0QTZRTUhrNExnY1l0QjFXS09aNlA3eFpDeEJzV2pyekhnc19aMkRjUGRNU0hHcmd4YzAzWkZxQW51aGRrOEh2QUEtTC0tbDdNYmk0Z25HOHJWRGFady1uVy1mWmQ1Z21VMjM3MUllaDJB?oc=5",
-   "o": "Les Affaires",
-   "ts": 1795090314.0,
-   "m": [
-    "Innovation"
-   ],
-   "s": [
-    "Industrie"
-   ]
-  },
-  {
-   "t": "Zone euro: L'exposition des banques aux \"data centers\" est faible mais en forte croissance, selon Buch (BCE) - Boursorama",
-   "u": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOaDJHMHEyX0ljSmxDbVBwZlZkYTdQemRQTWpMYVVkQWVtV3UxTFptNmhDN3JMLS1wZ2wwNzlZQWFaNkJmSjV6bDVPLVpFZDFJUmRfS0xaYndRa2pFNklFcGU1bzZkOXRxT3BzZEsybm1CQVQtcU9ZMFQ1QWsyT01TVFN5MnBsWHhTWE5kcGxlcEd5NHkwS1FWUWEzTFRPcWU4TzZGWXJCTEVZZm9fRnlzOHJ5a1lEVWxKYzUwWGdGRHp3TUN2SkhKNFBkdGJIUTJDQXRyU0stRG1WOXM3TUhCVGxra21HMlktc2JLM1JheEdiSVpsWDZ0WnR0a3Q3T1EwRU1qdU1jYVdRQ19nN2lrSkl30gGSAkFVX3lxTE5oMkcwcTJfSWNKbENtUHBmVmRhN1B6ZFBNakxhVWRBZW1XdTFMWm02aEM3ckwtLXBnbDA3OVlBYVo2QmZKNXpsNU8tWkVkMUlSZF9LTFpid1FrakU2SUVwZTVvNmQ5dHFPcHNkSzJubUJBVC1xT1kwVDVBazJPTVNUU3kycGxYeFNYTmRwbGVwR3k0eTBLUVZRYTNMVE9xZThPNkZZckJMRVlmb19GeXM4cnlrWURVbEpjNTBYZ0ZEendNQ3ZKSEo0UGR0YkhRMkNBdHJTSy1EbVY5czdNSEJUbGtrbUcyWS1zYkszUmF4R2JJWmxYNnRadHRrdDdPUTBFTWp1TWNhV1FDX2c3aWtKSXc?oc=5",
-   "o": "Boursorama",
-   "ts": 1795089696.0,
-   "m": [],
-   "s": [
-    "Banque & assurance"
-   ]
-  },
-  {
-   "t": "Replay - France-Allemagne : le moteur européen face aux ruptures stratégiques - l'Institut français des relations internationales (IFRI)",
-   "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOalZLYno4X09VWmlEMlk5V3ZWcHdiT0lzM19LNjF3Y2lFQ083Z05pZ3BoOXdLbXNzUW54NWxhUDZPcHU3M192c2hMQndOemFZOHM3dmhYTVVhM24zeDF1U3BkcmxDTlR3TVo5T0FDYWpBSlJ0SXRFLWVJcEZraWwzNmppSkJ4a3kzanRxSTRFUDREckVHZWRJM1lQTkltTHVDTDhaMlZn?oc=5",
-   "o": "l'Institut français des relations internationales (IFRI)",
-   "ts": 1795089600.0,
-   "m": [
-    "Direction générale"
-   ],
-   "s": []
-  },
-  {
-   "t": "Collège d'industrie et de commerce du Vietnam central : Lier la formation technologique et les entreprises. - Vietnam.vn",
-   "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRUM0ZWlkRDc3cWJtN3BLUUlyNGtyMlpvMWxRU1NiNjVSbUZJQXBvSUEteTN0Z1ZiWG9ia0pPM2c2bjB2cTdiZXUwYTRfVG1NRjJOQTlnWktBNmlabWc5NE56eEJzeHBLRUs2aHF2eEp0b1lwZE1pYks2ZEFzMXFJSWN4eEhEWGVrMGV1MzBOWHhGUmtvbVFlMURIRQ?oc=5",
-   "o": "Vietnam.vn",
-   "ts": 1795089238.0,
-   "m": [],
-   "s": [
-    "Industrie"
-   ]
-  },
-  {
-   "t": "Volatilité de l'IA, infrastructure de centres de données et opportunité économique du Golfe - Actualités et statistiques - IndexBox",
-   "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOTdNb0czNThvYmFLbXRFWTIxRTlTaW93ZkswUTNBTDVqMm1BQVFMQkVQanREa0dHMkRPbW9WMENIRzhDUHdPcnI4NmE1Y1BUUmZiX1Q5b3lXNjBXTmpzTGphYlp5NzBsUWYtcEVvVHhKUDRpNDU1cVVNN0RQRnN0akcyMlVZX0U2MTFkemxUampYeHJOQTdn?oc=5",
-   "o": "IndexBox",
-   "ts": 1795089045.0,
-   "m": [
-    "Études de marché"
-   ],
-   "s": []
-  },
-  {
-   "t": "Les 10 plus grandes IPO depuis 2006 : Anthropic record ? - https://www.leconseilpatrimoine.fr/",
-   "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ21fQ3UyckwwN3k2YWszUEloMEdFTU5wNF9pYUpKb3FmZnRmd20wQV9Gb3hGMFNkak9BajdzNHp2UVA1OXl3cll6RU4zQmo2bXhKNHNCMTY5RDhHaFlQODlJaHEzM3FvdjdHMUltT09fYjlzTWdONGluNVdIVDJKOUJQck8yMndBSlI1QXpfSEZpRDhQN2tjRndRX3E3STNKYmdPcHhPdGpRNFZUZlA0T05TWHQwY19JanZwdw?oc=5",
-   "o": "https://www.leconseilpatrimoine.fr/",
-   "ts": 1795089020.0,
-   "m": [],
-   "s": [
-    "Banque & assurance"
-   ]
-  },
-  {
-   "t": "Réinventer les chaînes d’approvisionnement - Capgemini",
-   "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZzRlN1A0Tk1wbkIxRzdDd1pYVl9oZU1wSENBNlZ5SDBrNjl4QUR0THlwWkVqa1JWdFVvY1hRMlpvMWt0Ynp2Vl95MUYtMnhTM1pwUDFLclljMmlhTERYSXBBd2VTbXVLS3BTZkpEaTJJb1UwVHpmMXZ3anN5RHN6WVBhZnZoU3o1TXpWdFFxUjZlMEZMUlJFekYwSQ?oc=5",
-   "o": "Capgemini",
-   "ts": 1795088812.0,
-   "m": [
-    "Direction générale"
-   ],
-   "s": []
-  },
-  {
-   "t": "Tech for Retail 2026 dévoile ses Awards dédiés à l’innovation dans le commerce - J'aime les startups",
-   "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZmJUclpUNzVLTE1zbFQtMDBhYkNNUmY1Nlk0UUVNYmxwRUZSUlhteHktRkdBdUVkeHBzZ3FYUTFoNlR6czNxNUxDbjFFUkpEcWZ1S3hTMzBCQk1NYTJNekd0X3FMQ3hKcDlqcjd1U0J0OGpSZGUtQjBMOFZsUTlOWFZHSk1XSzRBcm1YbXBn?oc=5",
-   "o": "J'aime les startups",
-   "ts": 1795088351.0,
-   "m": [
-    "Innovation"
-   ],
-   "s": [
-    "Retail & e-commerce"
-   ]
-  },
-  {
-   "t": "Méthane : l'Europe s'accorde deux ans de répit au nom de la sécurité énergétique - Les Echos",
-   "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcXJxYXJTRVNPZTdtNHN2bl9WRWJJQjhna3YwbHVmUUxaUWdtVkhPa1V5dkwxZnYwb203QVZEOGwwMjRnNEs5SVBjaWdkS3lpR0tUWXBxcHVOMHRVTnZRYkxWNnplQ2kwcjhfaVRHSXhlc1RFQkItQnJ0THBBTVQ4S3k3dW9LTl9kQzFfcDBMOXpLY1l0UGt5TXNicG9KeWFrbkxoVmJzeFBGQXRRMUJiTFhDam1YT1o2TF9zXy1TRExFUjZodGdfWUFXUS1kUUg0cVhKa1E4QUR5X1B2amJhTWNFOA?oc=5",
-   "o": "Les Echos",
-   "ts": 1795088190.0,
-   "m": [],
-   "s": [
-    "Énergie"
-   ]
-  },
-  {
-   "t": "Nvidia bat des records : pourquoi l'action baisse malgré l'IA ? - Actu Crypto .info",
-   "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN1hPU294ZkRoMHNPa3dIZmxlY3EyYnNNNnhtNE9aUWVfTmNPV25ZOVFDWHRhMWVLTW0wTlNwem1oUndvVlR0MTFKamQwdEVVeUhhZEZsaU1DcFZfdHZmenM3UjZ5ZWl2QW1XbGhNVUxQMVBDd21BZERoVWVzMEhiT3dFSThZVzYwWUhyczFrMjdFNlZWRndBWlBfdVRMcHI0MXhv?oc=5",
-   "o": "Actu Crypto .info",
-   "ts": 1795088143.0,
-   "m": [],
-   "s": [
-    "Banque & assurance"
-   ]
-  },
-  {
-   "t": "L'IA - un système de soutien aux petites et moyennes entreprises à Phu Tho. - Vietnam.vn",
-   "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbzJibmUxRkh4QjdIWFdKZnYwcF9mcWhORXZrNHJuNUtKakM2UHhHODlMWDd3RnNRQmllZ19oWjYxTHlGVThJS0ZvNEdEZnQ1UXpCVDF2RHdaN01ZdU9wYXJOZTl4XzVWSzJDb0pTMTFBUEd1UnVKWlMxZktFYjRyZEhR?oc=5",
-   "o": "Vietnam.vn",
-   "ts": 1795088032.0,
-   "m": [
-    "Études de marché"
-   ],
-   "s": []
-  },
-  {
-   "t": "Global Industrie donne le coup d‘envoi de sa 9e édition - Mesures",
-   "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUjVoeC1lSUJOT2xCS0xLemZkTmJ1dUhoUjVVb3dHcUVQaGlid0VjMTB3a3EzOFN2LUo2ZjVpVi1OM0RBTm1LeWdISDJITW12ME5wY2ZCS0s1bVZjeExoYlpTMU1DN2twcHJ5RmFPeDZrTzhYVXRKZzFkTzJfQVdUaV9DOFl6SEN0MWFZcVA5S1RNMnJK?oc=5",
-   "o": "Mesures",
-   "ts": 1795087234.0,
-   "m": [],
-   "s": [
-    "Industrie"
-   ]
-  },
-  {
-   "t": "«25.000 offres en moins en 3 mois» : cette étude montre à quel point l'Intelligence artificielle bouleverse déjà le marché de l'emploi - CNews",
-   "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa2hMUXZUZFM2SnR3b3lOaTRoOWF1VTRrV3ZhaExjRTRRbVB6Ymt3bUMtQnVrSHdFeHg4YVBNQXQyY2NsMUlVRW5WS1J0LW44aW4zNjd1RUdRbFdLaF9ISGJabnNXS3FqazZkbmFYWWlPZm45MFJzeFp6UllMaVV2dUVIS0ExamJKaVFDSGJ3RFBBNlVNM0E5TUhYVHFKbzVheW9aMjNfUVVVS2lKQVVqdDVuaznSAboBQVVfeXFMT2NiZ0Q2RUdPd0xjbTVSZ0FSa1NIOTZyZC0yOXB2MVYxUXZZWExjSTU1ODhIOFF5dXhqTUR6WF9jR3BVaEtFTFJWTldFa2pEekE1M1EtUjZQQkhOUDhaOUtYNWJTNEdsMUpYWVdjdmlLc1Bab1luMTdEeGZYZXNwRnQycFNCYXN1cGlNVHhJVUVrLXRZWUgtM2Y3RFVITkR1dnVrZW03ZWZhQnNBVnJaZWtqbTNFV1k4ZVhB?oc=5",
-   "o": "CNews",
-   "ts": 1795086989.0,
-   "m": [
-    "Études de marché"
-   ],
-   "s": []
-  },
-  {
-   "t": "L'IA multipliera par 24 son marché d'ici 2040 mais le retour reste en suspens - Foro3D",
-   "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWHRrYm9Pdms0S2p0RktSQUdRUFpIcHAtMEtPNDZqSTFwcU9JVkkxa0ZTcWNWNUxaT1lRX0xXN3BkeEhRaGMwVFpDZ0lnZ1ozYXBoUDk3UjBKdllvUTBYNXVJVGN5Snp4NzZwa0FZdUZINEEwOGRpM0ZidU5fcksySV9mcDRLaWI5Z2ZHbGVwY3M2WjNmcmU4cWE5SHp4T2MzeUF5T1RQRWxFTk1DYmRlSQ?oc=5",
-   "o": "Foro3D",
-   "ts": 1795086945.0,
-   "m": [
-    "Études de marché"
-   ],
-   "s": []
-  },
-  {
-   "t": "OpenAI sous enquête judiciaire de l'Arizona suite à des infiltrations de banques par des agents IA - Cryptoast",
-   "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE12VTdwaW4xeDVacGM2R0h3TGJTLVZSNnZBWldUcHRITmlsdU8wc2pDUTdWQVdrNzZlSzBDSDlEV3NIMlJYUE1ndmNmYnNHd0Utc2xCY2Q0VHROc3JrVjlrSkJUQ3FSOEZSVXFXRlBjZVBEX25XZUI1eA?oc=5",
-   "o": "Cryptoast",
-   "ts": 1795086464.0,
-   "m": [],
-   "s": [
-    "Banque & assurance"
-   ]
-  },
-  {
-   "t": "Alibaba.com lance le « European SME Startup Pack » et rend Accio Sourcing Expert gratuit - Lelezard",
-   "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMkx5T1FvamJUeV9Zckt4Rm1ORVlGVzkzanRHa09sZFY0ZHhPMmNEblFfMVZLNWIwTTdtcV92VFIzRkZfazZFSm5yVUJDT0xRNk11UnFqVC05VDlNQklNNnl5T3hVaEx0MDFVVUx1dU9WRHB6VmozUzlkUDVtMENfcjZZOFRFMW00bUx0ZEdFMXM4bm9JTWJSV0F0WWE5NkVyeGdxd0g4ZUJQczZad09DaWp3QkZwM0t2RHR0WC1JM1NJRXJCeG9uWmVpWnh2NjQ?oc=5",
-   "o": "Lelezard",
-   "ts": 1795086370.0,
-   "m": [
-    "Études de marché"
-   ],
-   "s": []
-  },
-  {
-   "t": "Ils sont dépendants aux énergies fossiles, vont doubler leur capacité totale d'ici la fin de la décennie: comment les centres de données vont produire 70% d'émissions carbone en plus d'ici 2030 - BFM",
-   "u": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxNYkFzS0l6cGxUQ1FyaXFoYjRCRE41amNfTFowa1UzUDFDblhDVjZzajBKclR1M0EzajYzSGZqcDdZRDc4NXo5bjJkaG1JQ21FYW14VDR0N0ZiUFBPZFY1UU96bEZrZVR4YlM3dGJTNVpZclA5VUdwb1plTS1hR3VHd09kV3U5SXlUd0hPcl9TWGtNS3hJaUtNR2lYSmZ6cHNyVDZ4dlFTUFZ4bmxYSVlGU1JKMkZwNThsNG9nTS1nODFsMFVjR2NYY1U0cG1ERDZvNjhDb3I1RHRkWVJXRXpGWVJwSWl5djlzaENZbHZEbE9wUGVfLWJSV0RpVnBmSkR4clFwejJBYzhxbE40Z2RYQk50N0lDaW9mWjVoclJ3SVdoVnNPWkdJMHVad0xMdG9SN3ktZVk1bnJlZm9PYV9pVFpUWUpyM1ZXeE55TVVnU0kxOWN4VFdCNnd5VVBLaFVqOWxhZWphWnpoQTlDd21uMmJqUGRjZVJkVlg0Mg?oc=5",
-   "o": "BFM",
-   "ts": 1795086360.0,
-   "m": [],
-   "s": [
-    "Énergie"
-   ]
-  },
-  {
-   "t": "Google affirme que Gemini consomme très peu d’eau, mais la réalité est plus complexe - Clubic",
-   "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaWxFX3lpbFE4OHNRd3ZFaFRaLXlqS2VmbllDd1J3MUdlbmpacGNQXzdKRE95Q18yenlnXzZNWTJvczNNcDNRUi1zc1daSk5TaC1hd3B1SnJVQXZSd1JYMjZVS0NJT3ZXNjJfTlM3Z3cwZ0RoN0hSUzlycUtPMzdQQkltWnk1Q2RVUVlmNy1iZXFXUm50YTBIZjRqV1FKNVZ6UUQzZVdtem5ZQ0wxUnFLSk1QY21RM09ydVNEdElYRGxwUzZ0SDN3?oc=5",
-   "o": "Clubic",
-   "ts": 1795086360.0,
-   "m": [],
-   "s": [
-    "Énergie"
-   ]
-  },
-  {
-   "t": "Quand l'industrie fait sa révolution - Les Affiches de Grenoble et du Dauphiné",
-   "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAxb0tkaXVyVFplcWI3bHBmbm43WUc3MHpGa0tRUFFheUFyOHJSNTVaSlBYZC1MYk9pRVdNUDlCV2tQZVE0VFYxUmY0bFJiRVQ3MVBLUWsxUThhRHo0ZGlnREIydDhYelZURnVpRk5VdmJTcXRPMFVidQ?oc=5",
-   "o": "Les Affiches de Grenoble et du Dauphiné",
-   "ts": 1795086316.0,
-   "m": [],
-   "s": [
-    "Industrie"
-   ]
-  },
-  {
-   "t": "Hardis Supply Chain distingué pour ses capacités de gestion des flux omnicanaux et industriels - FAQ Logistique",
-   "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRW5oOHlJcEIxXzhoSm5iZTFfUDlKRTNQMU9OTkk3eWw2LWN0VEkzMWM4Nk1GTnlHd29mUG51aWZZQ01BY3VxUGhsaVhOWV9zM3lXZ2FxZ01ybFZ2N3F1R2J6ZG80ekJkdHFTdWRlamw1MF9tUkEwTldNeFkxWkVCeXN4ejVQdkV2cEhTRDNrS3NuWENDa2xWZVhtbVRudlFlb1RSQTU1NGVORDlOcko2M0xFb01ab3FGZDc2ajFkc19QbGhDeEw0?oc=5",
-   "o": "FAQ Logistique",
-   "ts": 1795086051.0,
-   "m": [],
-   "s": [
-    "Retail & e-commerce"
-   ]
-  },
-  {
-   "t": "L'expérience à l’international, un passage obligé de la formation en grande école - L'Etudiant",
-   "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbUI2b1VwUnRqazJFWjA2TkRpOVp6eVJVSDdDSnlFRTgtcU5NMC1pS0RRN25WczhMTFk4OE1tYkxQZ3VGOXRBYVhIckdhRHdGZWl0ejJpb1RYSGV6bTFjUVpGdERROUVWNG9qTVlXRHAxbnJMMlVfdm5JMGxDSmhLLWZnOHljTWdUT1pBQlV3YklGZDFPc3NtNF9xR2JSd2JxU3p1UU01RE9XT1ZGSDJ2Uy1IMHVqMHUxLXNtYnAxM1k0QTJFY0F0bTIyVQ?oc=5",
-   "o": "L'Etudiant",
-   "ts": 1795086000.0,
-   "m": [
-    "Études de marché"
-   ],
-   "s": []
-  },
-  {
-   "t": "Innovation technologique : Mauritius Telecom sacré aux «Africa Tech Festival Awards 2026» - lexpress.mu",
-   "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ1BqOGx0eTZLbnlDMzNUeHd6NVREWjJIb3ROalViR2dGQ0RvNHBSQVdWdUhRQzJ3RzhGS05HV2lkZENKQVZPaXhsQ1NRYnNYMUdXMlBIYmdDUWR0MG9oNG5EdGpoUl9VV1M5aTA3ck1wTXhLV3RFc0V1dGZ2QWtKOVJzaTFDU2xjTGhXcW5Mb3JmLVE?oc=5",
-   "o": "lexpress.mu",
-   "ts": 1795085479.0,
-   "m": [
-    "Innovation"
-   ],
-   "s": []
-  },
-  {
-   "t": "Africa Business School – UM6P et l’IAE Paris-Sorbonne renforcent leur partenariat - Aujourd'hui le Maroc",
-   "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZkRkWF9KN1Z6cVpwTEhuRWRJR05YZmFSWjNnelEtSEdsWXhyWEduZ2ZocGVhUVNkUU9yRzdXZURrNFYtSG04cmhUTUdHRFJnTDlYNWU0MkxiSHo0cEVDOTZESWxGWjhzQXdXMHdyMmpiUlpqSm5BRkIzOVBUYWtEWU5NS0NKZ21GNFpqTG5ISFVkVVEyZWZqcmVCbTRUQ2R3Wk1iMHYwVTJZWGxGUHc?oc=5",
-   "o": "Aujourd'hui le Maroc",
-   "ts": 1795084959.0,
-   "m": [
-    "Marketing"
-   ],
-   "s": []
-  },
-  {
-   "t": "Fournisseurs auto allemands se tournent vers les drones et la défense - Euronews.com",
-   "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeUo2U2ROaVM5R3ZPd1JzRGpjcWFuZkJZS296LXJ6b243YlhQS1JnZ1ktdGtPVmJ5Vi1uQ3dOeXFtTnZWbVZTS1VFOTBHZkhobHE0UDZzOFdLa3F6ZmhSbHE5N3FUblloeEpTVHFkWXoxWHVLb0ZtSnJWTnh3QUVNSUlacjVSTGhKR0YtclR0TWtlcEIxeU9aSWlnakpvRjA2M21RYmRFdw?oc=5",
-   "o": "Euronews.com",
-   "ts": 1795084886.0,
-   "m": [],
-   "s": [
-    "Automobile"
-   ]
-  },
-  {
-   "t": "Le vice-ministre de la Santé a adressé un message à l'Université de médecine et de pharmacie de Hô Chi Minh-Ville : La génération actuelle doit placer la barre plus haut. - Vietnam.vn",
-   "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX25yN2RsR3dOSXdpSkw3SkFzOTRyTGZuNFd1Mnpqd2pSc01LSkNjN0pFaU1sMnY5MVI3ci1Gdk1Ya0pVSUZmZENjVEg2UF9nazNXbHQ0YmF5RnBOQXdzNzRHajk4SnhMNU1Fd0ZrTm1IQXN5aDBoT2ZEaDFpRE01bVY5Vk9PNEN5dVdQN09jS29oSzN0NVlxSWdldXU3b0hQUEY0TTZUWQ?oc=5",
-   "o": "Vietnam.vn",
-   "ts": 1795084389.0,
-   "m": [],
-   "s": [
-    "Santé & pharma"
-   ]
-  },
-  {
-   "t": "Un “danger imminent” : Waymo suspend la circulation de ses taxis autonomes sur toutes les autoroutes après une interdiction de la Californie - L'Usine Digitale",
-   "u": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQaFpXV2hJT1h3cTZlamk5WXp1QUtCZEpkdHVtYml3MkU2VDVzVk5uYzlrOEdyajVhSjhSdVdUaHlpSEZhMUVBdXppMHhCU3dHc0RTcG5ZZERSUlRXTTJZeHZIZDlPaTg5T0dDYXhRR05raG91a1lKR1FYUVlCemxESHliekVzMDB0RThQaWJyajEtaHJGTjc1ckFXZEQyNlZES2tpdG83UkRiSHZnUnhFZUdpMXVYQWhvaU1SMG5kWTlRbXZvY0x3TEItWUR2OUVrUE80ZE9EUl81M2FLd0JWZmlvMDd4cjhpS2NiMzJHVHhpYXVBamRfTnEtc19VQTFTRUg2OE1LRnZHZEhwUEItTGoxS1hDcGg2cGowa0RKX0xHQlkxa0hBQ2g1alp3UFVtaEN4a09HdGxoMHd1STluRmhaUzNUWUJPQUR6R1hlM2ZQNURic0MxZDVsbFBsLVE?oc=5",
-   "o": "L'Usine Digitale",
-   "ts": 1795083792.0,
-   "m": [],
-   "s": [
-    "Automobile"
-   ]
-  },
-  {
-   "t": "Les centres de données américains consomment déjà autant d’électricité qu’un pays européen entier - Афинские Новости",
-   "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLTdQLXFXVWxYdVVQYnRQSS1iREd5V2t1V0tRa3RlMUlyWk9WSElVM2ZRSkpfa1BVR2ZoYjFySVQ2blVsUlV4ZjBtbXlzdTYwcVp3aUNtWWJMajNfbXF4TU5VNjNQY2p5eDhwQkE3Y25xMnpkVm8zWnYtNmlQM2VNU252djBxc29aVWRFY0RXTFRET21rR1pQU2RWZ2tKUVlYckdENW9zbFBvUURxWTdvcG0zenZtaUtTd19NSDVPeTc3Z0U?oc=5",
-   "o": "Афинские Новости",
-   "ts": 1795083606.0,
-   "m": [],
-   "s": [
-    "Énergie"
-   ]
-  },
-  {
-   "t": "Taux crédit immobilier novembre 2026 : BCE, réserves obligatoires, TPI, TAEG et refus de prêt - Reda KOHEN",
-   "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNV9oU2NjUExUSDZRT0ppSFBSQmVvMVlVdXZMQm5EWXJPWWVEOU9FcE5RRVBvWTgxWV80bUJDZ3ZyNDdWSWNzekF0a0RUTmpqeUxfLUw2LWlQLUh4LXRiUTZ6ZkZ6RGpwSVAtaWFBQl8xY05fT2dscU8zdDVaeTlSaVFpWGZSaVk2eDBBdDVpUTRVQnhvM2E2SWh5STRvZVVMckZYXzdEdkV0bFk1WHkxNjhMMUpXVnQzWUE?oc=5",
-   "o": "Reda KOHEN",
-   "ts": 1795083360.0,
-   "m": [],
-   "s": [
-    "Banque & assurance"
-   ]
-  },
-  {
-   "t": "L'industrie mondiale des cosmétiques vise un chiffre d'affaires de 767 milliards d'euros d'ici 2030. - Montenapo Daily",
-   "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQVJGNklXTWR2SGtxa2tXMm4tZ1VydjBFbjBtaFBrVVpTVzRwLXp5QUhHV2s5NlZGcWRrQ3NXeWZLQ29tRDYxbjhsREpFWllua2lzdV91dFh1dm1EempZT0c0RG4tY3RDcUxCZ3NaVEdrTUw2SklHd3BsQUxFUnYtZHFvMGFGQXJwb2hkcFBrbGVVRW84dDhVSXA0cDYwMVc3SW1yUGJkbUlsbHhzLVJWX25fLTBvVk11aVE?oc=5",
-   "o": "Montenapo Daily",
-   "ts": 1795083105.0,
-   "m": [],
-   "s": [
-    "Luxe & beauté"
-   ]
-  },
-  {
-   "t": "Volatilité des cours, conjoncture morose, dysfonctionnement de la collecte… Le recyclage français sur le qui-vive - Les Echos",
-   "u": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPM1N3WmZTNjZkSHJMd1VXYUxfVmdUeWZTQnVETEdXeVRsNmZMeTAwakZIcFJaTUZGS2NKTEd3eVoyckdzem5QaXRfNXZ4YTNramZRSjExU0lqem1va0tMUUJNY2dJN1g2WWdtVy0wSFFDeDNORTAtMzRQZmNWRGJEbHVkX0hyMU5nNzl4ZGlxSW9UN3ZSNnN0OC1iY2F3ek1hSTZYR0NaMVBuX1JVcHFsLTJfZ2lEZVFqQ1BKMTZueDdSVmJhQUU1LTJ2aHdnQ2Q3Q3o3a2Z2X2dzZGszY3d2QWlyQ2xROENsdmI4bkpvS25lZ2hiQUhtd0Q5MzVoUTZXSUdKX2VOMFh4VXVjOENpNg?oc=5",
-   "o": "Les Echos",
-   "ts": 1795082708.0,
-   "m": [],
-   "s": [
-    "Énergie"
-   ]
-  },
-  {
-   "t": "Xavier Niffle prend les rênes de la stratégie IA de KPMG en France - DECIDEURS MAGAZINE",
-   "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeE1rUGVlbUFyck42Q3F2OVJLVXZScTdxQ1BUWm1GUmo3eVZpUXVIMkhPVzluU3FnSllvSFNJQ2ZSc2xaR0tMa05vRTZ4ci1jQnd2bkhMTVM5NU14alBOVDBIUF9iUzZsLWRzbUxlRnRaQi1XNE42a21QRnJpOTk2dHI3MHRWcXVxSjRJVDh1NHlKNUc0bmZTZTBFMGxXN01BNUpCeEJUUnNFVnhoMjJNVDRLei1IYllseF9VcXQtVjZiSXdIVmxpb3pB?oc=5",
-   "o": "DECIDEURS MAGAZINE",
-   "ts": 1795082315.0,
-   "m": [
-    "Direction générale"
    ],
    "s": []
   }
